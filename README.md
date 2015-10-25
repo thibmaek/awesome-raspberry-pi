@@ -33,7 +33,7 @@
 * [MQTT community wiki](https://github.com/mqtt/mqtt.github.io/wiki)
 * [Google Groups: MQTT](https://groups.google.com/forum/#!forum/mqtt)
 * [IRC channel #mqtt on the freenode network](irc://irc.freenode.net/mqtt)
-
+* [A list of public brokers](http://moxd.io/2015/10/public-mqtt-brokers/)
 
 ## Broker
 
@@ -44,7 +44,6 @@
 * [Mosquitto](http://mosquitto.org/) - An Open Source MQTT Broker.
 * [VerneMQ](https://verne.mq/) - an Apache2 licensed distributed MQTT broker, developed in Erlang.
 
-* [A list of public brokers](http://moxd.io/2015/10/public-mqtt-brokers/)
 
 ## Tools
 
