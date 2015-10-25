@@ -1,0 +1,169 @@
+# Awesome MQTT 
+
+> A curated list of MQTT related stuff. 
+
+## Table of Contents
+
+- [Community Ressources](#community-ressources)
+- [Broker](#broker)
+- [Tools](#tools)
+- [Clients](#clients)
+- [Scripting](#scripting)
+- [Interfaces](#interfaces)
+    - [Makers](#makers)
+    - [Industry](#industry)
+    - [Telephony, PBX](#telephony-pbx)
+    - [Operating System](#operating-system)
+    - [Monitoring](#monitoring)
+    - [Location Tracking](#location-tracking)
+    - [Logging](#logging)
+    - [Smart Home, Building Automation](#smart-home-building-automation)
+    - [Smart Home Software](#smart-home-software)
+    - [Lighting](#lighting)
+    - [Home Entertainment](#home-entertainment)
+    - [Gadgets](#gadgets)
+    - [Smart Metering](#smart-metering)
+    - [Messaging](#messaging)
+    - [Visualization](#visualization)
+- [Architecture](#architecture)    
+
+## Community Ressources
+
+* [mqtt.org](http://mqtt.org/)
+* [MQTT community wiki](https://github.com/mqtt/mqtt.github.io/wiki)
+* [Google Groups: MQTT](https://groups.google.com/forum/#!forum/mqtt)
+* [IRC channel #mqtt on the freenode network](irc://irc.freenode.net/mqtt)
+
+
+## Broker
+
+* [eMQTT](http://emqtt.io/) - The Massively Scalable MQTT Broker written in Erlang/OTP
+* [HiveMQ](http://www.hivemq.com/) - Java based commercial MQTT Broker
+* [Moquette](https://github.com/andsel/moquette) - Java MQTT lightweight broker
+* [Mosca](http://www.mosca.io/) - Mosca is a node.js mqtt broker, which can be used Standalone or Embedded in another Node.js application
+* [Mosquitto](http://mosquitto.org/) - An Open Source MQTT Broker.
+* [VerneMQ](https://verne.mq/) - an Apache2 licensed distributed MQTT broker, developed in Erlang.
+
+* [A list of public brokers](http://moxd.io/2015/10/public-mqtt-brokers/)
+
+## Tools
+
+* [mqtt-admin](https://github.com/hobbyquaker/mqtt-admin) - Web based MQTT frontend. [Direct Link](https://hobbyquaker.github.io/mqtt-admin)
+* [mqtt-benchmark](https://github.com/chirino/mqtt-benchmark) - A benchmarking tool for MQTT Servers
+* [mqtt-fuzz](https://github.com/F-Secure/mqtt_fuzz) - A simple fuzzer for the MQTT protocol
+* [mqtt-spy](http://kamilfb.github.io/mqtt-spy/) - Java based MQTT frontend
+
+
+## Clients    
+
+* [MQTT.js](https://github.com/mqttjs) - MQTT client for Node.js
+* [Paho](http://www.eclipse.org/paho/) - open-source client implementations (C/C++, Java, Python, Javascript, Go, C#)
+* [pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT.
+* [ruby-mqtt](https://github.com/njh/ruby-mqtt) - Pure Ruby gem that implements the MQTT protocol
+* [emqttc](https://github.com/emqtt/emqttc) - Asynchronous Erlang MQTT Client
+
+## Scripting
+
+* [logic4mqtt](https://github.com/owagner/logic4mqtt) - Java based Logic and scripting engine for use with MQTT. Uses Java's general scripting interface, so scripts can be written in a multitude of languages like Javascript, Groovy etc.
+* [mqtt-scripts](https://github.com/hobbyquaker/mqtt-scripts) - Node.js based script runner. 
+* [Node-RED](http://nodered.org/) - A visual tool for wiring the Internet of Things.
+
+
+## Interfaces
+
+### Makers
+
+* [pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT.
+* [rpi2mqtt](https://github.com/hobbyquaker/rpi2mqtt) - Connect a RaspberryPis GPIOs and 1-Wire Temperature Sensors to MQTT.
+* [xbee2mqtt](https://github.com/xoseperez/xbee2mqtt) - XBee to MQTT gateway
+
+
+### Industry
+
+* [modbus2mqtt](https://github.com/owagner/modbus2mqtt) - Modbus master which publishes register values via MQTT.
+
+
+### Telephony, PBX
+
+* [agi-mqtt](https://github.com/zeha/agi-mqtt) - Interface between Asterisk and MQTT
+* [fritz2mqtt](https://github.com/akentner/fritz2mqtt) - Connect FRITZ!Box to MQTT
+
+
+### Operating System
+
+* [mqttwatchdir](https://github.com/jpmens/mqtt-watchdir) - Recursively watch a directory for modifications and publish file content to an MQTT broker
+* [mqttlauncher](https://github.com/jpmens/mqtt-launcher) - Execute shell commands triggered by published MQTT messages
+* [mqtt-os-status](https://github.com/oskarhagberg/mqtt-os-status) - Operating-system related data, published to an MQTT broker at fixed intervals.
+
+
+### Monitoring
+
+* [check-mqtt](https://github.com/jpmens/check-mqtt) - A Nagios/Icinga plugin for checking connectivity to an MQTT broker.
+* [notify-by-mqtt](https://github.com/jpmens/notify-by-mqtt) - a Nagios/Icinga notification module which wraps data into JSON and fires it off to an MQTT broker.
+
+
+### Location tracking
+
+* [Owntracks](http://owntracks.org/) - Location tracking and geofencing for MQTT.
+
+
+### Logging
+
+* [mqtt2graphite](https://github.com/jpmens/mqtt2graphite) - Subscribe to MQTT topics and push to Graphite's Carbon server
+* [influx4mqtt](https://github.com/hobbyquaker/influx4mqtt) - Subscribe to MQTT topics and insert into InfluxDB.
+
+
+### Smart Home, Building Automation
+
+* [cul2mqtt](https://github.com/hobbyquaker/cul2mqtt) - Interface between [Busware CUL](http://shop.busware.de/product_info.php/cPath/1/products_id/29) (868MHz RF-Devices like ELV FS20, HMS, EM, ...) and MQTT.
+* [eno2mqtt](https://github.com/owagner/eno2mqtt) - Interface between an Enocean USB300 (TCM310) adapter and MQTT.
+* [hm2mqtt](https://github.com/owagner/hm2mqtt) - Interface between EQ-3's Homematic line of smarthome devices and MQTT.
+* [knx2mqtt](https://github.com/owagner/knx2mqtt) - Interface between the KNX home automation standard and MQTT. 
+* [mqtt-dss-bridge](https://github.com/cgHome/mqtt-dss-bridge) - MQTT digitalSTROM-Server Bridge
+
+
+#### Smart Home Software
+
+* [fhem](http://fhem.de/) has a [MQTT module](http://fhem.de/commandref.html#MQTT) since V5.6 
+* [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - Interface between [HAP-NodeJS](https://github.com/KhaosT/HAP-NodeJS) and MQTT.
+* [ioBroker](https://github.com/ioBroker) has a [MQTT adapter](https://github.com/ioBroker/ioBroker.mqtt)
+* [openhab](https://github.com/openhab) has a [MQTT binding](https://github.com/openhab/openhab/wiki/MQTT-Binding)
+
+
+### Lighting
+
+* [hue2mqtt](https://github.com/owagner/hue2mqtt) - Interface between the Philips Hue bridge and MQTT.
+* [mqtt-dmx-sequencer](https://github.com/hobbyquaker/mqtt-dmx-sequencer) - Control DMX devices via Art-Net by MQTT.
+
+
+### Home Entertainment
+
+* [airtunes2mqtt](https://github.com/hobbyquaker/airtunes2mqtt) - MQTT controlled Multi-Room Audio with Airplay/Airtunes Devices.
+* [kodi2mqtt](https://github.com/owagner/kodi2mqtt) - Interface between a Kodi mediacenter instance and MQTT.
+* [onkyo2mqtt](https://github.com/owagner/onkyo2mqtt) - Interface between Onkyo AVR's EISCP network remote protocol and MQTT. Uses the onkyo-eiscp library.
+* [yamaha-avr2mqtt](https://github.com/akentner/yamaha-avr2mqtt) 
+
+### Gadgets
+
+* [flowerpower2mqtt](https://github.com/hobbyquaker/flowerpower2mqtt) - Publish measurements from [Parrot Flower Power](http://www.parrot.com/usa/products/flower-power/) plant sensors to MQTT.
+
+
+### Smart Metering
+
+* [bcontrol2mqtt](https://github.com/hobbyquaker/bcontrol2mqtt) - Publish measurements from [TQ Energy Manager](http://www.tq-group.com/produkte/produktdetail/prod/energy-manager/extb/Main/) to MQTT.
+
+
+### Messaging
+
+* [mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notifiy pluggable services.
+* [twitter-to-mqtt](https://github.com/knolleary/twitter-to-mqtt) - A python daemon that uses the Twitter Streaming API to access tweets and republishes them to an MQTT topic.
+
+
+### Visualization
+
+* [mqtt-panel](https://github.com/fabaff/mqtt-panel) - A web interface for MQTT.
+
+
+## Architecture
+
+* [mqtt-smarthome](https://github.com/mqtt-smarthome/mqtt-smarthome) - Smart home automation with MQTT as the central message bus - Architectural proposal
