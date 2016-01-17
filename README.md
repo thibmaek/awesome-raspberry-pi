@@ -2,10 +2,11 @@
 
 > A curated list of MQTT related stuff. 
 
+MQTT is a lightweight messaging protocol for small sensors and mobile devices, optimized for high-latency or unreliable networks.
 
 ## Table of Contents
 
-- [Community Ressources](#community-ressources)
+- [Community Resources](#community-resources)
 - [Broker](#broker)
 - [Tools](#tools)
 - [Clients](#clients)
@@ -30,7 +31,7 @@
 - [Architecture](#architecture)    
 
 
-### Community Ressources
+### Community Resources
 
 * [mqtt.org](http://mqtt.org/).
 * [MQTT community wiki](https://github.com/mqtt/mqtt.github.io/wiki).
