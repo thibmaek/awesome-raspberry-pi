@@ -48,6 +48,7 @@
 * [Mosquitto](http://mosquitto.org/) - "The" Open Source MQTT Broker.
 * [SurgeMQ](http://zhen.org/categories/surgemq/) - High Performance MQTT Server and Client Libraries in Go.
 * [VerneMQ](https://verne.mq/) - an Apache2 licensed distributed MQTT broker, developed in Erlang.
+* [RabbitMQ MQTT Adapter](https://www.rabbitmq.com/mqtt.html) - MQTT Adapter for RabbitMQ
 
 
 ### Tools
