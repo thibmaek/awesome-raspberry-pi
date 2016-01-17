@@ -21,7 +21,7 @@ MQTT is a lightweight messaging protocol for small sensors and mobile devices, o
     - [Logging](#logging)
     - [Smart Home, Building Automation](#smart-home-building-automation)
     - [Smart Home Software](#smart-home-software)
-    - [Tasker](#tasker)
+    - [Misc Software](#misc-software)
     - [Lighting](#lighting)
     - [Home Entertainment](#home-entertainment)
     - [Gadgets](#gadgets)
@@ -143,9 +143,10 @@ MQTT is a lightweight messaging protocol for small sensors and mobile devices, o
 * [openhab](https://github.com/openhab) has a [MQTT binding](https://github.com/openhab/openhab/wiki/MQTT-Binding).
 
 
-#### Tasker (Automation for Android)
+#### Misc Software
 
-* [MQTT Publisher Plugin](https://play.google.com/store/apps/details?id=net.nosybore.mqttpublishplugin)
+* Tasker (Automation for Android) [MQTT Publisher Plugin](https://play.google.com/store/apps/details?id=net.nosybore.mqttpublishplugin)
+
 
 #### Lighting
 
@@ -175,6 +176,7 @@ MQTT is a lightweight messaging protocol for small sensors and mobile devices, o
 
 #### Messaging
 
+* [mqtt-irc-bot](https://github.com/dobermai/mqtt-irc-bot) - A MQTT to IRC / IRC to MQTT bridge or bot.
 * [mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notifiy pluggable services.
 * [twitter-to-mqtt](https://github.com/knolleary/twitter-to-mqtt) - A python daemon that uses the Twitter Streaming API to access tweets and republishes them to an MQTT topic.
 
