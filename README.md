@@ -20,6 +20,7 @@
     - [Logging](#logging)
     - [Smart Home, Building Automation](#smart-home-building-automation)
     - [Smart Home Software](#smart-home-software)
+    - [Tasker](#tasker)
     - [Lighting](#lighting)
     - [Home Entertainment](#home-entertainment)
     - [Gadgets](#gadgets)
@@ -140,9 +141,9 @@
 * [openhab](https://github.com/openhab) has a [MQTT binding](https://github.com/openhab/openhab/wiki/MQTT-Binding).
 
 
-#### Misc Software
+#### Tasker (Automation for Android)
 
-* [Tasker MQTT Publisher Plugin](https://play.google.com/store/apps/details?id=net.nosybore.mqttpublishplugin)
+* [MQTT Publisher Plugin](https://play.google.com/store/apps/details?id=net.nosybore.mqttpublishplugin)
 
 #### Lighting
 
