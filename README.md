@@ -44,6 +44,7 @@ MQTT is a lightweight messaging protocol for small sensors and mobile devices, o
 ### Broker
 
 * [eMQTT](http://emqtt.io/) - The Massively Scalable MQTT Broker written in Erlang/OTP.
+* [hbmqtt](https://github.com/beerfactory/hbmqtt) - Python MQTT broker using asyncio.
 * [HiveMQ](http://www.hivemq.com/) - Java based commercial MQTT Broker.
 * [Moquette](https://github.com/andsel/moquette) - Java MQTT lightweight broker.
 * [Mosca](http://www.mosca.io/) - Mosca is a node.js mqtt broker, which can be used Standalone or Embedded in another Node.js application.
@@ -67,6 +68,7 @@ MQTT is a lightweight messaging protocol for small sensors and mobile devices, o
 
 * [CocoaMQTT](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X written with Swift.
 * [emqttc](https://github.com/emqtt/emqttc) - Asynchronous Erlang MQTT Client.
+* [hbmqtt](https://github.com/beerfactory/hbmqtt) - Python MQTT client using asyncio.
 * [MQTT-Client-Framework](https://github.com/ckrey/MQTT-Client-Framework) - iOS native ObjectiveC MQTT Framework.
 * [MQTTKit](https://github.com/mobile-web-messaging/MQTTKit) - MQTT Objective-C client for iOS.
 * [mqtt_lua](http://geekscape.github.com/mqtt_lua) - MQTT Client library for the Lua language.
