@@ -2,7 +2,7 @@
 
 > A curated list of MQTT related stuff. 
 
-MQTT is a lightweight messaging protocol for small sensors and mobile devices, optimized for high-latency or unreliable networks.
+MQTT is a lightweight client-server publish/subscribe messaging protocol, optimized for high-latency or unreliable networks. This protocol is a good choice for Internet of Things applications, Telemetry, Sensor Networks, Smart Metering, Home Automation, Messaging and Notfication Services.   
 
 ## Table of Contents
 
@@ -60,13 +60,15 @@ MQTT is a lightweight messaging protocol for small sensors and mobile devices, o
 * [mqtt-fuzz](https://github.com/F-Secure/mqtt_fuzz) - A simple fuzzer for the MQTT protocol.
 * [MQTT.fx](http://mqttfx.jfx4ee.org/) - MQTT.fx is a MQTT Client written in Java based on Eclipse Paho. Supports scripting.
 * [MQTTInspector](https://github.com/ckrey/MQTTInspector) - A general MQTT testing app for iOS (iPhone and iPad).
+* [mqtt-malaria](https://github.com/remakeelectric/mqtt-malaria) - scalability and load testing utilities for MQTT environments.
 * [mqtt-spy](http://kamilfb.github.io/mqtt-spy/) - Java based MQTT frontend. Supports scripting.
-
+* [mqtt-utils](https://github.com/dsell/mqtt-utils) - a collection of MQTT utilities.
 
 ### Clients
 
 * [CocoaMQTT](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X written with Swift.
 * [emqttc](https://github.com/emqtt/emqttc) - Asynchronous Erlang MQTT Client.
+* [Moscapsule](https://github.com/flightonary/Moscapsule) - MQTT Client for iOS written in Swift
 * [MQTT-Client-Framework](https://github.com/ckrey/MQTT-Client-Framework) - iOS native ObjectiveC MQTT Framework.
 * [MQTTKit](https://github.com/mobile-web-messaging/MQTTKit) - MQTT Objective-C client for iOS.
 * [mqtt_lua](http://geekscape.github.com/mqtt_lua) - MQTT Client library for the Lua language.
@@ -88,6 +90,7 @@ MQTT is a lightweight messaging protocol for small sensors and mobile devices, o
 #### Makers
 
 * [pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT.
+* [RFM69-MQTT-client](https://github.com/computourist/RFM69-MQTT-client) - Arduino RFM69 based sensors and MQTT gateway.
 * [rpi2mqtt](https://github.com/hobbyquaker/rpi2mqtt) - Connect a RaspberryPis GPIOs and 1-Wire Temperature Sensors to MQTT.
 * [xbee2mqtt](https://github.com/xoseperez/xbee2mqtt) - XBee to MQTT gateway.
 
@@ -95,6 +98,7 @@ MQTT is a lightweight messaging protocol for small sensors and mobile devices, o
 #### Industry
 
 * [modbus2mqtt](https://github.com/owagner/modbus2mqtt) - Modbus master which publishes register values via MQTT.
+* [mqtt2opcua](https://github.com/nzfarmer1/mqtt2opcua) - Bi Directional MQTT to OPCUA Bridge.
 
 
 #### Telephony, PBX
