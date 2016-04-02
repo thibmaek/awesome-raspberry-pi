@@ -52,7 +52,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [Mosca](http://www.mosca.io/) - Mosca is a node.js mqtt broker, which can be used Standalone or Embedded in another Node.js application.
 * [Mosquitto](http://mosquitto.org/) - "The" Open Source MQTT Broker.
 * [SurgeMQ](http://zhen.org/categories/surgemq/) - High Performance MQTT Server and Client Libraries in Go.
-* [VerneMQ](https://verne.mq/) - an Apache2 licensed distributed MQTT broker, developed in Erlang.
+* [VerneMQ](https://vernemq.com/) - an Apache2 licensed distributed MQTT broker, developed in Erlang.
 * [RabbitMQ MQTT Adapter](https://www.rabbitmq.com/mqtt.html) - MQTT Adapter for RabbitMQ
 
 
