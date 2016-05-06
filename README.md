@@ -201,6 +201,9 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 #### Visualization
 
 * [mqtt-panel](https://github.com/fabaff/mqtt-panel) - A web interface for MQTT.
+* [mqtt-svg-dash](https://github.com/jpmens/mqtt-svg-dash) - Subscribe to MQTT, extract JSON from a message and make lights blink on an SVG page.
+
+
 
 
 ### Architecture
