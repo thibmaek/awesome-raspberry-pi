@@ -203,8 +203,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [mqtt-panel](https://github.com/fabaff/mqtt-panel) - A web interface for MQTT.
 * [mqtt-svg-dash](https://github.com/jpmens/mqtt-svg-dash) - Subscribe to MQTT, extract JSON from a message and make lights blink on an SVG page.
 
-
-
+Other tools that can be used to create Visualization/Dashboards/UI-Editors can be found under [Smart Home Software](#smart-home-software) (i.e. ioBroker.vis, net-commander, ...)
 
 ### Architecture
 
