@@ -154,6 +154,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [fhem](http://fhem.de/fhem.html) has a [MQTT module](http://fhem.de/commandref.html#MQTT) since V5.6 .
 * [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - Interface between [HAP-NodeJS](https://github.com/KhaosT/HAP-NodeJS) and MQTT.
 * [ioBroker](https://github.com/ioBroker) has a [MQTT adapter](https://github.com/ioBroker/ioBroker.mqtt).
+* [Net-Commander](http://net-commander.com/) has built in MQTT connectivity.
 * [openhab](https://github.com/openhab) has a [MQTT binding](https://github.com/openhab/openhab/wiki/MQTT-Binding).
 
 
