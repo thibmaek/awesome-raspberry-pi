@@ -21,8 +21,8 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
     - [Monitoring](#monitoring)
     - [Location Tracking](#location-tracking)
     - [Logging](#logging)
-    - [Smart Home, Building Automation](#smart-home-building-automation)
-    - [Smart Home Software](#smart-home-software)
+    - [Smart Home Hardware Interfaces](#smart-home-hardware-interfaces)
+    - [Smart Home Integration Software](#smart-home-integration-software)
     - [Misc Software](#misc-software)
     - [Lighting](#lighting)
     - [Home Entertainment](#home-entertainment)
@@ -143,7 +143,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [influx4mqtt](https://github.com/hobbyquaker/influx4mqtt) - Subscribe to MQTT topics and insert into InfluxDB.
 
 
-#### Smart Home - Hardware Interfaces
+#### Smart Home Hardware Interfaces
 
 * [cul2mqtt](https://github.com/hobbyquaker/cul2mqtt) - Interface between [Busware CUL](http://shop.busware.de/product_info.php/cPath/1/products_id/29) (868MHz RF-Devices like ELV FS20, HMS, EM, ...) and MQTT.
 * [eno2mqtt](https://github.com/owagner/eno2mqtt) - Interface between an Enocean USB300 (TCM310) adapter and MQTT.
@@ -152,7 +152,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [mqtt-dss-bridge](https://github.com/cgHome/mqtt-dss-bridge) - MQTT digitalSTROM-Server Bridge.
 
 
-#### Smart Home - Integration Software
+#### Smart Home Integration Software
 
 * [FHEM](http://fhem.de/fhem.html) has a [MQTT module](http://fhem.de/commandref.html#MQTT) since V5.6.
 * [Home Assistant](https://home-assistant.io/) has a MQTT component.
