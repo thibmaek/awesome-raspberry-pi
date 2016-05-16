@@ -29,7 +29,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
     - [Gadgets](#gadgets)
     - [Smart Metering](#smart-metering)
     - [Messaging](#messaging)
-    - [Visualization, Dashboards](#visualization-dashboards)
+- [Visualization, Dashboards](#visualization-dashboards)
 - [Architecture](#architecture)    
 
 
@@ -215,7 +215,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [twitter-to-mqtt](https://github.com/knolleary/twitter-to-mqtt) - A python daemon that uses the Twitter Streaming API to access tweets and republishes them to an MQTT topic.
 
 
-#### Visualization, Dashboards
+### Visualization, Dashboards
 
 * [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED.
 * [mqtt-panel](https://github.com/fabaff/mqtt-panel) - A web interface for MQTT.
