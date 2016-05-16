@@ -40,7 +40,11 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [Google Groups: MQTT](https://groups.google.com/forum/#!forum/mqtt).
 * [IRC channel #mqtt on the freenode network](irc://irc.freenode.net/mqtt).
 * [A list of public brokers](http://moxd.io/2015/10/public-mqtt-brokers/).
+
+#### Blogs
+
 * [Forkbomb Blog (Dominik Obermaier)](http://forkbomb-blog.de/category/mqtt)
+* [Jan-Piet Mens](http://jpmens.net/)
 
 
 ### Broker
