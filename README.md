@@ -90,7 +90,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 ### Scripting
 
 * [logic4mqtt](https://github.com/owagner/logic4mqtt) - Java based Logic and scripting engine for use with MQTT. Uses Java's general scripting interface, so scripts can be written in a multitude of languages like Javascript, Groovy etc.
-* [mqtt-scripts](https://github.com/hobbyquaker/mqtt-scripts/) - Node.js based script runner. .
+* [mqtt-scripts](https://github.com/hobbyquaker/mqtt-scripts/) - Node.js based script runner.
 * [Node-RED](http://nodered.org/) - A visual tool for wiring the Internet of Things.
 
 
@@ -148,7 +148,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [cul2mqtt](https://github.com/hobbyquaker/cul2mqtt) - Interface between [Busware CUL](http://shop.busware.de/product_info.php/cPath/1/products_id/29) (868MHz RF-Devices like ELV FS20, HMS, EM, ...) and MQTT.
 * [eno2mqtt](https://github.com/owagner/eno2mqtt) - Interface between an Enocean USB300 (TCM310) adapter and MQTT.
 * [hm2mqtt](https://github.com/owagner/hm2mqtt) - Interface between EQ-3's Homematic line of smarthome devices and MQTT.
-* [knx2mqtt](https://github.com/owagner/knx2mqtt) - Interface between the KNX home automation standard and MQTT. .
+* [knx2mqtt](https://github.com/owagner/knx2mqtt) - Interface between the KNX home automation standard and MQTT.
 * [mqtt-dss-bridge](https://github.com/cgHome/mqtt-dss-bridge) - MQTT digitalSTROM-Server Bridge.
 
 
