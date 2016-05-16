@@ -43,8 +43,9 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 #### Blogs
 
-* [Forkbomb Blog (Dominik Obermaier)](http://forkbomb-blog.de/category/mqtt)
+* [Dominik Obermaier (Forkbomb Blog)](http://forkbomb-blog.de/category/mqtt)
 * [Jan-Piet Mens](http://jpmens.net/)
+* [Nick O'Leary](http://knolleary.net/)
 
 
 ### Broker
