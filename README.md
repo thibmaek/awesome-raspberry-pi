@@ -159,6 +159,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [ioBroker](https://github.com/ioBroker) has a [MQTT adapter](https://github.com/ioBroker/ioBroker.mqtt).
 * [Net-Commander](http://net-commander.com/) has built in MQTT connectivity.
 * [openHAB](https://github.com/openhab) has a [MQTT binding](https://github.com/openhab/openhab/wiki/MQTT-Binding).
+* [pimatic](https://pimatic.org/) has a MQTT plugin.
 
 
 #### Misc Software
