@@ -45,6 +45,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 ### Broker
 
+* [ActiveMQ] (http://activemq.apache.org/) - A fast Java multiprotocol messaging and Integration Patterns server.
 * [eMQTT](http://emqtt.io/) - The Massively Scalable MQTT Broker written in Erlang/OTP.
 * [hbmqtt](https://github.com/beerfactory/hbmqtt) - Python MQTT broker using asyncio.
 * [HiveMQ](http://www.hivemq.com/) - Java based commercial MQTT Broker.
