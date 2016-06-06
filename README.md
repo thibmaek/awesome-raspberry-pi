@@ -169,7 +169,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [Home Assistant](https://home-assistant.io/) has a MQTT component.
 * [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - Interface between [HAP-NodeJS](https://github.com/KhaosT/HAP-NodeJS) and MQTT. Control MQTT connected devices with Siri or HomeKit Apps.
 * [ioBroker](https://github.com/ioBroker) has a [MQTT adapter](https://github.com/ioBroker/ioBroker.mqtt).
-* [Net-Commander](http://net-commander.com/) has built in MQTT connectivity.
+* [Net-Commander](https://github.com/net-commander/windows-dist) has built in MQTT connectivity.
 * [openHAB](https://github.com/openhab) has a [MQTT binding](https://github.com/openhab/openhab/wiki/MQTT-Binding).
 * [pimatic](https://pimatic.org/) has a MQTT plugin.
 
