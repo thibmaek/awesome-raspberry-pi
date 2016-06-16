@@ -30,7 +30,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
     - [Smart Metering](#smart-metering)
     - [Messaging](#messaging)
 - [Visualization, Dashboards](#visualization-dashboards)
-- [Architecture](#architecture)    
+- [Architecture, Convention](#architecture-convention)    
 
 
 ### Community Resources
@@ -223,8 +223,9 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 Other tools that can be used to create Visualization/Dashboards can be found under [Smart Home Integration Software](#smart-home-integration-software)
 
-### Architecture
+### Architecture, Convention
 
+* [Homie](https://github.com/marvinroger/homie) - A lightweight MQTT convention for the IoT
 * [mqtt-smarthome](https://github.com/mqtt-smarthome/mqtt-smarthome) - Smart home automation with MQTT as the central message bus - Architectural proposal.
 
 
