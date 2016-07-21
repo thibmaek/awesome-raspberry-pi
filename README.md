@@ -74,6 +74,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [mqtt-spy](http://kamilfb.github.io/mqtt-spy/) - Java based MQTT frontend. Supports scripting.
 * [mqtt-utils](https://github.com/dsell/mqtt-utils) - a collection of MQTT utilities.
 * [Python MQTT Client Shell](https://github.com/bapowell/python-mqtt-client-shell) - a text console-based, interactive shell for exercising various tasks associated with MQTT client communications.
+* [imqtt](https://github.com/shafreeck/imqtt) - Iteractive MQTT packet manipulation shell based on IPython.
 
 ### Clients
 
