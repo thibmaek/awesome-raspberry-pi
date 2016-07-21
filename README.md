@@ -64,6 +64,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 ### Tools
 
+* [imqtt](https://github.com/shafreeck/imqtt) - Interactive MQTT packet manipulation shell based on IPython.
 * [mqtt-admin](https://github.com/hobbyquaker/mqtt-admin/) - Web based MQTT frontend. [Direct Link](https://hobbyquaker.github.io/mqtt-admin/).
 * [mqtt-benchmark](https://github.com/chirino/mqtt-benchmark) - A benchmarking tool for MQTT Servers.
 * [mqtt-fuzz](https://github.com/F-Secure/mqtt_fuzz) - A simple fuzzer for the MQTT protocol.
@@ -74,7 +75,6 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [mqtt-spy](http://kamilfb.github.io/mqtt-spy/) - Java based MQTT frontend. Supports scripting.
 * [mqtt-utils](https://github.com/dsell/mqtt-utils) - a collection of MQTT utilities.
 * [Python MQTT Client Shell](https://github.com/bapowell/python-mqtt-client-shell) - a text console-based, interactive shell for exercising various tasks associated with MQTT client communications.
-* [imqtt](https://github.com/shafreeck/imqtt) - Iteractive MQTT packet manipulation shell based on IPython.
 
 ### Clients
 
