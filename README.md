@@ -203,6 +203,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 #### Gadgets
 
+* [dashbutton2mqtt](https://github.com/hobbyquaker/dashbutton2mqtt) - Publish dash button presses to MQTT.
 * [flowerpower2mqtt](https://github.com/hobbyquaker/flowerpower2mqtt) - Publish measurements from [Parrot Flower Power](http://www.parrot.com/usa/products/flower-power/) plant sensors to MQTT.
 
 
