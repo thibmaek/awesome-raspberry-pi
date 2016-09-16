@@ -7,7 +7,7 @@ This list is a collection of tools, projects, images and resources conforming to
 Contributions *very welcome* but first see [Contributing](#contributing)
 
 # Contents
-* [OS Images](#os_images)
+* [OS Images](#os-images)
 * [Tools](#tools)
 * [Projects](#projects)
 * [Resources](#resources)
