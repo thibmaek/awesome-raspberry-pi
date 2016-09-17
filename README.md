@@ -26,14 +26,34 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [RuneAudio](http://www.runeaudio.com/) - A free and open source OS that turns embedded hardware into Hi-Fi music players.
 * [OpenELEC](http://openelec.tv/) - Open Embedded Linux Entertainment Center, a very lightweight Kodi build.
 * [HypriotOS](http://blog.hypriot.com/about/) - Minimal Debian-based operating system, optimized to run Docker.
+* [Kali Linux](https://www.offensive-security.com/kali-linux-arm-images/) - Penetration Testing & Ethical Hacking Linux distro for ARM devices.
+* [RetroPie](https://retropie.org.uk/) - Retro-gaming on the Raspberry Pi.
 
 # Tools
 * [PiBakery](http://www.pibakery.org/) - The blocks based, easy to use setup tool for Raspberry Pi.
 * [ApplePi Bakery](http://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) - A macOS application to easily  install/backup/restore images onto an SD card.
+* [Etcher](https://www.etcher.io/) - An SD card burner app that is simple for end users, extensible for developers, and works on any platform.
 
 # Projects
+* [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
+* [Build a $35 Time Capsule](https://raymii.org/s/articles/Build_a_35_dollar_Time_Capsule_-_Raspberry_Pi_Time_Machine.html) - Raspberry Pi Time Machine Backup Server.
+* [How To Make a Raspberry Pi Turn on a Lamp with iBeacon™ Technology](http://developer.radiusnetworks.com/2014/04/27/how-to-make-a-raspberry-pi-turn-on-a-lamp-with-an-ibeacon.html) - Good beginners-guide to working with Beacon technology.
+* [Power Sniffing Strip](https://gnurds.com/index.php/2012/10/02/raspberry-pi-power-strip/) - Enclosure in a power strip, sniffing network data.
+* [Raspberry Pi Erlang Cluster](https://medium.com/@pieterjan_m/erlang-pi2-arm-cluster-vs-xeon-vm-40871d35d356#.bpao66cm8) - Erlang cluster on a Raspberry Pi 2.
+* [A NTP driven Nixie Clock](http://www.mjoldfield.com/atelier/2012/08/ntp-nixie.html) - Nixie Tube Clock powered by a Raspberry Pi.
+* [40-node Raspberry Pi Cluster](http://hackaday.com/2014/02/17/40-node-raspi-cluster/) - Cluster aimed to be under the size of full tower desktop.
+* [Raspberry PI Hadoop Cluster](http://www.widriksson.com/raspberry-pi-hadoop-cluster/) - A Big Data cluster running on the Raspberry Pi.
+* [Multi-Datacenter Cassandra on 32 Raspberry Pi’s](http://www.datastax.com/dev/blog/32-node-raspberry-pi-cassandra-cluster) - Showcase for the always on, fault tolerant nature of Cassandra using a Raspberry Pi cluster board.
+* [Building a Ceph Cluster on Raspberry Pi](http://bryanapperson.com/blog/the-definitive-guide-ceph-cluster-on-raspberry-pi/) - A highly redundant and low power usage RADOS home storage solution.
 
 # Resources
+* [Bridging Wifi to the Raspberry Pi over Ethernet](https://blog.thibmaekelbergh.be/2015/02/16/bridging-wifi-to-the-raspberry-pi-over-ethernet.html) - Guide to tethered networking between macOS & Raspberry Pi.
+* [Raspberry Pi login with SSH keys](https://blog.thibmaekelbergh.be/2015/05/07/raspberry-pi-login-with-ssh-keys.html) - Password-less login for ssh sessions on the Raspberry Pi.
+* [How to setup a secure VPN server on Raspberry Pi or DigitalOcean](http://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/) - A simple and secure guide to setup VPN on your Raspberry Pi.
+* [Controlling Spotify with Slack and a Raspberry Pi](https://thesocietea.org/2016/03/controlling-spotify-with-slack-and-a-raspberry-pi/) - Node project to control Spotify & Slack with libspotify.
+* [Pi-hole](https://pi-hole.net/) - A black hole for internet ads.
+* [Limelight: Who needs a Steam machine when you have a pi?](https://www.raspberrypi.org/blog/limelight-who-needs-a-steam-machine-when-you-have-a-pi/) - Blogpost about the Nvidia in-house streaming service Limelight running on a Raspberry Pi.
+* [Planning lunch with a Slackbot on resin.io](https://resin.io/blog/planning-lunch-with-a-slackbot-on-resin-io/) - Nodejs Slackbot that runs on a Raspberry Pi hosted on Resin.
 
 ## Contributing
 Contribution guidelines can be found [here](/CONTRIBUTING.md)
