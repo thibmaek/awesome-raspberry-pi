@@ -6,3 +6,5 @@
 2. Add your item to the category it belongs to. Try to avoid creating completely new categories.
 3. Make sure your item is added to the bottom of the items listed in a category, don't add it in at the middle.
 4. Don't submit dead links and try to always submit HTTPS links.
+5. Make sure you're linking to an English resource, other languages not allowed *at this moment*
+6. If there is only support for some devices please mention that by using the [badges](/media/badges) provided.

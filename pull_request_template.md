@@ -5,7 +5,8 @@
 - The topic I added
 	- [ ] includes a valid (https) link,
 	- [ ] includes a concise and on-topic description,
-	- [ ] is a Markdown file,
+	- [ ] mentions if there is only support some devices,
 	- [ ] is not a duplicate,
-	- [ ] is written in English, 
-	- [ ] has been added at the bottom of the appropriate category.
+	- [ ] has been added at the bottom of the appropriate category,
+	- [ ] is in the form of **Named Link - Description, seperated by commas.**
+	- [ ] ends with a dot.
