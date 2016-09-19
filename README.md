@@ -31,7 +31,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi) - Security-oriented, lightweight Linux distribution based on musl libc and busybox.
 * [Arch Linux ARM](https://archlinuxarm.org/) - a lightweight and flexible Linux distribution that tries to Keep It Simple.
 * [Volumio](https://volumio.org/) - a headless audiophile music player, designed to play music with the highest possible fidelity.
-* [Recalbox](https://recalbox.com) - Lighter weight retro-gaming on the Raspberry Pi.
+* [Recalbox](https://www.recalbox.com) - Lighter weight retro-gaming and media center on the Raspberry Pi.
 * [Lakka](http://lakka.tv) - Retro-gaming on the Raspberry Pi built entirely on RetroArch.
 
 # Tools
