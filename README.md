@@ -15,7 +15,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [Resources](#resources)
 
 # OS Images
-* [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) - The official supported Raspberry Pi OS, based on Debian and available as a lite version. 
+* [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) - The official supported Raspberry Pi OS, based on Debian and available as a lite version.
 * [NOOBS](https://www.raspberrypi.org/downloads/noobs/) - New Out Of the Box Software, an easy OS installer for beginners.
 * [Ubuntu MATE](https://ubuntu-mate.org/raspberry-pi/) - Ubuntu distribution for the Raspberry Pi based on MATE desktop. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 * [Snappy Ubuntu Core](https://developer.ubuntu.com/en/snappy/start/raspberry-pi-2/) - Official (minimal) Ubuntu distribution for IoT. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
@@ -30,6 +30,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [RetroPie](https://retropie.org.uk/) - Retro-gaming on the Raspberry Pi.
 * [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi) - Security-oriented, lightweight Linux distribution based on musl libc and busybox.
 * [Arch Linux ARM](https://archlinuxarm.org/) - a lightweight and flexible Linux distribution that tries to Keep It Simple.
+* [Volumio](https://volumio.org/) - a headless audiophile music player, designed to play music with the highest possible fidelity.
 
 # Tools
 * [PiBakery](http://www.pibakery.org/) - The blocks based, easy to use setup tool for Raspberry Pi.
