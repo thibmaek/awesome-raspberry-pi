@@ -33,6 +33,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [Volumio](https://volumio.org/) - a headless audiophile music player, designed to play music with the highest possible fidelity.
 * [Recalbox](https://www.recalbox.com) - Lighter weight retro-gaming and media center on the Raspberry Pi.
 * [Lakka](http://lakka.tv) - Retro-gaming on the Raspberry Pi built entirely on RetroArch.
+* [RasPlex](http://www.rasplex.com/) - A Plex client for the Raspberry Pi.
 
 # Tools
 * [PiBakery](http://www.pibakery.org/) - The blocks based, easy to use setup tool for Raspberry Pi.
