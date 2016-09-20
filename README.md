@@ -62,7 +62,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [Pi-hole](https://pi-hole.net/) - A black hole for internet ads.
 * [Limelight: Who needs a Steam machine when you have a pi?](https://www.raspberrypi.org/blog/limelight-who-needs-a-steam-machine-when-you-have-a-pi/) - Blogpost about the Nvidia in-house streaming service Limelight running on a Raspberry Pi.
 * [Planning lunch with a Slackbot on resin.io](https://resin.io/blog/planning-lunch-with-a-slackbot-on-resin-io/) - Nodejs Slackbot that runs on a Raspberry Pi hosted on Resin.
-* [Raspberry@Home - Multiple tutorials and HowTos](https://raspberry-at-home.com) - Multiple RPi tutorials and HowTos
+* [Raspberry@Home - Multiple tutorials and HowTos](https://raspberry-at-home.com) - Multiple RPi tutorials and HowTo's.
 
 
 ## Contributing
