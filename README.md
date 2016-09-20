@@ -65,8 +65,8 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [Pi-hole](https://pi-hole.net/) - A black hole for internet ads.
 * [Limelight: Who needs a Steam machine when you have a pi?](https://www.raspberrypi.org/blog/limelight-who-needs-a-steam-machine-when-you-have-a-pi/) - Blogpost about the Nvidia in-house streaming service Limelight running on a Raspberry Pi.
 * [Planning lunch with a Slackbot on resin.io](https://resin.io/blog/planning-lunch-with-a-slackbot-on-resin-io/) - Nodejs Slackbot that runs on a Raspberry Pi hosted on Resin.
-* [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) - Tutorial on using a Raspberry Pi with multiple networks
-* [Raspberry Pi and why do I need one?](https://www.liquidlight.co.uk/blog/article/raspberry-pi-what-is-it-and-why-do-i-need-one/) - An intro into the Raspberry Pi	
+* [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) - Tutorial on using a Raspberry Pi with multiple networks.
+* [Raspberry Pi and why do I need one?](https://www.liquidlight.co.uk/blog/article/raspberry-pi-what-is-it-and-why-do-i-need-one/) - An intro into the Raspberry Pi and whaty can be done with it.
 
 ## Contributing
 Contribution guidelines can be found [here](/CONTRIBUTING.md)
