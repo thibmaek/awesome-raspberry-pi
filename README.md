@@ -51,6 +51,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [Raspberry PI Hadoop Cluster](http://www.widriksson.com/raspberry-pi-hadoop-cluster/) - A Big Data cluster running on the Raspberry Pi.
 * [Multi-Datacenter Cassandra on 32 Raspberry Pi’s](http://www.datastax.com/dev/blog/32-node-raspberry-pi-cassandra-cluster) - Showcase for the always on, fault tolerant nature of Cassandra using a Raspberry Pi cluster board.
 * [Building a Ceph Cluster on Raspberry Pi](http://bryanapperson.com/blog/the-definitive-guide-ceph-cluster-on-raspberry-pi/) - A highly redundant and low power usage RADOS home storage solution.
+* [Smart Mirror](https://github.com/evancohen/smart-mirror) - A voice controlled smart mirror with IoT integration. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 
 # Resources
 * [Bridging Wifi to the Raspberry Pi over Ethernet](https://blog.thibmaekelbergh.be/2015/02/16/bridging-wifi-to-the-raspberry-pi-over-ethernet.html) - Guide to tethered networking between macOS & Raspberry Pi.
