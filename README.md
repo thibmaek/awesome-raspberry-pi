@@ -58,6 +58,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [Door bot](https://blog.haschek.at/post/f31aa) - A Raspberry Pi powered door bot that senses when a door is opened and sends you chat messages.
 * [Chromebook Charger Kiosk](https://www.reddit.com/r/raspberry_pi/comments/53nj1z/chromebook_charger_kiosk_last_minute_charge_for/) - A timed charging station for students using Chromebooks at school.
 * [Jasper](https://jasperproject.github.io/) - A flexible open source personal assistant.
+* [Lightberry](https://lightberry.eu) - Led lighting solution dedicated for raspberry pi and your TV.
 
 # Resources
 * [Bridging Wifi to the Raspberry Pi over Ethernet](https://blog.thibmaekelbergh.be/2015/02/16/bridging-wifi-to-the-raspberry-pi-over-ethernet.html) - Guide to tethered networking between macOS & Raspberry Pi.
