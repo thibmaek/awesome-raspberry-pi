@@ -62,13 +62,13 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [Bridging Wifi to the Raspberry Pi over Ethernet](https://blog.thibmaekelbergh.be/2015/02/16/bridging-wifi-to-the-raspberry-pi-over-ethernet.html) - Guide to tethered networking between macOS & Raspberry Pi.
 * [Raspberry Pi login with SSH keys](https://blog.thibmaekelbergh.be/2015/05/07/raspberry-pi-login-with-ssh-keys.html) - Password-less login for ssh sessions on the Raspberry Pi.
 * [How to setup a secure VPN server on Raspberry Pi or DigitalOcean](http://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/) - A simple and secure guide to setup VPN on your Raspberry Pi.
-* [Controlling Spotify with Slack and a Raspberry Pi](https://thesocietea.org/2016/03/controlling-spotify-with-slack-and-a-raspberry-pi/) - Node project to control Spotify & Slack with libspotify.
+* [Controlling Spotify with Slack and a Raspberry Pi](https://thesocietea.org/2016/03/controlling-spotify-with-slack-and-a-raspberry-pi/) - Nodejs project to control Spotify & Slack with libspotify.
 * [Pi-hole](https://pi-hole.net/) - A black hole for internet ads.
 * [Limelight: Who needs a Steam machine when you have a pi?](https://www.raspberrypi.org/blog/limelight-who-needs-a-steam-machine-when-you-have-a-pi/) - Blogpost about the Nvidia in-house streaming service Limelight running on a Raspberry Pi.
 * [Planning lunch with a Slackbot on resin.io](https://resin.io/blog/planning-lunch-with-a-slackbot-on-resin-io/) - Nodejs Slackbot that runs on a Raspberry Pi hosted on Resin.
 * [Raspberry Pi Zero: Programming over USB](http://blog.gbaman.info/?p=791) - A guide to boot and access a Raspberry Pi Zero over a USB cable without need of an ethernet/wifi connection, keyboard or screen.
 * [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) - Tutorial on using a Raspberry Pi with multiple networks.
-* [Raspberry Pi and why do I need one?](https://www.liquidlight.co.uk/blog/article/raspberry-pi-what-is-it-and-why-do-i-need-one/) - An intro into the Raspberry Pi and whaty can be done with it.
+* [Raspberry Pi and why do I need one?](https://www.liquidlight.co.uk/blog/article/raspberry-pi-what-is-it-and-why-do-i-need-one/) - An intro into the Raspberry Pi and what can be done with it.
 
 ## Contributing
 Contribution guidelines can be found [here](/CONTRIBUTING.md)
