@@ -39,6 +39,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [ApplePi Bakery](http://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) - A macOS application to easily  install/backup/restore images onto an SD card.
 * [Etcher](https://www.etcher.io/) - An SD card burner app that is simple for end users, extensible for developers, and works on any platform.
 * [PiShrink](https://github.com/Drewsif/PiShrink/) - A bash script that automatically shrinks a pi image that will then resize to the max size of the SD card on boot.
+* [OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - Shell script to set up Raspberry Pi as an OpenVPN server.
 
 # Projects
 * [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
@@ -54,7 +55,6 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [Smart Mirror](https://github.com/evancohen/smart-mirror) - A voice controlled smart mirror with IoT integration. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 * [Magic Mirror](http://magicmirror.builders) - The original open source modular smart mirror platform. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 * [Door bot](https://blog.haschek.at/post/f31aa) - A Raspberry Pi powered door bot that senses when a door is opened and sends you chat messages.
-* [OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - Shell script to set up Raspberry Pi as an OpenVPN server.
 
 # Resources
 * [Bridging Wifi to the Raspberry Pi over Ethernet](https://blog.thibmaekelbergh.be/2015/02/16/bridging-wifi-to-the-raspberry-pi-over-ethernet.html) - Guide to tethered networking between macOS & Raspberry Pi.
