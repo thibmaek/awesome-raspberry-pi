@@ -55,6 +55,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [Smart Mirror](https://github.com/evancohen/smart-mirror) - A voice controlled smart mirror with IoT integration. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 * [Magic Mirror](http://magicmirror.builders) - The original open source modular smart mirror platform. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 * [Door bot](https://blog.haschek.at/post/f31aa) - A Raspberry Pi powered door bot that senses when a door is opened and sends you chat messages.
+* [Chromebook Charger Kiosk](https://www.reddit.com/r/raspberry_pi/comments/53nj1z/chromebook_charger_kiosk_last_minute_charge_for/) - A timed charging station for students using Chromebooks at school.
 
 # Resources
 * [Bridging Wifi to the Raspberry Pi over Ethernet](https://blog.thibmaekelbergh.be/2015/02/16/bridging-wifi-to-the-raspberry-pi-over-ethernet.html) - Guide to tethered networking between macOS & Raspberry Pi.
