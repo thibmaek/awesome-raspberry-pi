@@ -4,7 +4,7 @@
 
 > The Raspberry Pi is a series of credit card-sized single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and developing countries. Official Link: [Raspberry Pi Homepage](https://raspberrypi.org)
 
-This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifestio](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
+This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 
 Contributions *very welcome* but first see [Contributing](#contributing)
 
