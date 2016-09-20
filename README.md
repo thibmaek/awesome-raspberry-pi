@@ -38,6 +38,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [PiBakery](http://www.pibakery.org/) - The blocks based, easy to use setup tool for Raspberry Pi.
 * [ApplePi Bakery](http://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) - A macOS application to easily  install/backup/restore images onto an SD card.
 * [Etcher](https://www.etcher.io/) - An SD card burner app that is simple for end users, extensible for developers, and works on any platform.
+* [PiShrink](https://github.com/Drewsif/PiShrink/) - A bash script that automatically shrinks a pi image that will then resize to the max size of the SD card on boot.
 
 # Projects
 * [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
