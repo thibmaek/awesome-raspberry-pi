@@ -1,4 +1,4 @@
-# Awesome Raspberry Pi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# Awesome Raspberry Pi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <a href="https://www.raspberrypi.org"><img src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png" alt="Raspberry Pi Logo" align="left" style="margin-right: 25px" height=150></a>
 
@@ -42,6 +42,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [Etcher](https://www.etcher.io/) - An SD card burner app that is simple for end users, extensible for developers, and works on any platform.
 * [PiShrink](https://github.com/Drewsif/PiShrink/) - A bash script that automatically shrinks a pi image that will then resize to the max size of the SD card on boot.
 * [OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - Shell script to set up Raspberry Pi as an OpenVPN server.
+* [pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc.
 
 # Projects
 * [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
