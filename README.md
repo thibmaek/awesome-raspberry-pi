@@ -34,6 +34,8 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [Recalbox](https://www.recalbox.com) - Lighter weight retro-gaming and media center on the Raspberry Pi.
 * [Lakka](http://lakka.tv) - Retro-gaming on the Raspberry Pi built entirely on RetroArch.
 * [RasPlex](http://www.rasplex.com/) - A Plex client for the Raspberry Pi.
+* [pipaOS](http://pipaos.mitako.eu/) - A compact Raspian based distribution for the Raspberry Pi board computer.
+* [KivyPie](http://kivypie.mitako.eu/) - Image with preinstalled Kivy NUI framework. Based on [pipaOS](http://pipaos.mitako.eu/).
 
 # Tools
 * [PiBakery](http://www.pibakery.org/) - The blocks based, easy to use setup tool for Raspberry Pi.
