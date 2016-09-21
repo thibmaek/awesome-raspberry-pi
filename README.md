@@ -1,4 +1,4 @@
-# Awesome Raspberry Pi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# Awesome Raspberry Pi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <a href="https://www.raspberrypi.org"><img src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png" alt="Raspberry Pi Logo" align="left" style="margin-right: 25px" height=150></a>
 
@@ -60,6 +60,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [Chromebook Charger Kiosk](https://www.reddit.com/r/raspberry_pi/comments/53nj1z/chromebook_charger_kiosk_last_minute_charge_for/) - A timed charging station for students using Chromebooks at school.
 * [Jasper](https://jasperproject.github.io/) - A flexible open source personal assistant.
 * [Lightberry](https://lightberry.eu) - Led lighting solution dedicated for raspberry pi and your TV.
+* [PiClock](https://github.com/n0bel/PiClock) - A Fancy Clock built around a monitor and a Raspberry Pi.
 
 # Resources
 * [Bridging Wifi to the Raspberry Pi over Ethernet](https://blog.thibmaekelbergh.be/2015/02/16/bridging-wifi-to-the-raspberry-pi-over-ethernet.html) - Guide to tethered networking between macOS & Raspberry Pi.
