@@ -64,6 +64,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [SecPi](https://github.com/SecPi/SecPi) - A Raspberry Pi based home alarm system.
 * [PiClock](https://github.com/n0bel/PiClock) - A Fancy Clock built around a monitor and a Raspberry Pi.
 * [Garage Door Opener](https://github.com/benjefferies/gogo-garage-opener) - A Raspberry Pi garage door opener using [Garage Opener](https://play.google.com/store/apps/details?id=com.ionicframework.gogogarageopenerui416115&hl=en) app to control garage door.
+* [SkyJack](https://samy.pl/skyjack/) - A tool that takes over and allows full control over any Parrot AR Drones within wireless distance.
 
 # Resources
 * [Bridging Wifi to the Raspberry Pi over Ethernet](https://blog.thibmaekelbergh.be/2015/02/16/bridging-wifi-to-the-raspberry-pi-over-ethernet.html) - Guide to tethered networking between macOS & Raspberry Pi.
