@@ -69,7 +69,8 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [Garage Door Opener](https://github.com/benjefferies/gogo-garage-opener) - A Raspberry Pi garage door opener using [Garage Opener](https://play.google.com/store/apps/details?id=com.ionicframework.gogogarageopenerui416115&hl=en) app to control garage door.
 * [Movel](https://github.com/stevelacy/movel) - A Raspberry Pi car computer.
 * [PiFanTuner](https://github.com/winkidney/PIFanTuner) - A Raspberry Pi CPU-fan-tuner daemon, just enables your fan as necessary. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
-
+* [Raspberry Weather](www.raspberryweather.com) - Step by step tutorial for creating your own Raspberry Pi weather station.
+* 
 # Resources
 * [Bridging Wifi to the Raspberry Pi over Ethernet](https://blog.thibmaekelbergh.be/2015/02/16/bridging-wifi-to-the-raspberry-pi-over-ethernet.html) - Guide to tethered networking between macOS & Raspberry Pi.
 * [Raspberry Pi login with SSH keys](https://blog.thibmaekelbergh.be/2015/05/07/raspberry-pi-login-with-ssh-keys.html) - Password-less login for ssh sessions on the Raspberry Pi.
