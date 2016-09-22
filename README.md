@@ -76,7 +76,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [How to setup a secure VPN server on Raspberry Pi or DigitalOcean](http://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/) - A simple and secure guide to setup VPN on your Raspberry Pi.
 * [Controlling Spotify with Slack and a Raspberry Pi](https://thesocietea.org/2016/03/controlling-spotify-with-slack-and-a-raspberry-pi/) - Nodejs project to control Spotify & Slack with libspotify.
 * [Pi-hole](https://pi-hole.net/) - A black hole for internet ads.
-* [Limelight: Who needs a Steam machine when you have a pi?](https://www.raspberrypi.org/blog/limelight-who-needs-a-steam-machine-when-you-have-a-pi/) - Blogpost about the Nvidia in-house streaming service Limelight running on a Raspberry Pi.
+* [Moonlight](https://github.com/irtimmer/moonlight-embedded) - Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi.
 * [Planning lunch with a Slackbot on resin.io](https://resin.io/blog/planning-lunch-with-a-slackbot-on-resin-io/) - Nodejs Slackbot that runs on a Raspberry Pi hosted on Resin.
 * [Raspberry Pi Zero: Programming over USB](http://blog.gbaman.info/?p=791) - A guide to boot and access a Raspberry Pi Zero over a USB cable without need of an ethernet/wifi connection, keyboard or screen. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 * [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) - Tutorial on using a Raspberry Pi with multiple networks.
