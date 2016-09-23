@@ -37,6 +37,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [chilipie-kiosk](https://github.com/futurice/chilipie-kiosk) - Image which boots directly into full-screen Chrome, perfect for dashboards and build monitors. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 * [DietPi](https://github.com/Fourdee/DietPi) - Mimimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
 * [CentOS](https://wiki.centos.org/SpecialInterestGroup/AltArch/Arm32/RaspberryPi3) - CentOS on the Raspberry Pi. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
+* [Minibian](https://minibianpi.wordpress.com/) - Minimal Raspbian (lighter than Jessie Lite).
 
 # Tools
 * [PiBakery](http://www.pibakery.org/) - The blocks based, easy to use setup tool for Raspberry Pi.
@@ -82,6 +83,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [Raspberry Pi Zero: Programming over USB](http://blog.gbaman.info/?p=791) - A guide to boot and access a Raspberry Pi Zero over a USB cable without need of an ethernet/wifi connection, keyboard or screen. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 * [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) - Tutorial on using a Raspberry Pi with multiple networks.
 * [Raspberry Pi and why do I need one?](https://www.liquidlight.co.uk/blog/article/raspberry-pi-what-is-it-and-why-do-i-need-one/) - An intro into the Raspberry Pi and what can be done with it.
+* [Raspberry Pi Media Server Guides](http://www.htpcguides.com/category/raspberry-pi/) - Media Server and NAS tutorials from HTPC Guides.
 
 ## Contributing
 Contribution guidelines can be found [here](/CONTRIBUTING.md)
