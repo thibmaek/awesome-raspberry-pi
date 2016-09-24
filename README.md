@@ -38,6 +38,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [DietPi](https://github.com/Fourdee/DietPi) - Mimimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
 * [CentOS](https://wiki.centos.org/SpecialInterestGroup/AltArch/Arm32/RaspberryPi3) - CentOS on the Raspberry Pi. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 * [Minibian](https://minibianpi.wordpress.com/) - Minimal Raspbian (lighter than Jessie Lite).
+* [BerryBoot](http://www.berryterminal.com/doku.php/berryboot) - Bootloader / universal operating system installer, with support to VNC and HDMI-CEC.
 
 # Tools
 * [PiBakery](http://www.pibakery.org/) - The blocks based, easy to use setup tool for Raspberry Pi.
