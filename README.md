@@ -85,6 +85,8 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) - Tutorial on using a Raspberry Pi with multiple networks.
 * [Raspberry Pi and why do I need one?](https://www.liquidlight.co.uk/blog/article/raspberry-pi-what-is-it-and-why-do-i-need-one/) - An intro into the Raspberry Pi and what can be done with it.
 * [Raspberry Pi Media Server Guides](http://www.htpcguides.com/category/raspberry-pi/) - Media Server and NAS tutorials from HTPC Guides.
+* [10 Ways To Power](https://raspberrypi.about.com/od/Power/tp/10-Ways-to-Power-your-Raspberry-Pi.htm) - Information about different & correct ways to power the pi.
+* [Turn the Raspberry Pi Zero into a mini dongle computer](http://n-o-d-e.net/post/150780207431/turn-the-raspberry-pi-zero-into-a-mini-dongle) - Guide to setup a pi0 to be able to ssh & vnc over USB. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 
 ## Contributing
 Contribution guidelines can be found [here](/CONTRIBUTING.md)
