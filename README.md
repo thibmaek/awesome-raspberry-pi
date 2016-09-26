@@ -39,6 +39,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [CentOS](https://wiki.centos.org/SpecialInterestGroup/AltArch/Arm32/RaspberryPi3) - CentOS on the Raspberry Pi. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 * [Minibian](https://minibianpi.wordpress.com/) - Minimal Raspbian (lighter than Jessie Lite).
 * [BerryBoot](http://www.berryterminal.com/doku.php/berryboot) - Bootloader / universal operating system installer, with support to VNC and HDMI-CEC.
+* [PirateBox](https://piratebox.cc/raspberry_pi:diy) - An anonymous offline mobile file-sharing and communications system.
 
 # Tools
 * [PiBakery](http://www.pibakery.org/) - The blocks based, easy to use setup tool for Raspberry Pi.
@@ -73,6 +74,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [PiFanTuner](https://github.com/winkidney/PIFanTuner) - A Raspberry Pi CPU-fan-tuner daemon, just enables your fan as necessary. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 * [SkyJack](https://samy.pl/skyjack/) - A tool that takes over and allows full control over any Parrot AR Drones within wireless distance.
 * [Nerves Project](https://github.com/nerves-project) - Craft and deploy bulletproof embedded software in Elixir.
+* [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
 
 # Resources
 * [Bridging Wifi to the Raspberry Pi over Ethernet](https://blog.thibmaekelbergh.be/2015/02/16/bridging-wifi-to-the-raspberry-pi-over-ethernet.html) - Guide to tethered networking between macOS & Raspberry Pi.
