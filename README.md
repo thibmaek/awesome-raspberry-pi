@@ -39,6 +39,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [CentOS](https://wiki.centos.org/SpecialInterestGroup/AltArch/Arm32/RaspberryPi3) - CentOS on the Raspberry Pi. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 * [Minibian](https://minibianpi.wordpress.com/) - Minimal Raspbian (lighter than Jessie Lite).
 * [BerryBoot](http://www.berryterminal.com/doku.php/berryboot) - Bootloader / universal operating system installer, with support to VNC and HDMI-CEC.
+* [PirateBox](https://piratebox.cc/raspberry_pi:diy) - An anonymous offline mobile file-sharing and communications system.
 
 # Tools
 * [PiBakery](http://www.pibakery.org/) - The blocks based, easy to use setup tool for Raspberry Pi.
@@ -48,6 +49,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - Shell script to set up Raspberry Pi as an OpenVPN server.
 * [pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc.
 * [PiVPN](http://www.pivpn.io/) - Simple, Flexible, and Managable single line install of OpenVPN Server for your Raspberry Pi.
+* [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
 
 # Projects
 * [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
