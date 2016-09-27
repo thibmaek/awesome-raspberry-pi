@@ -40,6 +40,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [Minibian](https://minibianpi.wordpress.com/) - Minimal Raspbian (lighter than Jessie Lite).
 * [BerryBoot](http://www.berryterminal.com/doku.php/berryboot) - Bootloader / universal operating system installer, with support to VNC and HDMI-CEC.
 * [PirateBox](https://piratebox.cc/raspberry_pi:diy) - An anonymous offline mobile file-sharing and communications system.
+* [OctoPi](https://octopi.octoprint.org/) - OctoPi is a Raspberry Pi distribution for 3d printers.
 
 # Tools
 * [PiBakery](http://www.pibakery.org/) - The blocks based, easy to use setup tool for Raspberry Pi.
