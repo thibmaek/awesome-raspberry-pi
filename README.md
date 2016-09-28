@@ -41,6 +41,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [BerryBoot](http://www.berryterminal.com/doku.php/berryboot) - Bootloader / universal operating system installer, with support to VNC and HDMI-CEC.
 * [PirateBox](https://piratebox.cc/raspberry_pi:diy) - An anonymous offline mobile file-sharing and communications system.
 * [OctoPi](https://octopi.octoprint.org/) - OctoPi is a Raspberry Pi distribution for 3d printers.
+* [Kano OS](http://developers.kano.me/downloads/) - An open-source OS for exploration, creation, and play – free for Raspberry Pi and the new Pi 3.
 
 # Tools
 * [PiBakery](http://www.pibakery.org/) - The blocks based, easy to use setup tool for Raspberry Pi.
