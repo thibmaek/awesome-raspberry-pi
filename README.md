@@ -14,7 +14,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [Projects](#projects)
 * [Resources](#resources)
 
-# OS Images
+## OS Images
 * [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) - The official supported Raspberry Pi OS, based on Debian and available as a lite version.
 * [NOOBS](https://www.raspberrypi.org/downloads/noobs/) - New Out Of the Box Software, an easy OS installer for beginners.
 * [Ubuntu MATE](https://ubuntu-mate.org/raspberry-pi/) - Ubuntu distribution for the Raspberry Pi based on MATE desktop. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
@@ -43,7 +43,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [OctoPi](https://octopi.octoprint.org/) - OctoPi is a Raspberry Pi distribution for 3d printers.
 * [Kano OS](http://developers.kano.me/downloads/) - An open-source OS for exploration, creation, and play – free for Raspberry Pi and the new Pi 3.
 
-# Tools
+## Tools
 * [PiBakery](http://www.pibakery.org/) - The blocks based, easy to use setup tool for Raspberry Pi.
 * [ApplePi Bakery](http://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) - A macOS application to easily  install/backup/restore images onto an SD card.
 * [Etcher](https://www.etcher.io/) - An SD card burner app that is simple for end users, extensible for developers, and works on any platform.
@@ -53,7 +53,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [PiVPN](http://www.pivpn.io/) - Simple, Flexible, and Managable single line install of OpenVPN Server for your Raspberry Pi.
 * [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
 
-# Projects
+## Projects
 * [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
 * [Build a $35 Time Capsule](https://raymii.org/s/articles/Build_a_35_dollar_Time_Capsule_-_Raspberry_Pi_Time_Machine.html) - Raspberry Pi Time Machine Backup Server.
 * [How To Make a Raspberry Pi Turn on a Lamp with iBeacon™ Technology](http://developer.radiusnetworks.com/2014/04/27/how-to-make-a-raspberry-pi-turn-on-a-lamp-with-an-ibeacon.html) - Good beginners-guide to working with Beacon technology.
@@ -78,7 +78,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [SkyJack](https://samy.pl/skyjack/) - A tool that takes over and allows full control over any Parrot AR Drones within wireless distance.
 * [Nerves Project](https://github.com/nerves-project) - Craft and deploy bulletproof embedded software in Elixir.
 
-# Resources
+## Resources
 * [Bridging Wifi to the Raspberry Pi over Ethernet](https://blog.thibmaekelbergh.be/2015/02/16/bridging-wifi-to-the-raspberry-pi-over-ethernet.html) - Guide to tethered networking between macOS & Raspberry Pi.
 * [Raspberry Pi login with SSH keys](https://blog.thibmaekelbergh.be/2015/05/07/raspberry-pi-login-with-ssh-keys.html) - Password-less login for ssh sessions on the Raspberry Pi.
 * [How to setup a secure VPN server on Raspberry Pi or DigitalOcean](http://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/) - A simple and secure guide to setup VPN on your Raspberry Pi.
@@ -93,8 +93,8 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [10 Ways To Power](https://raspberrypi.about.com/od/Power/tp/10-Ways-to-Power-your-Raspberry-Pi.htm) - Information about different & correct ways to power the pi.
 * [Turn the Raspberry Pi Zero into a mini dongle computer](http://n-o-d-e.net/post/150780207431/turn-the-raspberry-pi-zero-into-a-mini-dongle) - Guide to setup a pi0 to be able to ssh & vnc over USB. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 
-## Contributing
+### Contributing
 Contribution guidelines can be found [here](/CONTRIBUTING.md)
 
-## License
+### License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
