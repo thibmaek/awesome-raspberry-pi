@@ -77,6 +77,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 * [PiFanTuner](https://github.com/winkidney/PIFanTuner) - A Raspberry Pi CPU-fan-tuner daemon, just enables your fan as necessary. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 * [SkyJack](https://samy.pl/skyjack/) - A tool that takes over and allows full control over any Parrot AR Drones within wireless distance.
 * [Nerves Project](https://github.com/nerves-project) - Craft and deploy bulletproof embedded software in Elixir.
+* [Wordpress using Docker](https://github.com/rothgar/rpi-wordpress) - Run a Wordpress site in containers with dynamic DNS.
 
 ## Resources
 * [Bridging Wifi to the Raspberry Pi over Ethernet](https://blog.thibmaekelbergh.be/2015/02/16/bridging-wifi-to-the-raspberry-pi-over-ethernet.html) - Guide to tethered networking between macOS & Raspberry Pi.
