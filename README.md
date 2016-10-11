@@ -103,6 +103,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [`#raspberrypi` on Freenode](https://webchat.freenode.net/?channels=%23raspberrypi)
 - [StackExchange](https://raspberrypi.stackexchange.com/)
 - [Reddit](https://www.reddit.com/r/raspberry_pi)
+- [Reddit Projects](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS)
 - [eLinux Hub](http://elinux.org/RPi_Hub)
 
 ### Contributing
