@@ -42,6 +42,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [PirateBox](https://piratebox.cc/raspberry_pi:diy) - Anonymous offline mobile file-sharing and communications system.
 - [OctoPi](https://octopi.octoprint.org/) - Distribution for 3d printers.
 - [Kano OS](http://developers.kano.me/downloads/) - Open-source OS for exploration, creation, and play – free for Raspberry Pi and the new Pi 3.
+- [resinOS](https://resinos.io) - open source OS to run Docker containers on embedded devices that's been designed for reliability and proven in production.
 
 ## Tools
 - [PiBakery](http://www.pibakery.org/) - The blocks based, easy to use setup tool for Raspberry Pi.
