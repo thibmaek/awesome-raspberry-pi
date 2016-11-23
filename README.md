@@ -183,6 +183,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 #### Misc Software
 
+* [homely](https://github.com/baol/homely) - collection of Go daemons for connecting Domoticz and other stuff.
 * Tasker (Automation for Android) [MQTT Publisher Plugin](https://play.google.com/store/apps/details?id=net.nosybore.mqttpublishplugin)
 
 
