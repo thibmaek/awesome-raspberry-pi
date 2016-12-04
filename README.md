@@ -119,6 +119,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [RFM69-MQTT-client](https://github.com/computourist/RFM69-MQTT-client) - Arduino RFM69 based sensors and MQTT gateway.
 * [rpi2mqtt](https://github.com/hobbyquaker/rpi2mqtt) - Connect a RaspberryPis GPIOs and 1-Wire Temperature Sensors to MQTT.
 * [xbee2mqtt](https://github.com/xoseperez/xbee2mqtt) - XBee to MQTT gateway.
+* [mqtt-ir-transceiver](https://github.com/enc-X/mqtt-ir-transceiver) - bidirectional IR bridge to MQTT (transmitter and receiver)
 
 
 #### Industry
