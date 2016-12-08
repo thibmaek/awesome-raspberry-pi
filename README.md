@@ -83,6 +83,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Sonus](https://github.com/evancohen/sonus) - Node.js voice control for your Pi (and everything else) with customizable offline hotword detection.
 - [Sonic Pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone.
 - [Alexa AVS](https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi) - Demonstration on using Alexa Voice Service with a Java client and Node.js server.
+- [Pi4j Project](http://pi4j.com) - Java I/O library the Raspberry Pi.
 
 ## Resources
 ### Articles
