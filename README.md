@@ -85,6 +85,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Sonic Pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone.
 - [Alexa AVS](https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi) - Demonstration on using Alexa Voice Service with a Java client and Node.js server.
 - [Pi4j Project](http://pi4j.com) - Java I/O library the Raspberry Pi.
+- [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) - Display mimicking the Daily Prophet from Harry Potter using a 7" Raspberry Pi display.
 
 ## Resources
 ### Articles
