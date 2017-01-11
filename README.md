@@ -55,6 +55,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc.
 - [PiVPN](http://www.pivpn.io/) - Simple, Flexible, and Managable single line install of OpenVPN Server for your Raspberry Pi.
 - [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
+- [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) - Simple application/repo to bridge a Raspberry Pi's wlan0 interface to devices plugged into it over ethernet (eth0).
 
 ## Projects
 - [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
