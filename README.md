@@ -56,6 +56,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [PiVPN](http://www.pivpn.io/) - Simple, Flexible, and Managable single line install of OpenVPN Server for your Raspberry Pi.
 - [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
 - [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) - Simple application/repo to bridge a Raspberry Pi's wlan0 interface to devices plugged into it over ethernet (eth0).
+- [WiFi config generator](https://steveedson.co.uk/tools/wpa/) - Simple tool to generate wpa_supplicant.conf files with wifi settings
 
 ## Projects
 - [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
