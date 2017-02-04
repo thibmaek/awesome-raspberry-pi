@@ -61,6 +61,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [RabbitMQ](https://www.rabbitmq.com/mqtt.html) - RabbitMQ offers a MQTT Adapter.
 * [SurgeMQ](http://zhen.org/categories/surgemq/) - High Performance MQTT Server and Client Libraries in Go.
 * [VerneMQ](https://vernemq.com/) - an Apache2 licensed distributed MQTT broker, developed in Erlang.
+* [Vert.x MQTT server](https://github.com/vert-x3/vertx-mqtt-server) - This Vert.x component provides a server which is able to handle connections, communication and messages exchange with remote MQTT clients.
 
 
 ### Tools
@@ -211,7 +212,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [onkyo2mqtt](https://github.com/owagner/onkyo2mqtt) - Interface between Onkyo AVR's EISCP network remote protocol and MQTT. Uses the onkyo-eiscp library.
 * [VLC MQTT Module](https://wiki.videolan.org/Documentation:Modules/mqtt/) - Control VLC via MQTT.
 * [xbmc2mqtt](https://github.com/gordonjcp/xbmc-mqtt) - A simple plugin for XBMC to listen for a particular topic on an MQTT broker, and display a popup message.
-* [yamaha-avr2mqtt](https://github.com/akentner/yamaha-avr2mqtt) 
+* [yamaha-avr2mqtt](https://github.com/akentner/yamaha-avr2mqtt)
 
 
 #### Gadgets
@@ -236,7 +237,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 * [d3-MQTT-Topic-Tree](https://github.com/hardillb/d3-MQTT-Topic-Tree) - A MQTT Topic Tree viewer using the d3 collapsable tree and MQTT over websockets
 * [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED.
-* [mqtt2highcharts](https://github.com/matbor/mqtt2highcharts) - plotting live numbered data from a subscribed mqtt topic using highcharts. 
+* [mqtt2highcharts](https://github.com/matbor/mqtt2highcharts) - plotting live numbered data from a subscribed mqtt topic using highcharts.
 * [mqtt-panel](https://github.com/fabaff/mqtt-panel) - A web interface for MQTT.
 * [mqtt-svg-dash](https://github.com/jpmens/mqtt-svg-dash) - Subscribe to MQTT, extract JSON from a message and make lights blink on an SVG page.
 
