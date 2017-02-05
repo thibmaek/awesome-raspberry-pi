@@ -182,11 +182,10 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 * [FHEM](http://fhem.de/fhem.html) has a [MQTT module](http://fhem.de/commandref.html#MQTT) since V5.6.
 * [Home Assistant](https://home-assistant.io/) has a MQTT component.
-* [Homegear](https://www.homegear.eu) has build in MQTT support.
+* [Homegear](https://www.homegear.eu/index.php/Main_Page) has build in MQTT support.
 * [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - Interface between [HAP-NodeJS](https://github.com/KhaosT/HAP-NodeJS) and MQTT. Control MQTT connected devices with Siri or HomeKit Apps.
 * [ioBroker](https://github.com/ioBroker) has a [MQTT adapter](https://github.com/ioBroker/ioBroker.mqtt).
-* [Net-Commander](https://github.com/net-commander/windows-dist) has built in MQTT connectivity.
-* [openHAB](https://github.com/openhab) has a [MQTT binding](https://github.com/openhab/openhab/wiki/MQTT-Binding).
+* [openHAB](https://github.com/openhab) has a [MQTT binding](https://github.com/openhab/openhab1-addons/wiki/MQTT-Binding).
 * [pimatic](https://pimatic.org/) has a MQTT plugin.
 
 
@@ -224,7 +223,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 #### Smart Metering
 
-* [bcontrol2mqtt](https://github.com/hobbyquaker/bcontrol2mqtt) - Publish measurements from [TQ Energy Manager](http://www.tq-group.com/produkte/produktdetail/prod/energy-manager/extb/Main/) to MQTT.
+* [bcontrol2mqtt](https://github.com/hobbyquaker/bcontrol2mqtt) - Publish measurements from [TQ Energy Manager](https://www.tq-group.com/produkte/produktdetail/prod/energy-manager/extb/Main/) to MQTT.
 
 
 #### Messaging
