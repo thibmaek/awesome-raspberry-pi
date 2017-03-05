@@ -114,6 +114,8 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 
 ## Community
 - [Official Forum](https://www.raspberrypi.org/forums/)
+- [Official Blog](https://www.raspberrypi.org/blog/)
+- [Raspberry Pi Jam — Official conferences](https://www.raspberrypi.org/jam/)
 - [`@Raspberry_Pi` on Twitter](https://twitter.com/Raspberry_Pi)
 - [`#raspberrypi` on Freenode](https://webchat.freenode.net/?channels=%23raspberrypi)
 - [StackExchange](https://raspberrypi.stackexchange.com/)
