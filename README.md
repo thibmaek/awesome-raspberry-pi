@@ -29,6 +29,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
     - [Gadgets](#gadgets)
     - [Smart Metering](#smart-metering)
     - [Messaging](#messaging)
+    - [Misc](#misc)
 - [Visualization, Dashboards](#visualization-dashboards)
 - [Architecture, Convention](#architecture-convention)    
 
@@ -240,6 +241,10 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notifiy pluggable services.
 * [twitter-to-mqtt](https://github.com/knolleary/twitter-to-mqtt) - A python daemon that uses the Twitter Streaming API to access tweets and republishes them to an MQTT topic.
 
+
+#### Misc
+
+* [leaf-python-mqtt](https://github.com/glynhudson/leaf-python-mqtt) - Extract data from Nissan Leaf API and post to mqtt.
 
 ### Visualization, Dashboards
 
