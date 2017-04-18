@@ -115,6 +115,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [How To Make a Raspberry Pi Turn on a Lamp with iBeacon™ Technology](http://developer.radiusnetworks.com/2014/04/27/how-to-make-a-raspberry-pi-turn-on-a-lamp-with-an-ibeacon.html) - Good beginners-guide to working with Beacon technology.
 - [Build a $35 Time Capsule](https://raymii.org/s/articles/Build_a_35_dollar_Time_Capsule_-_Raspberry_Pi_Time_Machine.html) - Time Machine Backup Server.
 - [Raspberry Pi Game Console](https://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192) - How to Build a Raspberry Pi Retro Game Console for $35.
+- [Sending and Visualizing Thermal Data](https://www.griddb.net/en/blog/raspberry-pi-tutorial-sending-thermal-data-to-griddb-via-the-kairosdb-connector/) - Send thermal data to an easily-queryable database and visualize the results. 
 
 ## Community
 - [Official Forum](https://www.raspberrypi.org/forums/)
