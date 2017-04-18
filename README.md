@@ -96,6 +96,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Whispering Mirror](http://whisperingwallproject.com/whisperingmirror/) - Interactive soundart installation using the Hifiberry DAC.
 - [clockOS](https://github.com/iGerli/clockOS) - simple smart desktop clock using a Raspberry Pi display.
 - [Zelda Home Automation](https://www.raspberrypi.org/blog/zelda-home-automation/) - Home automation based on sound recognition from notes played on an ocarina.
+- [Sending and Visualizing Thermal Data](https://www.griddb.net/en/blog/raspberry-pi-tutorial-sending-thermal-data-to-griddb-via-the-kairosdb-connector/) - Send thermal data to an easily-queryable database and visualize the results. 
 
 ## Resources
 ### Articles
