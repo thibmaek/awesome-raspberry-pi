@@ -186,6 +186,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 #### Smart Home Integration Software
 
 * [control-freak](https://github.com/xblox/control-freak) IDE for IoT & friends. Built in MQTT support.
+* [Domoticz](http://www.domoticz.com/) Domoticz beta supports MQTT.
 * [FHEM](http://fhem.de/fhem.html) has a [MQTT module](http://fhem.de/commandref.html#MQTT) since V5.6.
 * [Home Assistant](https://home-assistant.io/) has a MQTT component.
 * [Homegear](https://www.homegear.eu/index.php/Main_Page) has build in MQTT support.
