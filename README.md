@@ -186,14 +186,15 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 #### Smart Home Integration Software
 
-* [control-freak](https://github.com/xblox/control-freak) IDE for IoT & friends. Built in MQTT support.
-* [Domoticz](http://www.domoticz.com/) Domoticz beta supports MQTT.
+* [control-freak](https://github.com/xblox/control-freak) - IDE for IoT & friends. Built in MQTT support.
+* [Domoticz](http://www.domoticz.com/) - Domoticz beta supports MQTT.
 * [FHEM](http://fhem.de/fhem.html) has a [MQTT module](http://fhem.de/commandref.html#MQTT) since V5.6.
 * [Home Assistant](https://home-assistant.io/) has a MQTT component.
 * [Homegear](https://www.homegear.eu/index.php/Main_Page) has build in MQTT support.
 * [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - Interface between [HAP-NodeJS](https://github.com/KhaosT/HAP-NodeJS) and MQTT. Control MQTT connected devices with Siri or HomeKit Apps.
 * [Home.Pi](https://github.com/denschu/home.pi) is based on MQTT.
 * [ioBroker](https://github.com/ioBroker) has a [MQTT adapter](https://github.com/ioBroker/ioBroker.mqtt).
+* [Lelylan](http://www.lelylan.com/) - IOT Cloud Platform. Microservices Architecture. For Developers.
 * [Node-RED](https://nodered.org/) - A visual tool for wiring the Internet of Things, has native MQTT Support.
 * [openHAB](https://github.com/openhab) has a [MQTT binding](https://github.com/openhab/openhab1-addons/wiki/MQTT-Binding).
 * [pimatic](https://pimatic.org/) has a MQTT plugin.
