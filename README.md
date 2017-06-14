@@ -42,7 +42,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 #### Blogs
 
-* [Ben Hardill)(https://www.hardill.me.uk/wordpress/tag/mqtt/)
+* [Ben Hardill](https://www.hardill.me.uk/wordpress/tag/mqtt/)
 * [Dominik Obermaier](http://forkbomb-blog.de/category/mqtt)
 * [Jan-Piet Mens](http://jpmens.net/)
 * [Nick O'Leary](http://knolleary.net/)
