@@ -8,6 +8,7 @@
 4. Don't submit dead links and try to always submit HTTPS links.
 5. Make sure you're linking to an English resource, other languages not allowed *at this moment*
 6. If there is only support for some devices please mention that by using the [badges](/media/badges) provided.
+7. Add something that is truly awesome and stands out. A project that shows how to monitor a greenhouse, water a plant or trigger LEDs are already out there on the web. This is not the place for those.
 
 ### Adding to the list
 1. Click README.md
