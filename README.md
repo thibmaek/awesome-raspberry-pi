@@ -45,14 +45,14 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [Ben Hardill](https://www.hardill.me.uk/wordpress/tag/mqtt/)
 * [Dominik Obermaier](http://forkbomb-blog.de/category/mqtt)
 * [Jan-Piet Mens](http://jpmens.net/)
-* [Nick O'Leary](http://knolleary.net/)
+* [Nick O'Leary](https://knolleary.net/)
 
 
 ### Broker
 
 * [ActiveMQ](http://activemq.apache.org/) - A fast Java multiprotocol messaging and Integration Patterns server.
 * [eMQTT](http://emqtt.io/) - The Massively Scalable MQTT Broker written in Erlang/OTP.
-* [esp_uMQTT_broker](http://github.com/martin-ger/esp_mqtt) - A basic MQTT Broker on the ESP8266.
+* [esp_uMQTT_broker](https://github.com/martin-ger/esp_mqtt) - A basic MQTT Broker on the ESP8266.
 * [hbmqtt](https://github.com/beerfactory/hbmqtt) - Python MQTT broker using asyncio.
 * [hrotti](https://github.com/alsm/hrotti) - A MQTT broker written in Go.
 * [HiveMQ](http://www.hivemq.com/) - Java based commercial MQTT Broker.
@@ -113,7 +113,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 * [logic4mqtt](https://github.com/owagner/logic4mqtt) - Java based Logic and scripting engine for use with MQTT. Uses Java's general scripting interface, so scripts can be written in a multitude of languages like Javascript, Groovy etc.
 * [mqtt-scripts](https://github.com/hobbyquaker/mqtt-scripts/) - Node.js based script runner.
-* [Node-RED](http://nodered.org/) - A visual tool for wiring the Internet of Things.
+* [Node-RED](https://nodered.org/) - A visual tool for wiring the Internet of Things.
 
 
 ### Interfaces
