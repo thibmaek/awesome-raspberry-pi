@@ -127,6 +127,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Sending and Visualizing Thermal Data](https://www.griddb.net/en/blog/raspberry-pi-tutorial-sending-thermal-data-to-griddb-via-the-kairosdb-connector/) - Send thermal data to an easily-queryable database and visualize the results. 
 - [Docker Swarm with LetsEncrypt](https://aaron.haurwitz.com/#!/posts/raspberry-pi-docker-swarm-with-lets-encrypt) - Clear guidelines on how to set up a cluster with Docker, distributing services with Docker Compose and signing valid SSL certs with Letsencrypt.
 - [DIY Neural Network](http://hackaday.com/2017/06/14/diy-raspberry-neural-network-sees-all-recognizes-some/) - Uses image recognition and Google’s Inception to recognize specific objects.
+- [Turn raspberry pi into an always on  bittorrent box](https://www.howtogeek.com/142044/how-to-turn-a-raspberry-pi-into-an-always-on-bittorrent-box/) - It’s ideal to have a dedicated machine for your BitTorrent client, so you can seed 24/7. 
 
 ## Community
 - [Official Forum](https://www.raspberrypi.org/forums/)
