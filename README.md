@@ -62,7 +62,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [RabbitMQ](https://www.rabbitmq.com/mqtt.html) - RabbitMQ offers a MQTT Adapter.
 * [SurgeMQ](http://zhen.org/categories/surgemq/) - High Performance MQTT Server and Client Libraries in Go.
 * [VerneMQ](https://vernemq.com/) - an Apache2 licensed distributed MQTT broker, developed in Erlang.
-* [Vert.x MQTT server](https://github.com/vert-x3/vertx-mqtt-server) - This Vert.x component provides a server which is able to handle connections, communication and messages exchange with remote MQTT clients.
+* [Vert.x MQTT](https://github.com/vert-x3/vertx-mqtt) - [Vert.x](http://vertx.io/) MQTT Client and Server.
 
 
 ### Tools
