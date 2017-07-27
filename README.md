@@ -62,7 +62,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [RabbitMQ](https://www.rabbitmq.com/mqtt.html) - RabbitMQ offers a MQTT Adapter.
 * [SurgeMQ](http://zhen.org/categories/surgemq/) - High Performance MQTT Server and Client Libraries in Go.
 * [VerneMQ](https://vernemq.com/) - an Apache2 licensed distributed MQTT broker, developed in Erlang.
-* [Vert.x MQTT](https://github.com/vert-x3/vertx-mqtt) - [Vert.x](http://vertx.io/) MQTT Client and Server.
+* [Vert.x MQTT](https://github.com/vert-x3/vertx-mqtt) - Vert.x component to handle connections, communication and messages exchange with remote MQTT clients.
 
 
 ### Tools
@@ -107,6 +107,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [ruby-mqtt](https://github.com/njh/ruby-mqtt) - Pure Ruby gem that implements the MQTT protocol.
 * [tcl-mqtt](https://github.com/Tingenek/tcl-mqtt) - Small library to connect to a matt broker. Very, very basic.
 * [TMQTTClient](http://jamiei.com/blog/code/mqtt-client-library-for-delphi/) - MQTT Client Library for Delphi.
+* [Vert.x MQTT](https://github.com/vert-x3/vertx-mqtt) - Vert.x component that provides methods for connecting/disconnecting to a broker, publishing messages and subscribing to topics.
 * [wolfMQTT](https://wolfssl.com/wolfSSL/Products-wolfmqtt.html) - a client implementation of the MQTT written in C for embedded use. It supports SSL/TLS via the wolfSSL library.
 
 
