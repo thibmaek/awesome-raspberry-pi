@@ -133,7 +133,6 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [xbee2mqtt](https://github.com/xoseperez/xbee2mqtt) - XBee to MQTT gateway.
 
 
-
 #### Industry
 
 * [modbus2mqtt](https://github.com/owagner/modbus2mqtt) - Modbus master which publishes register values via MQTT.
@@ -153,6 +152,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [mqttpc](https://github.com/hobbyquaker/mqttpc) - Control processes via MQTT. Ability to send signals via MQTT and to publish stdout/stderr or pipe MQTT payloads into stdin.
 * [mqttwatchdir](https://github.com/jpmens/mqtt-watchdir) - Recursively watch a directory for modifications and publish file content to an MQTT broker.
 * [psmqtt](https://github.com/eschava/psmqtt) - Utility reporting system health and status via MQTT.
+* [WinThing](https://github.com/msiedlarek/winthing) - Remotely control Windows through MQTT.
 
 
 #### Monitoring
@@ -163,7 +163,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 #### Location tracking
 
-* [Owntracks](http://owntracks.org/) - Location tracking and geofencing for MQTT.
+* [OwnTracks](http://owntracks.org/) - Location tracking and geofencing for MQTT.
 
 
 #### Logging
