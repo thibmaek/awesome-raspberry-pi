@@ -106,12 +106,14 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Looper/synth/drum thing](https://github.com/otem/Raspberry-Pi-Looper-synth-drum-thing) - Sequencer/Drumpad, like Native Instruments' Maschine for the Pi.
 - [Waves](https://github.com/euniceylee/waves) - Transforming the transience of the spoken word into something concrete and physical through a microphone, waveform and thermal printer.
 - [DIY USB Rubber Ducky](https://hackaday.io/project/17598-diy-usb-rubber-ducky) - Raspberry Pi Zero Rubber Ducky recognized as a USB HID by just about anything with a USB port, thus allowing you to run custom scripts as if it were a keyboard. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
+- [Kubernetes on ARM](https://github.com/luxas/kubernetes-on-arm) - Get your ARM device up and running Kubernetes in less than ten minutes.
 
 ## Resources
 ### Articles
 - [Raspberry Pi and why do I need one?](https://www.liquidlight.co.uk/blog/article/raspberry-pi-what-is-it-and-why-do-i-need-one/) - Intro into the Raspberry Pi and what can be done with it.
 - [10 Ways To Power](https://raspberrypi.about.com/od/Power/tp/10-Ways-to-Power-your-Raspberry-Pi.htm) - Information about different & correct ways to power the pi.
 - [The Ultimate Raspberry Pi Security Guide](http://www.nhatqbui.com/assets/TheUltimateRaspberryPiSecurityGuide.pdf) - Extensive guide on security best practices for the Pi ie. exposed to the internet.
+
 
 ### Tutorials
 - [Bridging Wifi to the Raspberry Pi over Ethernet](https://blog.thibmaekelbergh.be/2015/02/16/bridging-wifi-to-the-raspberry-pi-over-ethernet.html) - Set up tethered networking between macOS & Raspberry Pi.
