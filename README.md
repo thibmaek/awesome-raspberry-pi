@@ -107,6 +107,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Waves](https://github.com/euniceylee/waves) - Transforming the transience of the spoken word into something concrete and physical through a microphone, waveform and thermal printer.
 - [DIY USB Rubber Ducky](https://hackaday.io/project/17598-diy-usb-rubber-ducky) - Raspberry Pi Zero Rubber Ducky recognized as a USB HID by just about anything with a USB port, thus allowing you to run custom scripts as if it were a keyboard. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [Kubernetes on ARM](https://github.com/luxas/kubernetes-on-arm) - Get your ARM device up and running Kubernetes in less than ten minutes.
+- [Lumos](https://www.instructables.com/id/LUMOS-Smart-Lamp-for-Better-Health/) - Smart Lamp for Better Sleep. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 
 ## Resources
 ### Articles
