@@ -158,6 +158,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 #### Monitoring
 
 * [check-mqtt](https://github.com/jpmens/check-mqtt) - A Nagios/Icinga plugin for checking connectivity to an MQTT broker.
+* [nag2mqtt](https://github.com/DE-IBH/nag2mqtt) - Nagios event broker to MQTT gateway.
 * [notify-by-mqtt](https://github.com/jpmens/notify-by-mqtt) - a Nagios/Icinga notification module which wraps data into JSON and fires it off to an MQTT broker.
 
 
