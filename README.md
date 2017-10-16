@@ -134,6 +134,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Sending and Visualizing Thermal Data](https://www.griddb.net/en/blog/raspberry-pi-tutorial-sending-thermal-data-to-griddb-via-the-kairosdb-connector/) - Send thermal data to an easily-queryable database and visualize the results. 
 - [Docker Swarm with LetsEncrypt](https://aaron.haurwitz.com/#!/posts/raspberry-pi-docker-swarm-with-lets-encrypt) - Clear guidelines on how to set up a cluster with Docker, distributing services with Docker Compose and signing valid SSL certs with Letsencrypt.
 - [DIY Neural Network](http://hackaday.com/2017/06/14/diy-raspberry-neural-network-sees-all-recognizes-some/) - Uses image recognition and Google’s Inception to recognize specific objects.
+- [Turn a Raspberry Pi into a Plex Media Server](https://www.codedonut.com/raspberry-pi/raspberry-pi-plex-media-server/) - Beginners guide to setting up a Plex media server to stream all of your media content.
 
 ## Community
 - [Official Forum](https://www.raspberrypi.org/forums/)
