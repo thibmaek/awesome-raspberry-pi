@@ -38,7 +38,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [MQTT community wiki](https://github.com/mqtt/mqtt.github.io/wiki).
 * [Google Groups: MQTT](https://groups.google.com/forum/#!forum/mqtt).
 * [IRC channel #mqtt on the freenode network](irc://irc.freenode.net/mqtt).
-* [A list of public brokers](http://moxd.io/2015/10/public-mqtt-brokers/).
+* [A list of public brokers](http://moxd.io/2015/10/17/public-mqtt-brokers/).
 
 #### Blogs
 
@@ -55,7 +55,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [esp_uMQTT_broker](https://github.com/martin-ger/esp_mqtt) - A basic MQTT Broker on the ESP8266.
 * [hbmqtt](https://github.com/beerfactory/hbmqtt) - Python MQTT broker using asyncio.
 * [hrotti](https://github.com/alsm/hrotti) - A MQTT broker written in Go.
-* [HiveMQ](http://www.hivemq.com/) - Java based commercial MQTT Broker.
+* [HiveMQ](https://www.hivemq.com/) - Java based commercial MQTT Broker.
 * [Moquette](https://github.com/andsel/moquette) - Java MQTT lightweight broker.
 * [Mosca](http://www.mosca.io/) - Mosca is a node.js MQTT broker, which can be used Standalone or Embedded in another Node.js application.
 * [Mosquitto](http://mosquitto.org/) - "The" Open Source MQTT Broker.
@@ -111,7 +111,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [tcl-mqtt](https://github.com/Tingenek/tcl-mqtt) - Small library to connect to a MQTT broker. Very, very basic.
 * [TMQTTClient](http://jamiei.com/blog/code/mqtt-client-library-for-delphi/) - MQTT Client Library for Delphi.
 * [Vert.x MQTT](https://github.com/vert-x3/vertx-mqtt) - Vert.x component that provides methods for connecting/disconnecting to a broker, publishing messages and subscribing to topics.
-* [wolfMQTT](https://wolfssl.com/wolfSSL/Products-wolfmqtt.html) - A client implementation of the MQTT written in C for embedded use. It supports SSL/TLS via the wolfSSL library.
+* [wolfMQTT](https://www.wolfssl.com/products/wolfmqtt/) - A client implementation of the MQTT written in C for embedded use. It supports SSL/TLS via the wolfSSL library.
 
 
 ### Scripting
@@ -199,7 +199,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 #### Smart Home Integration Software
 
-* [control-freak](https://github.com/xblox/control-freak) - IDE for IoT & friends. Built in MQTT support.
+* [control-freak](https://github.com/tx4x/control-freak) - IDE for IoT & friends. Built in MQTT support.
 * [Domoticz](http://www.domoticz.com/) - Domoticz beta supports MQTT.
 * [FHEM](http://fhem.de/fhem.html) has a [MQTT module](http://fhem.de/commandref.html#MQTT) since V5.6.
 * [Home Assistant](https://home-assistant.io/) has a MQTT component.
