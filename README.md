@@ -27,6 +27,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [OpenELEC](http://openelec.tv/) - Open Embedded Linux Entertainment Center, a very lightweight Kodi build.
 - [HypriotOS](http://blog.hypriot.com/about/) - Minimal Debian-based operating system, optimized to run Docker.
 - [Kali Linux](https://www.offensive-security.com/kali-linux-arm-images/) - Penetration Testing & Ethical Hacking Linux distro for ARM devices.
+- [Parrot Security](https://www.parrotsec.org/download-other.fx) - Parrot based on Debian Testing and designed with Security, Development and Privacy in mind for ARM devices.
 - [RetroPie](https://retropie.org.uk/) - Retro-gaming on the Raspberry Pi.
 - [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi) - Security-oriented, lightweight Linux distribution based on musl libc and busybox.
 - [Arch Linux ARM](https://archlinuxarm.org/) - Lightweight and flexible Linux distribution that tries to Keep It Simple.
