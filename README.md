@@ -122,6 +122,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Raspberry Pi and why do I need one?](https://www.liquidlight.co.uk/blog/article/raspberry-pi-what-is-it-and-why-do-i-need-one/) - Intro into the Raspberry Pi and what can be done with it.
 - [10 Ways To Power](https://raspberrypi.about.com/od/Power/tp/10-Ways-to-Power-your-Raspberry-Pi.htm) - Information about different & correct ways to power the pi.
 - [The Ultimate Raspberry Pi Security Guide](http://www.nhatqbui.com/assets/TheUltimateRaspberryPiSecurityGuide.pdf) - Extensive guide on security best practices for the Pi ie. exposed to the internet.
+- [Raspberry Pi A to Z List](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
 
 
 ### Tutorials
