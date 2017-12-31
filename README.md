@@ -121,7 +121,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [NALIVATOR-9000](https://github.com/fote/nalivator9000) - Robot bartender for making cocktails with Telegram-bot interface and speech synthesis on Golang.
 - [Stratux](https://github.com/cyoung/stratux) - Open source ADS-B reciever which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
 - [Voice Kit](https://aiyprojects.withgoogle.com/voice) - AIY Voice Kit from Google, to build a standalone voice recognition system using the Google Assistant, or add voice recognition and natural language processing to your Raspberry Pi-based projects.
-- [speed-camera](https://github.com/pageauc/speed-camera) Object Motion Tracker for RPI, Unix or Windows uses python, openCV, USB Cam or RPI camera module to record speed data. Include simple webserver for viewing and whiptail menu mgmnt
+- [speed-camera](https://github.com/pageauc/speed-camera) Object Motion Tracker for RPI, Unix or Windows uses python, openCV, USB Cam or RPI camera module to record speed data. Include simple webserver for viewing and whiptail menu mgmnt.
 - [pi-timolo](https://github.com/pageauc/pi-timolo) Raspberry (Pi)camera, (Ti)melapse, (Mo)tion, (Lo)wlight Remote Headless Pi Camera App with rclone media sync, remote config Mgmnt, plugins, webserver, whiptail menu mgmnt. 
 
 ## Resources
