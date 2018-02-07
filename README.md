@@ -273,6 +273,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [node-mqtt-for-anki-overdrive](https://github.com/IBM-Bluemix/node-mqtt-for-anki-overdrive) - Node.js Controller and MQTT API for Anki Overdrive.
 * [parrot-sample](https://github.com/IBM-Bluemix/parrot-sample) - Sample code which uses MQTT to control a Parrot AR Drone.
 * Tasker (Automation for Android) [MQTT Publisher Plugin](https://play.google.com/store/apps/details?id=net.nosybore.mqttpublishplugin).
+* [speedtest2mqtt](https://github.com/hobbyquaker/speedtest2mqtt) - Run speedtest-cli and publish results via MQTT.
 * [unifi2mqtt](https://github.com/hobbyquaker/unifi2mqtt) - Publish connected clients from Ubiquiti Unifi to MQTT.
 * [wlan-thermo-mqtt-addon](https://bitbucket.org/IOcastor/wlan-thermo-mqtt-addon/) - Addon for a popular DIY barbecue thermometer.
 
