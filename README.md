@@ -77,6 +77,10 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [PoisonTap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [P4wnP1](https://github.com/mame82/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [CusDeb](https://cusdeb.com/en/) - Web UI for creating custom images with specific packages installed.
+- [WebIOPi](https://webiopi.trouch.com/) - Control, debug and use your Pi's GPIOs, sensors and converters from a customizeable Web UI (Pi1 only).
+- [WebIOPi patch for Pi3/Pi0](https://github.com/doublebind/raspi) - Patch to provide WebIOPi compatibility for Pi3 and Pi0. ![Supports Raspberry Pi 0](/media/badges/rpi-0.png)![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
+
+
 
 ## Projects
 - [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
