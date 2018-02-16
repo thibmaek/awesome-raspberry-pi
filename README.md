@@ -124,6 +124,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Voice Kit](https://aiyprojects.withgoogle.com/voice) - AIY Voice Kit from Google, to build a standalone voice recognition system using the Google Assistant, or add voice recognition and natural language processing to your Raspberry Pi-based projects.
 - [speed-camera](https://github.com/pageauc/speed-camera) - Object Motion Tracking uses python, openCV, USB Cam or picamera module to record speed data.
 - [pi-timolo](https://github.com/pageauc/pi-timolo) - Remote Headless multi feature PiCamera Operation from Rclone Remote Storage Service and More. 
+- [Hearing aid prototoype](https://github.com/m-r-s/hearingaid-prototype) - A Raspberry Pi powered prototype of a hearing aid. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 
 ## Resources
 ### Articles
