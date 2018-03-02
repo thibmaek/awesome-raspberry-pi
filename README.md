@@ -196,6 +196,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [node-lox-mqtt-gateway](https://github.com/alladdin/node-lox-mqtt-gateway) - Gateway for Loxone™ mini server to communicate with MQTT broker.
 * [xiaomi2mqtt](https://github.com/svrooij/node-xiaomi2mqtt) - bridge between the Xiaomi Smart Home Gateway Aquara and a MQTT server.
 * [smartthings-mqtt-bridge](https://github.com/stjohnjohnson/smartthings-mqtt-bridge) - Bridge between [SmartThings](https://www.smartthings.com/) and MQTT.
+* [ipcam2mqtt](https://github.com/svrooij/ipcam2mqtt) - A small ftp server to receive movement images from ipcameras and turn them into mqtt alerts.
 
 
 #### Smart Home Integration Software
