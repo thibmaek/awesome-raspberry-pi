@@ -9,10 +9,22 @@ This list is a collection of tools, projects, images and resources conforming to
 Contributions *very welcome* but first see [Contributing](#contributing)
 
 ## Contents
+- [Models](#models)
 - [OS Images](#os-images)
 - [Tools](#tools)
 - [Projects](#projects)
 - [Resources](#resources)
+
+## Models
+The complete collection of Raspberry Pi models consist of:
+* Raspberry Pi 1, Model A & Model B (2012, discontinued)
+* [Raspberry Pi 1, Model B+](https://www.raspberrypi.org/products/raspberry-pi-1-model-b-plus/) (July, 2014)
+* [Raspberry Pi 1, Model A+](https://www.raspberrypi.org/products/raspberry-pi-1-model-a-plus/) (November, 2014)
+* [Raspberry Pi 2, Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) (February, 2015)
+* [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/) (November, 2015)
+* [Raspberry Pi 3, Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) (March, 2016)
+* [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) (February, 2017)
+* [Raspberry Pi 3, Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) (March, 2018)
 
 ## OS Images
 - [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) - The official supported Raspberry Pi OS, based on Debian and available as a lite version.
