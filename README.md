@@ -71,6 +71,7 @@ The complete collection of Raspberry Pi models consist of:
 - [TrueOS](https://www.trueos.org/trueos-pico/) - FreeBSD-based thin client solution. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [OpenHABian](https://docs.openhab.org/installation/openhabian.html) - A preconfigured version of the OpenHAB home automation software. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [FabScanPi](https://mariolukas.github.io/FabScanPi-Server/) - FabScanPi is an open source 3D laser scanner using the Raspberry Pi Camera Module. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
+- [Rocket Show](https://rocketshow.net) - Play synced backing tracks, videos and DMX light-sequences live on stage. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 
 
 
@@ -141,7 +142,6 @@ The complete collection of Raspberry Pi models consist of:
 - [speed-camera](https://github.com/pageauc/speed-camera) - Object Motion Tracking uses python, openCV, USB Cam or picamera module to record speed data.
 - [pi-timolo](https://github.com/pageauc/pi-timolo) - Remote Headless multi feature PiCamera Operation from Rclone Remote Storage Service and More. 
 - [Hearing aid prototoype](https://github.com/m-r-s/hearingaid-prototype) - A Raspberry Pi powered prototype of a hearing aid. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
-- [Rocket Show](https://rocketshow.net) - Play synced backing tracks, videos and DMX light-sequences live on stage. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 
 ## Resources
 ### Articles
