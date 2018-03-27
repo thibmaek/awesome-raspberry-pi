@@ -302,8 +302,8 @@ Other tools that can be used to create Visualization/Dashboards can be found und
 
 ### Architecture, Convention
 
-* [Homie](https://github.com/marvinroger/homie) - A lightweight MQTT convention for the IoT.
 * [mqtt-smarthome](https://github.com/mqtt-smarthome/mqtt-smarthome) - Smart home automation with MQTT as the central message bus - Architectural proposal.
+* [The Homie Convention](https://github.com/homieiot/convention) - A lightweight MQTT convention for the IoT.
 
 
 ## Contribute
