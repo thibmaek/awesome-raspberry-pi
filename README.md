@@ -142,6 +142,8 @@ The complete collection of Raspberry Pi models consist of:
 - [speed-camera](https://github.com/pageauc/speed-camera) - Object Motion Tracking uses python, openCV, USB Cam or picamera module to record speed data.
 - [pi-timolo](https://github.com/pageauc/pi-timolo) - Remote Headless multi feature PiCamera Operation from Rclone Remote Storage Service and More. 
 - [Hearing aid prototoype](https://github.com/m-r-s/hearingaid-prototype) - A Raspberry Pi powered prototype of a hearing aid. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
+- [RPI tempmon](https://github.com/gavinlyonsrepo/raspberrypi_tempmon) - RPi ARM, CPU GPU temperature monitor with various functions such as LED GPIO, Graph output, email, alarm limit, notifications and logging.
+- [ RPi Motor Library](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library for various motors and servos to connect to a raspberry pi.
 
 ## Resources
 ### Articles
