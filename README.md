@@ -208,7 +208,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [control-freak](https://github.com/tx4x/control-freak) - IDE for IoT & friends. Built in MQTT support.
 * [Domoticz](http://www.domoticz.com/) - Domoticz beta supports MQTT.
 * [FHEM](http://fhem.de/fhem.html) has a [MQTT module](http://fhem.de/commandref.html#MQTT) since V5.6.
-* [Home Assistant](https://home-assistant.io/) has a MQTT component.
+* [Home Assistant](https://www.home-assistant.io/) has a MQTT component.
 * [Homegear](https://www.homegear.eu/index.php/Main_Page) has build in MQTT support.
 * [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - Interface between [HAP-NodeJS](https://github.com/KhaosT/HAP-NodeJS) and MQTT. Control MQTT connected devices with Siri or HomeKit Apps.
 * [Home.Pi](https://github.com/denschu/home.pi) is based on MQTT.
