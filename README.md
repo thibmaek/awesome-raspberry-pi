@@ -176,6 +176,7 @@ The complete collection of Raspberry Pi models consist of:
 - [Official Blog](https://www.raspberrypi.org/blog/)
 - [Raspberry Pi Jam — Official conferences](https://www.raspberrypi.org/jam/)
 - [`@Raspberry_Pi` on Twitter](https://twitter.com/Raspberry_Pi)
+- [`raspberry-pi` on Spectrum](https://spectrum.chat/raspberry-pi)
 - [`#raspberrypi` on Freenode](https://webchat.freenode.net/?channels=%23raspberrypi)
 - [StackExchange](https://raspberrypi.stackexchange.com/)
 - [Reddit](https://www.reddit.com/r/raspberry_pi)
