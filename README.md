@@ -202,6 +202,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [smartthings-mqtt-bridge](https://github.com/stjohnjohnson/smartthings-mqtt-bridge) - Bridge between [SmartThings](https://www.smartthings.com/) and MQTT.
 * [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) - Firmware for Sonoff devices with native MQTT Support.
 * [xiaomi2mqtt](https://github.com/svrooij/node-xiaomi2mqtt) - bridge between the Xiaomi Smart Home Gateway Aquara and a MQTT server.
+* [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Allows you to use your Zigbee devices without the vendors (Xiaomi/TRADFRI/Hue) bridge/gateway.
 
 
 #### Smart Home Integration Software
