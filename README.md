@@ -47,6 +47,9 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [Jan-Piet Mens](https://jpmens.net/)
 * [Nick O'Leary](https://knolleary.net/)
 
+#### Talks
+
+* [Einführung in MQTT](https://www.youtube.com/watch?v=INYG4-xsa9c) - Dominik Obermaier & Jens Deters, [Building IoT](https://www.buildingiot.de/) conference 2016 (German).
 
 ### Broker
 
