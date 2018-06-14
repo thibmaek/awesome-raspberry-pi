@@ -100,6 +100,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [Hulaaki](https://github.com/suvash/hulaaki) - An Elixir library for clients communicating with MQTT brokers.
 * [Machine Head](https://github.com/clojurewerkz/machine_head) - A Clojure MQTT Client.
 * [M2Mqtt](https://m2mqtt.wordpress.com/) - A MQTT client available for all .Net platforms (.Net Framework, .Net Compact Framework and .Net Micro Framework) and WinRT platforms (Windows 8.1, Windows Phone 8.1 and Windows 10).
+* [MIMIC MQTT Simulator](http://www.gambitcomm.com/site/mqttsimulator.php) - Simulate up to 100,000 MQTT clients per server for development/testing/deployment of IoT applications
 * [Mosquitto-PHP](https://github.com/mgdm/Mosquitto-PHP) - A wrapper for the Mosquitto MQTT client library for PHP.
 * [mqtt](https://github.com/jeffallen/mqtt) - MQTT Clients, Servers and Load Testers in Go.
 * [MQTT-C](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike.
