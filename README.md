@@ -72,7 +72,7 @@ The complete collection of Raspberry Pi models consist of:
 - [OpenHABian](https://docs.openhab.org/installation/openhabian.html) - A preconfigured version of the OpenHAB home automation software. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [FabScanPi](https://mariolukas.github.io/FabScanPi-Server/) - FabScanPi is an open source 3D laser scanner using the Raspberry Pi Camera Module. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [Rocket Show](https://rocketshow.net) - Play synced backing tracks, videos and DMX light-sequences live on stage. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
-
+- [Processing](https://github.com/processing/processing/releases/download/processing-0264-3.3.7/processing-3.3.7-linux-raspbian.zip) - A pre-installed and out-of-the-box version of Processing Development Environment.
 
 
 ## Tools
@@ -147,6 +147,7 @@ The complete collection of Raspberry Pi models consist of:
 - [RPI tempmon](https://github.com/gavinlyonsrepo/raspberrypi_tempmon) - CPU GPU temperature monitor with various functions such as LED GPIO, Graph output, email, alarm limit, notifications and logging.
 - [ RPi Motor Library](https://github.com/gavinlyonsrepo/RpiMotorLib) - Python 3 library to connect various motors & servos to the Pi.
 - [Circle](https://github.com/rsta2/circle) - A C++ bare metal environment for Raspberry Pi.
+- [Processing](https://pi.processing.org/get-started/) - Processing Development Environment running on Raspberry Pi.
 
 ## Resources
 ### Articles
