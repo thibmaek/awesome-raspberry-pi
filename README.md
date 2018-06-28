@@ -73,7 +73,8 @@ The complete collection of Raspberry Pi models consist of:
 - [FabScanPi](https://mariolukas.github.io/FabScanPi-Server/) - FabScanPi is an open source 3D laser scanner using the Raspberry Pi Camera Module. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [Rocket Show](https://rocketshow.net) - Play synced backing tracks, videos and DMX light-sequences live on stage. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [SamplerBox](http://www.samplerbox.org/makeitsoftware) - Drop'n'play sampler: drop .WAV samples on the SD card, and play!
-- [Processing](https://github.com/processing/processing/releases/download/processing-0264-3.3.7/processing-3.3.7-linux-raspbian.zip) - A pre-installed and out-of-the-box version of Processing Development Environment.
+
+
 
 ## Tools
 - [PiBakery](http://www.pibakery.org/) - The blocks based, easy to use setup tool for Raspberry Pi.
@@ -96,6 +97,7 @@ The complete collection of Raspberry Pi models consist of:
 - [Pieman](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
 - [iotwifi](https://github.com/cjimti/iotwifi) - Wifi AP + Client management in 8MB [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/), with REST API for controlling wifi client and station modes simultaneously. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [TorTiPi](https://github.com/r0hi7/tortipi) - Shell script to automate the task of converting Raspberry Pi into a tor based wifi hotspot.
+- [Processing](https://pi.processing.org/get-started/) - Processing Development Environment running on Raspberry Pi.
 
 ## Projects
 - [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
@@ -148,7 +150,6 @@ The complete collection of Raspberry Pi models consist of:
 - [ RPi Motor Library](https://github.com/gavinlyonsrepo/RpiMotorLib) - Python 3 library to connect various motors & servos to the Pi.
 - [Circle](https://github.com/rsta2/circle) - A C++ bare metal environment for Raspberry Pi.
 - [Project MyHouse](https://maxoffsky.com/research-progress/project-myhouse-a-smart-dollhouse-with-gesture-recognition/) - Smart Doll House with Gesture Recognition, using Raspberry Pi 3 or Pi Zero and PSMove motion controller.
-- [Processing](https://pi.processing.org/get-started/) - Processing Development Environment running on Raspberry Pi.
 
 ## Resources
 ### Articles
