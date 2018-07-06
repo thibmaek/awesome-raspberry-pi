@@ -152,7 +152,7 @@ The complete collection of Raspberry Pi models consist of:
 - [Project MyHouse](https://maxoffsky.com/research-progress/project-myhouse-a-smart-dollhouse-with-gesture-recognition/) - Smart Doll House with Gesture Recognition, using Raspberry Pi 3 or Pi Zero and PSMove motion controller.
 - [Skate-o-Meter](http://www.instructables.com/id/Skate-o-Meter/) - Skateboard odometer and speedometer with RFID user system.
 - [Occu-Pi](https://github.com/bww/occu-pi) - Controller software for the Occu-pi, a totally awesome bathroom door sensor.
-- [docsis-cable-load-monitor](https://github.com/sp4rkie/docsis-cable-load-monitor) - tool to monitor downstream load on DOCSIS cable networks
+- [docsis-cable-load-monitor](https://github.com/sp4rkie/docsis-cable-load-monitor) - tool to monitor downstream load on DOCSIS cable networks.
 
 ## Resources
 ### Articles
