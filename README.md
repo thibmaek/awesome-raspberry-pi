@@ -99,6 +99,15 @@ The complete collection of Raspberry Pi models consist of:
 - [TorTiPi](https://github.com/r0hi7/tortipi) - Shell script to automate the task of converting Raspberry Pi into a tor based wifi hotspot.
 - [Processing](https://pi.processing.org/get-started/) - Processing Development Environment running on Raspberry Pi.
 
+## Useful Android Apps
+- [RasPi Check](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck) - To check Pi stats - frequency, temperature, volts and more system information (free memory, runtime, disk status). You can also restart or halt your Raspberry Pi and send custom commands.
+- [Kore Remote](https://play.google.com/store/apps/details?id=org.xbmc.kore) - Official remote to control Kodi.
+- [Home Remote Control](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter) - Control mouse/keyboard, volume, manage download/upload files, custom commands, terminal, execute tasks in future, control media.
+- [Raspicast](https://play.google.com/store/apps/details?id=at.huber.raspicast) -Cast YouTube videos, media content from your android device, Play local media files, Play streams from playlists (m3u, pls) on your Raspberry Pi.  
+- [Screen Stream Mirroring](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial) - To stream your phone screen directly to Pi.
+- [Terminus](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client) -  One of the cleanest SSH Client for Pi.
+- [Tubio](https://play.google.com/store/apps/details?id=com.aesoftware.tubio) - Cast web videos directly to Pi. 
+
 ## Projects
 - [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
 - [Power Sniffing Strip](https://hackaday.com/2012/10/04/malicious-raspberry-pi-power-strip-looks-a-bit-scary/) - Enclosure in a power strip, sniffing network data.
