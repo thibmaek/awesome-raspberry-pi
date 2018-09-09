@@ -99,7 +99,7 @@ The complete collection of Raspberry Pi models consist of:
 - [TorTiPi](https://github.com/r0hi7/tortipi) - Shell script to automate the task of converting Raspberry Pi into a tor based wifi hotspot.
 - [Processing](https://pi.processing.org/get-started/) - Processing Development Environment running on Raspberry Pi.
 
-## Useful Android Apps
+## Useful Apps
 - [RasPi Check](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck) - To check Pi stats - frequency, temperature, volts and more system information (free memory, runtime, disk status). You can also restart or halt your Raspberry Pi and send custom commands.
 - [Kore Remote](https://play.google.com/store/apps/details?id=org.xbmc.kore) - Official remote to control Kodi.
 - [Home Remote Control](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter) - Control mouse/keyboard, volume, manage download/upload files, custom commands, terminal, execute tasks in future, control media.
