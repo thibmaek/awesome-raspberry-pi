@@ -164,8 +164,8 @@ The complete collection of Raspberry Pi models consist of:
 
 
 ### Tutorials
-- [Bridging Wifi to the Raspberry Pi over Ethernet](https://blog.thibmaekelbergh.be/post/bridging-wifi-to-the-raspberry-pi-over-ethernet) - Set up tethered networking between macOS & Raspberry Pi.
-- [Raspberry Pi login with SSH keys](https://blog.thibmaekelbergh.be/post/raspberry-pi-login-with-ssh-keys) - Password-less login for ssh sessions on the Raspberry Pi.
+- [Bridging Wifi to the Raspberry Pi over Ethernet](https://thibmaek.com/post/bridging-wifi-to-the-raspberry-pi-over-ethernet) - Set up tethered networking between macOS & Raspberry Pi.
+- [Raspberry Pi login with SSH keys](https://thibmaek.com/post/raspberry-pi-login-with-ssh-keys) - Password-less login for ssh sessions on the Raspberry Pi.
 - [How to setup a secure VPN server on Raspberry Pi or DigitalOcean](http://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/) - Simple, secure and detailed guide to setup VPN on your Raspberry Pi.
 - [Controlling Spotify with Slack and a Raspberry Pi](https://thesocietea.org/2016/03/controlling-spotify-with-slack-and-a-raspberry-pi/) - Node.js project to control Spotify & Slack with libspotify.
 - [Moonlight](https://github.com/irtimmer/moonlight-embedded) - Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi.
