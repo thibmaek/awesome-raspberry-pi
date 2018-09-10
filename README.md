@@ -100,13 +100,13 @@ The complete collection of Raspberry Pi models consist of:
 - [Processing](https://pi.processing.org/get-started/) - Processing Development Environment running on Raspberry Pi.
 
 ## Useful Apps
-- [RasPi Check] - To check Pi stats - frequency, temperature, volts and more system information (free memory, runtime, disk status). You can also restart or halt your Raspberry Pi and send custom commands. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
-- [Kore Remote] - Official remote to control Kodi. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore) 
-- [Home Remote Control] - Control mouse/keyboard, volume, manage download/upload files, custom commands, terminal, execute tasks in future, control media. [Android](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter)
-- [Raspicast] - Cast YouTube videos, media content from your android device, Play local media files, Play streams from playlists (m3u, pls) on your Raspberry Pi. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)  
-- [Screen Stream Mirroring] - To stream your phone screen directly to Pi. [Android](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial)
-- [Termius ] - One of the cleanest SSH Client for Pi. [Android](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client) 
-- [Tubio] - Cast web videos directly to Pi. [Android](https://play.google.com/store/apps/details?id=com.aesoftware.tubio) 
+- **RasPi Check** - To check Pi stats - frequency, temperature, volts and more system information (free memory, runtime, disk status). You can also restart or halt your Raspberry Pi and send custom commands. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
+- **Kore Remote** - Official remote to control Kodi. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore) 
+- **Home Remote Control** - Control mouse/keyboard, volume, manage download/upload files, custom commands, terminal, execute tasks in future, control media. [Android](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter)
+- **Raspicast** - Cast YouTube videos, media content from your android device, Play local media files, Play streams from playlists (m3u, pls) on your Raspberry Pi. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)  
+- **Screen Stream Mirroring** - To stream your phone screen directly to Pi. [Android](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial)
+- **Termius** - One of the cleanest SSH Client for Pi. [Android](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client) 
+- **Tubio** - Cast web videos directly to Pi. [Android](https://play.google.com/store/apps/details?id=com.aesoftware.tubio) 
 
 ## Projects
 - [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
