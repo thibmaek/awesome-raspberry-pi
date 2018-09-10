@@ -166,6 +166,9 @@ The complete collection of Raspberry Pi models consist of:
 - **Screen Stream Mirroring** - To stream your phone screen directly to Pi. [Android](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial)
 - **Termius** - One of the cleanest SSH Client for Pi. [Android](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client), [iOS](https://itunes.apple.com/us/app/termius-ssh-shell-console-terminal/id549039908?mt=8)
 - **Tubio** - Cast web videos directly to Pi. [Android](https://play.google.com/store/apps/details?id=com.aesoftware.tubio)
+- **VNC Viewer** - To remotely control Raspberry Pi desktop. [Android](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android&hl=en)
+- **Turbo FTP** - A good FTP client app for accessing files on raspberry. [Android](https://play.google.com/store/apps/details?id=turbo.client)
+- **AndFTP** - Alternative FTP client app. [Android](https://play.google.com/store/apps/details?id=lysesoft.andftp)
 
 ### Articles
 - [Raspberry Pi and why do I need one?](https://www.liquidlight.co.uk/blog/article/raspberry-pi-what-is-it-and-why-do-i-need-one/) - Intro into the Raspberry Pi and what can be done with it.
