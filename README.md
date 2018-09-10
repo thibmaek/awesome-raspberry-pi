@@ -97,16 +97,7 @@ The complete collection of Raspberry Pi models consist of:
 - [Pieman](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
 - [iotwifi](https://github.com/cjimti/iotwifi) - Wifi AP + Client management in 8MB [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/), with REST API for controlling wifi client and station modes simultaneously. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [TorTiPi](https://github.com/r0hi7/tortipi) - Shell script to automate the task of converting Raspberry Pi into a tor based wifi hotspot.
-- [Processing](https://pi.processing.org/get-started/) - Processing Development Environment running on Raspberry Pi.
-
-## Useful Apps
-- **RasPi Check** - To check Pi stats - frequency, temperature, volts and more system information (free memory, runtime, disk status). You can also restart or halt your Raspberry Pi and send custom commands. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
-- **Kore Remote** - Official remote to control Kodi. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore) 
-- **Home Remote Control** - Control mouse/keyboard, volume, manage download/upload files, custom commands, terminal, execute tasks in future, control media. [Android](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter)
-- **Raspicast** - Cast YouTube videos, media content from your android device, Play local media files, Play streams from playlists (m3u, pls) on your Raspberry Pi. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)  
-- **Screen Stream Mirroring** - To stream your phone screen directly to Pi. [Android](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial)
-- **Termius** - One of the cleanest SSH Client for Pi. [Android](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client) 
-- **Tubio** - Cast web videos directly to Pi. [Android](https://play.google.com/store/apps/details?id=com.aesoftware.tubio) 
+- [Processing](https://pi.processing.org/get-started/) - Processing Development Environment running on Raspberry Pi. 
 
 ## Projects
 - [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
@@ -165,6 +156,16 @@ The complete collection of Raspberry Pi models consist of:
 - [BeeMonitor](https://beemonitor.org/setup/) - Honey beehive monitoring project.
 
 ## Resources
+
+### Useful Apps
+- **RasPi Check** - To check Pi stats - frequency, temperature, volts and more system information (free memory, runtime, disk status). You can also restart or halt your Raspberry Pi and send custom commands. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
+- **Kore Remote** - Official remote to control Kodi. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore) 
+- **Home Remote Control** - Control mouse/keyboard, volume, manage download/upload files, custom commands, terminal, execute tasks in future, control media. [Android](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter)
+- **Raspicast** - Cast YouTube videos, media content from your android device, Play local media files, Play streams from playlists (m3u, pls) on your Raspberry Pi. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)  
+- **Screen Stream Mirroring** - To stream your phone screen directly to Pi. [Android](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial)
+- **Termius** - One of the cleanest SSH Client for Pi. [Android](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client) 
+- **Tubio** - Cast web videos directly to Pi. [Android](https://play.google.com/store/apps/details?id=com.aesoftware.tubio)
+
 ### Articles
 - [Raspberry Pi and why do I need one?](https://www.liquidlight.co.uk/blog/article/raspberry-pi-what-is-it-and-why-do-i-need-one/) - Intro into the Raspberry Pi and what can be done with it.
 - [10 Ways To Power](https://raspberrypi.about.com/od/Power/tp/10-Ways-to-Power-your-Raspberry-Pi.htm) - Information about different & correct ways to power the pi.
