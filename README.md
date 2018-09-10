@@ -154,7 +154,7 @@ The complete collection of Raspberry Pi models consist of:
 - [Occu-Pi](https://github.com/bww/occu-pi) - Controller software for the Occu-pi, a totally awesome bathroom door sensor.
 - [docsis-cable-load-monitor](https://github.com/sp4rkie/docsis-cable-load-monitor) - Tool to monitor downstream load on DOCSIS cable networks.
 - [BeeMonitor](https://beemonitor.org/setup/) - Honey beehive monitoring project.
-- [pi_payemnts](https://github.com/anshulahuja98/pi_payments) - A payment module made on Raspberry based on RFID.
+- [pi_payemnts](https://github.com/anshulahuja98/pi_payments) - Payment module based on RFID.
 
 ## Resources
 
