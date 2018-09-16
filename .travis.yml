@@ -1,5 +1,8 @@
 language: ruby
 
+install:
+  - gem install mdl awesome_bot
+
 script:
   - mdl README.md
   - awesome_bot README.md --allow-redirect
