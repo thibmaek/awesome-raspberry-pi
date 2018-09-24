@@ -1,0 +1,24 @@
+{
+  "projectName": "awesome-raspberry-pi",
+  "projectOwner": "thibmaek",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "CONTRIBUTORS.md",
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "thibmaek",
+      "name": "Thibault Maekelbergh",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6213695?v=4",
+      "profile": "http://thibmaek.com",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ]
+}
