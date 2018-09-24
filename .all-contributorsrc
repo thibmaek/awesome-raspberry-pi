@@ -64,6 +64,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "pageauc",
+      "name": "Claude Pageau",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5961060?v=4",
+      "profile": "https://www.youtube.com/user/pageaucp",
+      "contributions": [
+        "doc"
+      ]
     }
   ]
 }
