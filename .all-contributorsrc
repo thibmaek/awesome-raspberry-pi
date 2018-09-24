@@ -208,6 +208,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "billz",
+      "name": "Bill Zimmerman",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/229399?v=4",
+      "profile": "https://github.com/billz",
+      "contributions": [
+        "doc"
+      ]
     }
   ]
 }
