@@ -205,6 +205,11 @@ The complete collection of Raspberry Pi models consist of:
 - [Auto Mount USB](https://medium.com/@anshul.ahu/guide-to-setup-auto-mount-usb-on-raspberry-pi-4f343761627f) - Guide to setup Auto Mount USB on Raspberry Pi.
 - [DC++ Hub](https://medium.com/@anshul.ahu/guide-to-setup-an-adc-dc-hub-on-raspberry-pi-4dbf86ca8547) - Guide to setup an ADC (DC++) Hub on Raspberry Pi.
 
+## Relevant Youtube Channels
+- [Raspberry Pi](https://www.youtube.com/channel/UCFIjVWFZ__KhtTXHDJ7vgng)
+- [Make](https://www.youtube.com/channel/UChtY6O8Ahw2cz05PS2GhUbg)
+- [Novaspirit Tech](https://www.youtube.com/channel/UCrjKdwxaQMSV_NDywgKXVmw)
+
 ## Community
 
 - [Official Forum](https://www.raspberrypi.org/forums/)
