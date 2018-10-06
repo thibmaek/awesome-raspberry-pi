@@ -18,7 +18,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 
 ## Models
 
-The complete collection of Raspberry Pi models consist of:
+The complete collection of (consumer) Raspberry Pi models consist of:
 
 - Raspberry Pi 1, Model A & Model B (2012, discontinued)
 - [Raspberry Pi 1, Model B+](https://www.raspberrypi.org/products/raspberry-pi-1-model-b-plus/) (July, 2014)
