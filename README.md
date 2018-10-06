@@ -161,6 +161,8 @@ The complete collection of Raspberry Pi models consist of:
 - [docsis-cable-load-monitor](https://github.com/sp4rkie/docsis-cable-load-monitor) - Tool to monitor downstream load on DOCSIS cable networks.
 - [BeeMonitor](https://beemonitor.org/setup/) - Honey beehive monitoring project.
 - [pi_payments](https://github.com/anshulahuja98/pi_payments) - Payment module based on RFID.
+- [RaspiBolt](https://github.com/Stadicus/guides/tree/master/raspibolt) - Beginner’s Guide to ️⚡Lightning️⚡ on a Raspberry Pi.
+- [RaspiBlitz](https://github.com/rootzoll/raspiblitz) - Fastest and cheapest way to get your own Lightning Node running.
 
 ## Resources
 
