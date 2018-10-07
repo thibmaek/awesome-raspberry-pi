@@ -29,13 +29,14 @@
 
 Submitted PRs will be checked as soon as possible. If something is incorrect it will be labeled `awaiting-user` with the problem stated in the PR comments. If a PR becomes stale or no action is taken after some time with the PR being labeled `awaiting-user`, this PR will get the `reply-timeout` label and will be closed.
 
-#### Gitmoji
+#### Adding yourself to the contributor list
 
-It's recommended that you use [gitmoji](https://gitmoji.carloscuesta.me/) when contributing. The supported gitmoji must proceed the commit message followed by a space and be one of:
+Your contribution is valued!
 
-|Name, Use|Emoji|Example
-|---|---|---
-|`:heavy-plus-sign`, Adding items|➕|`git commit -m ":heavy-plus-sign: Added motionEye OS to the OS list"`
-|`:heavy-minus-sign`, Removing items|➖| `git commit -m ":heavy-minus-sign Removed motionEye OS from the OS list"`
-|`:truck`, Moving Items|🚚| `git commit -m ":truck: Moved motionEye OS from Projects to OS's"`
-|`:pencil2`, Fixing typos|✏️| `git commit -m ":pencil2: Fixed typo for Raspbian Jessie Lite"`
+If you want you can add yourself to the [list of contributors](./CONTRIBUTORS.md). You can do so manually (please add to the end of the list) or use an npm script to interactively use the all-contributors CLI:
+
+```console
+$ npm run contributor:add
+```
+
+If you are adding an item to the list please use the Documentation 📖 contribution type
