@@ -1,0 +1,24 @@
+{
+  "name": "awesome-raspberry-pi",
+  "version": "1.0.0",
+  "description": "<a href=\"https://www.raspberrypi.org\"><img src=\"https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png\" alt=\"Raspberry Pi Logo\" align=\"left\" style=\"margin-right: 25px\" height=150></a>",
+  "main": "index.js",
+  "scripts": {
+    "contributor:add": "all-contributors add",
+    "contributor:check": "all-contributors check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thibmaek/awesome-raspberry-pi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thibmaek/awesome-raspberry-pi/issues"
+  },
+  "homepage": "https://github.com/thibmaek/awesome-raspberry-pi#readme",
+  "devDependencies": {
+    "all-contributors-cli": "^5.4.0"
+  }
+}
