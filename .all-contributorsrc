@@ -17,7 +17,15 @@
       "profile": "http://thibmaek.com",
       "contributions": [
         "code",
-        "doc"
+        "doc",
+        "question",
+        "bug",
+        "example",
+        "ideas",
+        "infra",
+        "review",
+        "test",
+        "tool"
       ]
     },
     {
