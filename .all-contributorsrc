@@ -406,6 +406,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "sun-exploit",
+      "name": "Cyril Jovet",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9532235?v=4",
+      "profile": "https://www.linkedin.com/in/cyril-jovet/",
+      "contributions": [
+        "doc"
+      ]
     }
   ]
 }
