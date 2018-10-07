@@ -505,6 +505,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "stevelacy",
+      "name": "Steve Lacy",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5648999?v=4",
+      "profile": "http://slacy.me",
+      "contributions": [
+        "doc"
+      ]
     }
   ]
 }
