@@ -82,6 +82,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [SamplerBox](http://www.samplerbox.org/makeitsoftware) - Drop'n'play sampler: drop .WAV samples on the SD card, and play!
 - [SARPi](http://sarpi.fatdog.nl/index.php?p=sarpi) - Stands for the Slackware ARM on Raspberry Pi.
 - [Gentoo](https://wiki.gentoo.org/wiki/Raspberry_Pi) - Gentoo Stage 3 tarball for Raspberry Pi.
+- [Hass.io](https://www.home-assistant.io/hassio) - A preconfigured version of the Home Assistant home automation software.
 
 ## Tools
 
