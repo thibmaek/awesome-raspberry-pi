@@ -205,11 +205,6 @@ The complete collection of Raspberry Pi models consist of:
 - [Auto Mount USB](https://medium.com/@anshul.ahu/guide-to-setup-auto-mount-usb-on-raspberry-pi-4f343761627f) - Guide to setup Auto Mount USB on Raspberry Pi.
 - [DC++ Hub](https://medium.com/@anshul.ahu/guide-to-setup-an-adc-dc-hub-on-raspberry-pi-4dbf86ca8547) - Guide to setup an ADC (DC++) Hub on Raspberry Pi.
 
-## Relevant Youtube Channels
-- [Raspberry Pi](https://www.youtube.com/channel/UCFIjVWFZ__KhtTXHDJ7vgng)
-- [Make](https://www.youtube.com/channel/UChtY6O8Ahw2cz05PS2GhUbg)
-- [Novaspirit Tech](https://www.youtube.com/channel/UCrjKdwxaQMSV_NDywgKXVmw)
-
 ## Community
 
 - [Official Forum](https://www.raspberrypi.org/forums/)
@@ -218,10 +213,13 @@ The complete collection of Raspberry Pi models consist of:
 - [`@Raspberry_Pi` on Twitter](https://twitter.com/Raspberry_Pi)
 - [`raspberry-pi` on Spectrum](https://spectrum.chat/raspberry-pi)
 - [`#raspberrypi` on Freenode](https://webchat.freenode.net/?channels=%23raspberrypi)
+- [`Raspberry Pi` on YouTube](https://www.youtube.com/channel/UCFIjVWFZ__KhtTXHDJ7vgng)
 - [StackExchange](https://raspberrypi.stackexchange.com/)
 - [Reddit](https://www.reddit.com/r/raspberry_pi)
 - [Reddit Projects](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS)
 - [eLinux Hub](http://elinux.org/RPi_Hub)
+- [MAKE on Youtube](https://www.youtube.com/channel/UChtY6O8Ahw2cz05PS2GhUbg)
+- [Novaspirittech on YouTube](https://www.youtube.com/channel/UCrjKdwxaQMSV_NDywgKXVmw)
 
 ### Contributing
 
