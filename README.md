@@ -153,9 +153,9 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 #### Industry
 
+* [CODESYS-MQTT](https://github.com/stefandreyer/CODESYS-MQTT) - A MQTT client for CODESYS PLC
 * [modbus2mqtt](https://github.com/owagner/modbus2mqtt) - Modbus master which publishes register values via MQTT.
 * [mqtt2opcua](https://github.com/nzfarmer1/mqtt2opcua) - Bi Directional MQTT to OPCUA Bridge.
-* [CODESYS-MQTT](https://github.com/stefandreyer/CODESYS-MQTT) - A MQTT client for CODESYS PLC
 
 
 #### Telephony, PBX
