@@ -61,7 +61,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [PirateBox](https://piratebox.cc/raspberry_pi:diy) - Anonymous offline mobile file-sharing and communications system.
 - [OctoPi](https://octopi.octoprint.org/) - Distribution for 3d printers.
 - [Kano OS](http://developers.kano.me/downloads/) - Open-source OS for exploration, creation, and play – free for Raspberry Pi and the new Pi 3.
-- [resinOS](https://resinos.io) - open source OS to run Docker containers on embedded devices that's been designed for reliability and proven in production.
+- [balenaOS](https://www.balena.io/os/) - open source OS to run Docker containers on embedded devices that's been designed for reliability and proven in production.
 - [Fedora](https://fedoraproject.org/wiki/Raspberry_Pi#Preparing_the_SD_card) - Linux Fedora distribution built for the Pi. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [motionEyeOS](https://github.com/ccrisan/motioneyeos/wiki) - Linux distribution that turns a single-board computer into a video surveillance system.
 - [NextCloudPi](https://ownyourbits.com/2017/02/13/nextcloud-ready-raspberry-pi-image/) - Nextcloud ready image based on Raspbian. Features Nextcloud 11 running on Raspbian 8, with PHP 7 and HTTP2 enabled Apache server.
