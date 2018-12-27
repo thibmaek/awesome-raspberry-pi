@@ -215,7 +215,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 ### Swift programming
 - [Setup Swift environment on Raspbian](https://swiftreviewer.com/2018/12/21/swift-programming-on-raspberry-pi-part-2-3/) - A quick guide to help setup Swift enviroment on Raspbian Strech Lite OS.
-- [Compile Swift for Raspberry Pi by XCode](https://swiftreviewer.com/2018/12/25/compile-swift-for-raspberry-pi-by-xcode/) - A quick tutorial to share the way to help setup for compiling code for Raspberry Pi by XCode.
+- [Compile Swift for Raspberry Pi by Xcode](https://swiftreviewer.com/2018/12/25/compile-swift-for-raspberry-pi-by-xcode/) - A quick tutorial to share the way to help setup for compiling code for Raspberry Pi by Xcode.
 - [Swish](https://github.com/thomaspaulmann/Swish) - Build Swift Projects on a Remote Machine within Xcode.
 - [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) - A Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.
 - [BuildSwiftOnARM](https://github.com/uraimo/buildSwiftOnARM) - All you need to build Swift on a RaspberryPi or other ARM boards, updated to Swift 4.1.3.
