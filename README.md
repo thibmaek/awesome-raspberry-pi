@@ -115,6 +115,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [mqttex](https://github.com/alfert/mqttex) - MQTT implementation in Elixir.
 * [MQTTKit](https://github.com/mobile-web-messaging/MQTTKit) - MQTT Objective-C client for iOS.
 * [mqtt_cpp](https://github.com/redboltz/mqtt_cpp) - MQTT client for C++14 based on Boost.Asio.
+* [luamqtt](https://github.com/xHasKx/luamqtt/) - Pure-lua MQTT client
 * [mqtt_lua](http://geekscape.github.io/mqtt_lua/) - MQTT Client library for the Lua language.
 * [MQTT.js](https://github.com/mqttjs) - MQTT client for Node.js.
 * [mqtt-rs](https://github.com/zonyitoo/mqtt-rs) - MQTT protocol library for Rust.
