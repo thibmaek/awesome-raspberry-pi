@@ -212,6 +212,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Turn a Raspberry Pi into a Plex Media Server](https://www.codedonut.com/raspberry-pi/raspberry-pi-plex-media-server/) - Beginners guide to setting up a Plex media server to stream all of your media content.
 - [Auto Mount USB](https://medium.com/@anshul.ahu/guide-to-setup-auto-mount-usb-on-raspberry-pi-4f343761627f) - Guide to setup Auto Mount USB on Raspberry Pi.
 - [DC++ Hub](https://medium.com/@anshul.ahu/guide-to-setup-an-adc-dc-hub-on-raspberry-pi-4dbf86ca8547) - Guide to setup an ADC (DC++) Hub on Raspberry Pi.
+- [Raspbereum](https://github.com/jim380/Raspbereum) - Run your own Ethereum node on a Raspberry Pi.
 
 ### Swift programming
 - [Setup Swift environment on Raspbian](https://swiftreviewer.com/2018/12/21/swift-programming-on-raspberry-pi-part-2-3/) - Quick guide to help setup Swift enviroment on Raspbian Strech (lite).
