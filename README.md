@@ -169,6 +169,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [RaspiBolt](https://github.com/Stadicus/guides/tree/master/raspibolt) - Beginner’s Guide to ️⚡Lightning️⚡ on a Raspberry Pi.
 - [RaspiBlitz](https://github.com/rootzoll/raspiblitz) - Fastest and cheapest way to get your own Lightning Node running.
 - [FistBump BLE Edition](https://github.com/eliddell1/Project-Blue-Fist/blob/master/README.md) - WPA Hash Grabbing Bluetooth Peripheral / Android App.
+- [Raspi_Eth_Node](https://github.com/jim380/Raspi_Eth_Node) - Run Your Own Ethereum Node on a Raspberry Pi.
 
 ## Resources
 
