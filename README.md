@@ -1,10 +1,10 @@
-# Awesome MQTT 
+# Awesome MQTT
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of MQTT related stuff.
 
-MQTT is a lightweight client-server publish/subscribe messaging protocol, optimized for high-latency or unreliable networks. This protocol is a good choice for Internet of Things applications, Telemetry, Sensor Networks, Smart Metering, Home Automation, Messaging and Notification Services.   
+MQTT is a lightweight client-server publish/subscribe messaging protocol, optimized for high-latency or unreliable networks. This protocol is a good choice for Internet of Things applications, Telemetry, Sensor Networks, Smart Metering, Home Automation, Messaging and Notification Services.
 
 ## Contents
 
@@ -29,7 +29,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
     - [Messaging](#messaging)
     - [Misc](#misc)
 - [Visualization, Dashboards](#visualization-dashboards)
-- [Architecture, Convention](#architecture-convention)    
+- [Architecture, Convention](#architecture-convention)
 
 
 ### Community Resources
@@ -59,6 +59,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [Emitter](https://github.com/emitter-io/emitter) - A distributed, scalable and fault-tolerant publish-subscribe messaging platform based on MQTT protocol and featuring message storage.
 * [eMQTT](http://emqtt.io/) - The Massively Scalable MQTT Broker written in Erlang/OTP.
 * [esp_uMQTT_broker](https://github.com/martin-ger/esp_mqtt) - A basic MQTT Broker on the ESP8266.
+* [flespi](https://flespi.com/mqtt-broker) - Free cloud MQTT broker with private namespaces, MQTT 5.0 support and gorgeous limits.
 * [hbmqtt](https://github.com/beerfactory/hbmqtt) - Python MQTT broker using asyncio.
 * [HiveMQ](https://www.hivemq.com/) - Java based commercial MQTT Broker.
 * [hrotti](https://github.com/alsm/hrotti) - A MQTT broker written in Go.
@@ -75,8 +76,9 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 ### Tools
 
 * [imqtt](https://github.com/shafreeck/imqtt) - Interactive MQTT packet manipulation shell based on IPython.
-* [IoT-Testware](https://projects.eclipse.org/projects/technology.iottestware) - The Eclipse IoT-Testware is a collection of conformance test suites for IoT protocols enriched with additional tools for fuzzing and performance testing. 
+* [IoT-Testware](https://projects.eclipse.org/projects/technology.iottestware) - The Eclipse IoT-Testware is a collection of conformance test suites for IoT protocols enriched with additional tools for fuzzing and performance testing.
 * [moxy](https://github.com/jvermillard/moxy) - A Golang MQTT proxy providing useful output traces to monitor and troubleshoot your MQTT communications.
+* [MQTT Board](https://github.com/flespi-software/MQTT-Board) - Open-source diagnostic-oriented MQTT client tool.
 * [mqtt-admin](https://github.com/hobbyquaker/mqtt-admin/) - Web based MQTT frontend. [Direct Link](https://hobbyquaker.github.io/mqtt-admin/).
 * [mqtt-benchmark](https://github.com/chirino/mqtt-benchmark) - A benchmarking tool for MQTT Servers.
 * [mqtt-client](https://github.com/sdeancos/mqtt-client) - A Simple MQTT Client command line (Python) (use paho lib)
@@ -100,6 +102,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 * [CocoaMQTT](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X written with Swift.
 * [emqttc](https://github.com/emqtt/emqttc) - Asynchronous Erlang MQTT Client.
+* [gmqtt](https://github.com/wialon/gmqtt) - Python MQTT v5.0 client (asyncio-based)
 * [hbmqtt](https://github.com/beerfactory/hbmqtt) - Python MQTT client using asyncio.
 * [Hulaaki](https://github.com/suvash/hulaaki) - An Elixir library for clients communicating with MQTT brokers.
 * [luamqtt](https://github.com/xHasKx/luamqtt/) - Pure-lua MQTT client
