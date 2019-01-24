@@ -39,7 +39,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [NOOBS](https://www.raspberrypi.org/downloads/noobs/) - New Out Of the Box Software, an easy OS installer for beginners.
 - [Ubuntu MATE](https://ubuntu-mate.org/raspberry-pi/) - Ubuntu distribution for the Raspberry Pi based on MATE desktop. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [Snappy Ubuntu Core](https://developer.ubuntu.com/core/get-started/raspberry-pi-2-3) - Official (minimal) Ubuntu distribution for IoT. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
-- [Windows 10 IoT Core](https://developer.microsoft.com/nl-nl/windows/iot/Downloads.htm) - Windows 10 distribution for IoT. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
+- [Windows 10 IoT Core](https://docs.microsoft.com/nl-nl/windows/iot-core/downloads) - Windows 10 distribution for IoT. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [OSMC](https://osmc.tv/) - Open Source Media Centre, based on Kodi.
 - [PiNet](http://pinet.org.uk/) - System to manage Raspberry Pi classrooms.
 - [Risc OS](https://www.riscosopen.org/content/downloads/raspberry-pi) - Non-Linux OS originated from the group that developed the ARM microprocessor.
@@ -136,7 +136,6 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Planning lunch with a Slackbot on resin.io](https://resin.io/blog/planning-lunch-with-a-slackbot-on-resin-io/) - Node.js Slackbot (lunchbot), hosted on Resin.
 - [Sonus](https://github.com/evancohen/sonus) - Node.js voice control for your Pi (and everything else) with customizable offline hotword detection.
 - [Sonic Pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone.
-- [Alexa AVS](https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi) - Demonstration on using Alexa Voice Service with a Java client and Node.js server.
 - [Pi4j Project](http://pi4j.com) - Java I/O library the Raspberry Pi.
 - [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) - Display mimicking the Daily Prophet from Harry Potter using a 7" Raspberry Pi display.
 - [PiScan](http://denis.papathanasiou.org/posts/2015.05.30.post.html) - Makeshift Amazon Dash orders using a Raspberry PI + EAN scanner.
