@@ -339,6 +339,10 @@ Other tools that can be used to create Visualization/Dashboards can be found und
 * [mqtt-smarthome](https://github.com/mqtt-smarthome/mqtt-smarthome) - Smart home automation with MQTT as the central message bus - Architectural proposal.
 * [The Homie Convention](https://github.com/homieiot/convention) - A lightweight MQTT convention for the IoT.
 
+### Security, Encryption
+
+* [Teserakt E4](https://teserakt.io/) - End-to-end encryption for MQTT and other M2M protocols - Commercial solution.
+
 
 ## Contribute
 
