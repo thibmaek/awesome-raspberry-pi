@@ -30,6 +30,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
     - [Misc](#misc)
 - [Visualization, Dashboards](#visualization-dashboards)
 - [Architecture, Convention](#architecture-convention)
+- [Security, Encryption](#security-encryption)
 
 
 ### Community Resources
