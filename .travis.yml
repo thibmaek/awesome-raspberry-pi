@@ -1,7 +1,17 @@
 language: ruby
-rvm:
-  - 2.2
+
+matrix:
+  fast_finish: true
+  include:
+    - rvm: 2.2
+      env:
+      - TASK='awesome_bot'
+    - env:
+      - TASK='codespell'
+
 before_script:
-  - gem install awesome_bot
+  - if [ "$TASK" = "awesome_bot" ]; then gem install awesome_bot; fi
+  - if [ "$TASK" = "codespell" ]; then pip install --user git+https://github.com/codespell-project/codespell.git; fi
 script:
-  - awesome_bot README.md --allow-dupe --white-list creativecommons,awesome-mqtt.svg,wiki.videolan.org,homegear.eu
+  - if [ "$TASK" = "awesome_bot" ]; then awesome_bot README.md --allow-dupe --white-list creativecommons,awesome-mqtt.svg,wiki.videolan.org,homegear.eu; fi
+  - if [ "$TASK" = "codespell" ]; then codespell --check-filenames --check-hidden --quiet 2 --regex "[a-zA-Z0-9][\\-'a-zA-Z0-9]+[a-zA-Z0-9]" $(eval "find ./ -type f | xargs"); fi
