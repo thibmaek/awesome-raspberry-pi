@@ -151,6 +151,7 @@ Core analytics
 * [logic4mqtt](https://github.com/owagner/logic4mqtt) - Java based Logic and scripting engine for use with MQTT. Uses Java's general scripting interface, so scripts can be written in a multitude of languages like Javascript, Groovy etc.
 * [mqtt-scripts](https://github.com/hobbyquaker/mqtt-scripts/) - Node.js based script runner.
 * [Node-RED](https://nodered.org/) - A visual tool for wiring the Internet of Things.
+* [bootstrap-mosquitto-server](https://github.com/hazim-j/bootstrap-mosquitto-server) - Bash script for setting up an SSL encrypted MQTT broker with mosquitto and Let's Encrypt.
 
 
 ### Interfaces
