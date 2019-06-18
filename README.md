@@ -217,6 +217,7 @@ Core analytics
 * [mqttcollect](https://github.com/jpmens/mqttcollect) - A collectd "Exec" plugin for MQTT.
 * [mqtthandler](https://github.com/changyuheng/MQTTHandler) - A Python logging handler module for MQTT.
 * [mqtt2mongodb](https://github.com/David-Lor/MQTT2MongoDB) - Subscribe to MQTT topics and insert into MongoDB.
+* [mqtt-firebase](https://github.com/hazim-j/mqtt-firebase) - A CLI tool for subscribing to MQTT topics and dumping them to a firebase firestore DB.
 
 
 #### Smart Home Hardware Interfaces
