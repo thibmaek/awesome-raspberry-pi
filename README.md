@@ -109,6 +109,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) - Simple application/repo to bridge a Raspberry Pi's wlan0 interface to devices plugged into it over ethernet (eth0).
 - [TorTiPi](https://github.com/r0hi7/tortipi) - Shell script to automate the task of converting Raspberry Pi into a tor based wifi hotspot.
 - [WiFi config generator](https://steveedson.co.uk/tools/wpa/) - Simple tool to generate wpa_supplicant.conf files with wifi settings
+- [Orangetool](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers.
 
 ## Projects
 
