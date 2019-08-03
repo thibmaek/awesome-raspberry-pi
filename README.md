@@ -20,6 +20,12 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Projects](#projects)
 - [Resources](#resources)
 
+## MaybeUseful
+
+Maybe useful projects for RPi or Arduino:
+
+- [RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - RpiMotorLib : Raspberry Pi Motor Library : A python 3 library for various motors and servos to connect to a raspberry pi .
+
 ## Models
 
 The complete collection of (consumer) Raspberry Pi models consist of:
