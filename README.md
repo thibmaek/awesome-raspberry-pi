@@ -13,6 +13,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 
 ## Contents
 
+- [MaybeUseful](#MaybeUseful)    
 - [Models](#models)
 - [OS Images](#os-images)
 - [Tools](#tools)
