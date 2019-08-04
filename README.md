@@ -25,6 +25,14 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 Maybe useful projects for RPi or Arduino:
 
 - [RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - RpiMotorLib : Raspberry Pi Motor Library : A python 3 library for various motors and servos to connect to a raspberry pi .
+- [qtForRaspi](https://github.com/wanghaMAX/qtForRaspi) -  program raspberry with qt, using wiringPi 
+- [fbcp-ili9341](https://github.com/juj/fbcp-ili9341) - A blazing fast display driver for SPI-based LCD displays for Raspberry Pi A, B, 2, 3 and Zero 
+- [fm_transmitter](https://github.com/markondej/fm_transmitter) - Raspberry Pi as FM transmitter 
+- [emonpi](https://github.com/openenergymonitor/emonpi) - Raspberry Pi Based Energy Monitor https://guide.openenergymonitor.org/setup/
+- [sx127x_qt](https://github.com/dudmuck/sx127x_qt) - QT GUI for evaluating SX1272/SX1276 on Raspberry Pi 
+- [waves](https://github.com/euniceylee/waves) - raspberry pi project that visualizes sound waves 
+- [MYHouse-smart-dollhouse](https://github.com/msurguy/MYHouse-smart-dollhouse) - Gesture Recognition from accelerometer and gyro via MLP using MXNet on Raspberry Pi 
+- []
 
 ## Models
 
