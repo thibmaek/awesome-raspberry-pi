@@ -32,7 +32,8 @@ Maybe useful projects for RPi or Arduino:
 - [sx127x_qt](https://github.com/dudmuck/sx127x_qt) - QT GUI for evaluating SX1272/SX1276 on Raspberry Pi 
 - [waves](https://github.com/euniceylee/waves) - raspberry pi project that visualizes sound waves 
 - [MYHouse-smart-dollhouse](https://github.com/msurguy/MYHouse-smart-dollhouse) - Gesture Recognition from accelerometer and gyro via MLP using MXNet on Raspberry Pi 
-- []
+- [WiringPi](https://github.com/WiringPi/WiringPi) - Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi (Unofficial Mirror for WiringPi bindings) 
+- [Qt-raspberrypi3](https://github.com/edsoncelio/Qt-raspberrypi3) - Some examples about Qt with GPIO in RaspberryPi 3 
 
 ## Models
 
