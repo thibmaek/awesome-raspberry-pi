@@ -13,12 +13,20 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 
 ## Contents
 
+- [VerifiedProjects](#VerifiedProjects)    
 - [MaybeUseful](#MaybeUseful)    
 - [Models](#models)
 - [OS Images](#os-images)
 - [Tools](#tools)
 - [Projects](#projects)
 - [Resources](#resources)
+
+## VerifiedProjects
+
+Have verified on RPi0/3
+
+- [Adafruit_Python_SSD1306](https://github.com/adafruit/Adafruit_Python_SSD1306) - Python library to use SSD1306-based 128x64 or 128x32 pixel OLED displays with a Raspberry Pi or Beaglebone Black. Adafruit
+Adafruit(https://github.com/adafruit) 是电子教学平台、原型开发和开发工具领域快速成长的全球领导者，制造基地设在纽约市中心。https://www.digikey.cn/zh/supplier-centers/a/adafruit
 
 ## MaybeUseful
 
