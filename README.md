@@ -70,7 +70,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [OSMC](https://osmc.tv/) - Open Source Media Centre, based on Kodi.
 - [PiDeck](http://pideck.com/) - Small form factor DVS system allowing you to control digital music files with timecode vinyl.
 - [PiNet](http://pinet.org.uk/) - System to manage Raspberry Pi classrooms.
-- [PirateBox](https://piratebox.cc/raspberry_pi:diy) - Anonymous offline mobile file-sharing and communications system.
+- [PirateBox](https://piratebox.cc/doku.php?id=raspberry_pi:diy) - Anonymous offline mobile file-sharing and communications system.
 - [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) - The official supported Raspberry Pi OS, based on Debian and available as a lite version.
 - [RasPlex](http://www.rasplex.com/) - Plex client for the Raspberry Pi.
 - [Recalbox](https://www.recalbox.com) - Drag & drop light-weight retro-gaming and media center on the Raspberry Pi.
