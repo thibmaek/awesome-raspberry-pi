@@ -152,6 +152,7 @@ Core analytics
 * [logic4mqtt](https://github.com/owagner/logic4mqtt) - Java based Logic and scripting engine for use with MQTT. Uses Java's general scripting interface, so scripts can be written in a multitude of languages like Javascript, Groovy etc.
 * [mqtt-scripts](https://github.com/hobbyquaker/mqtt-scripts/) - Node.js based script runner.
 * [Node-RED](https://nodered.org/) - A visual tool for wiring the Internet of Things.
+* [bootstrap-mosquitto-server](https://github.com/hazim-j/bootstrap-mosquitto-server) - Bash script for setting up an SSL encrypted MQTT broker with mosquitto and Let's Encrypt.
 
 
 ### Interfaces
@@ -218,6 +219,7 @@ Core analytics
 * [mqttcollect](https://github.com/jpmens/mqttcollect) - A collectd "Exec" plugin for MQTT.
 * [mqtthandler](https://github.com/changyuheng/MQTTHandler) - A Python logging handler module for MQTT.
 * [mqtt2mongodb](https://github.com/David-Lor/MQTT2MongoDB) - Subscribe to MQTT topics and insert into MongoDB.
+* [mqtt-firebase](https://github.com/hazim-j/mqtt-firebase) - A CLI tool for subscribing to MQTT topics and dumping them to a firebase firestore DB.
 
 
 #### Smart Home Hardware Interfaces
