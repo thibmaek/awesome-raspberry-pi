@@ -170,7 +170,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Sonus](https://github.com/evancohen/sonus) - Node.js voice control for your Pi (and everything else) with customizable offline hotword detection.
 - [speed-camera](https://github.com/pageauc/speed-camera) - Object Motion Tracking uses python, openCV, USB Cam or picamera module to record speed data.
 - [Stratux](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
-- [StreamPi](https://stream-pi.com/) - A Customizable Multipurpose Keyboard (Much More!) for the Raspberry Pi, serving as an Opensource and Free Alternative to the [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck).
+- [StreamPi](https://stream-pi.com/) - A Customizable Multipurpose Keyboard (Much More!) for the Raspberry Pi, serving as a Robust Alternative to the [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck). Its Opensource as well.
 - [Vinyl Shelf Finder](https://valentingalea.github.io/vinyl-shelf-finder/) - Uses a tilt & pan laser to find a record in a record collection.
 - [Voice Kit](https://aiyprojects.withgoogle.com/voice) - AIY Voice Kit from Google, to build a standalone voice recognition system using the Google Assistant, or add voice recognition and natural language processing to your Raspberry Pi-based projects.
 - [Waves](https://github.com/euniceylee/waves) - Transforming the transience of the spoken word into something concrete and physical through a microphone, waveform and thermal printer.
