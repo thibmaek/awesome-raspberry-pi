@@ -1,0 +1,49 @@
+site_name: "Awesome Raspberry Pi"
+site_url: "https://awesome-rpi.netlify.com"
+site_description: "A curated list of awesome Raspberry Pi resources"
+site_author: "Thibault Maekelbergh"
+copyright: "Copyright 2016 - Thibault Maekelbergh. Creative Commons Attribution 4.0."
+
+# Repository
+repo_name: "awesome-raspberry-pi"
+repo_url: "https://github.com/thibmaek/awesome-raspberry-pi"
+edit_uri: ""
+
+# Theme configuration
+theme:
+  name: "material"
+  logo: "https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png"
+  icon: "https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png"
+  language: "en"
+  palette:
+    primary: "#e30b5d"
+  feature:
+    tabs: false
+extra_css:
+  - css/extra.css
+
+# Extensions
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - mdx_truly_sane_lists
+
+# The pages to serve
+nav:
+  - "Home": "index.md"
+  - "Contributing": "contributing.md"
