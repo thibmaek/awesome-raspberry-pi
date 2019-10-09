@@ -12,6 +12,10 @@ cd "$(dirname "$(dirname "${BASH_SOURCE[0]}")")"
 # Install requirements
 pip install -r requirements.txt
 
+if [ ! -d docs ]; then
+  mkdir docs
+fi
+
 # Get the pages into the docs folder
 ln -sf ../README.md docs/index.md
 ln -sf ../LICENSE.md docs/license.md
