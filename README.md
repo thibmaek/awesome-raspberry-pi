@@ -99,6 +99,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [iotwifi](https://github.com/cjimti/iotwifi) - Wifi AP + Client management in 8MB [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/), with REST API for controlling wifi client and station modes simultaneously. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
 - [OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - Shell script to set up Raspberry Pi as an OpenVPN server.
+- [Orangetool](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
 - [P4wnP1](https://github.com/mame82/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc.
 - [PiBakery](http://www.pibakery.org/) - The blocks based, easy to use setup tool for Raspberry Pi.
