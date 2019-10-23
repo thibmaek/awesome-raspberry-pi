@@ -153,7 +153,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [PiClock](https://github.com/n0bel/PiClock) - Fancy Clock built around a monitor and a Raspberry Pi.
 - [PiE-Ink](http://www.htxt.co.za/2017/02/07/pie-ink-is-a-raspberry-pi-name-tag-that-uses-an-e-ink-display/) - E-ink nametag display running on a Pi Zero. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [PiFanTuner](https://github.com/winkidney/PIFanTuner) - CPU-fan-tuner daemon, just enables your fan as necessary. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
-- [PiFmRds](https://github.com/ChristopheJacquet/PiFmRds) - FM-RDS transmitter using a Raspberry Pi
+- [PiFmRds](https://github.com/ChristopheJacquet/PiFmRds) - FM-RDS transmitter using a Raspberry Pi.
 - [PiScan](http://denis.papathanasiou.org/posts/2015.05.30.post.html) - Makeshift Amazon Dash orders using a Raspberry PI + EAN scanner.
 - [Planning lunch with a Slackbot on resin.io](https://resin.io/blog/planning-lunch-with-a-slackbot-on-resin-io/) - Node.js Slackbot (lunchbot), hosted on Resin.
 - [Power Sniffing Strip](https://hackaday.com/2012/10/04/malicious-raspberry-pi-power-strip-looks-a-bit-scary/) - Enclosure in a power strip, sniffing network data.
