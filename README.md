@@ -102,7 +102,7 @@ Core analytics
 * [mqtt-utils](https://github.com/dsell/mqtt-utils) - A collection of MQTT utilities.
 * [mqtt-wall](https://github.com/bastlirna/mqtt-wall) - Subscription only web-based client – like Twitter wall for MQTT.
 * [mqtt-wildcard](https://github.com/hobbyquaker/mqtt-wildcard) - Node.js Module to match a MQTT Topic against wildcards.
-* [MQTT.fx](http://mqttfx.jfx4ee.org/) - MQTT.fx is a MQTT Client written in Java based on Eclipse Paho. Supports scripting.
+* [MQTT.fx](https://mqttfx.jensd.de/) - MQTT.fx is a MQTT Client written in Java based on Eclipse Paho. Supports scripting.
 * [mqttcli](https://github.com/shirou/mqttcli) - MQTT Client for shell scripting.
 * [MQTTInspector](https://github.com/ckrey/MQTTInspector) - A general MQTT testing app for iOS (iPhone and iPad).
 * [MQTTLens](https://chrome.google.com/webstore/detail/mqttlens/hemojaaeigabkbcookmlgmdigohjobjm) - A Google Chrome application, which connects to a MQTT broker and is able to subscribe and publish to MQTT topics.
@@ -167,13 +167,13 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 * [ESPEasy](https://www.letscontrolit.com/wiki/index.php?title=ESPEasy) - Turns ESP into a multifunction sensor device for <abbr title="Home automation">HA</abbr> solutions with web-based configuration.
 * [ESPHome](https://esphome.io/) - builds ESP8266/ESP32 firmware from concise YAML descriptions, uploads to and manages flashed devices.
 * [Espurna](https://github.com/xoseperez/espurna) - <abbr title="Home automation">HA</abbr> firmware for ESP8266-based devices with rich web UI and ≈120 devices supported out of the box
-* [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) - Firmware for ESP8266 devices with web-based configuration. ≈500 devices supported (not only Sonoffs).
+* [Sonoff-Tasmota](https://github.com/arendst/Tasmota) - Firmware for ESP8266 devices with web-based configuration. ≈500 devices supported (not only Sonoffs).
 * [WiFi-IoT](https://wifi-iot.com/p/wiki/) - ESP8266/ESP32 firmware builder. Partly in Russian. Free features are limited.
 
 #### Makers
 
 * [arduinoTemps2mqtt](https://github.com/matbor/arduinoTemps2mqtt) - Arduino sketch, grab One-wire Temperature's and publish to a MQTT broker.
-* [Basecamp](https://github.com/merlinschumacher/Basecamp) - An Arduino library to ease the use of the ESP32 in IoT projects. See [c't Magazin 2'2018 (German)](https://www.heise.de/select/ct/2018/2/1515452111258448).
+* [Basecamp](https://github.com/ct-Open-Source/Basecamp) - An Arduino library to ease the use of the ESP32 in IoT projects. See [c't Magazin 2'2018 (German)](https://www.heise.de/select/ct/2018/2/1515452111258448).
 * [ESP8266MQTTMesh](https://github.com/PhracturedBlue/ESP8266MQTTMesh) - MQTT over mesh WiFi integrated library for ESP8266
 * [esp_mqtt](https://github.com/tuanpmt/esp_mqtt) - MQTT client library for ESP8266.
 * [mqtt-ir-transceiver](https://github.com/enc-X/mqtt-ir-transceiver) - ESP8266 based bidirectional gateway between MQTT and IR. Use with PlatformIO.
@@ -232,13 +232,13 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 * [mqttcollect](https://github.com/jpmens/mqttcollect) - A collectd "Exec" plugin for MQTT.
 * [mqtthandler](https://github.com/changyuheng/MQTTHandler) - A Python logging handler module for MQTT.
 * [mqtt2mongodb](https://github.com/David-Lor/MQTT2MongoDB) - Subscribe to MQTT topics and insert into MongoDB.
-* [mqtt-firebase](https://github.com/hazim-j/mqtt-firebase) - A CLI tool for subscribing to MQTT topics and dumping them to a firebase firestore DB.
+* [mqtt-firebase](https://www.npmjs.com/package/mqtt-firebase) - A CLI tool for subscribing to MQTT topics and dumping them to a firebase firestore DB.
 
 
 #### Smart Home Hardware Interfaces
 
 * [aqara-mqtt](https://github.com/monster1025/aqara-mqtt) - Aqara (Xiaomi) Gateway to MQTT bridge.
-* [aqara2mqtt](https://github.com/hobbyquaker/aqara2mqtt) - Attach [Aqara](https://www.aqara.com/en/products.html) Smart Hubs to MQTT.
+* [aqara2mqtt](https://github.com/hobbyquaker/aqara2mqtt) - Attach [Aqara](https://www.aqara.com/us/home.html) Smart Hubs to MQTT.
 * [cul2mqtt](https://github.com/hobbyquaker/cul2mqtt) - Interface between [Busware CUL](http://shop.busware.de/product_info.php/cPath/1/products_id/29) (868MHz RF-Devices like ELV FS20, HMS, EM, ...) and MQTT.
 * [domiqtt](https://github.com/etobi/domiqtt) - Connects to a Domiq Base (LCN) and translate from and to MQTT.
 * [eno2mqtt](https://github.com/owagner/eno2mqtt) - Interface between an Enocean USB300 (TCM310) adapter and MQTT.
@@ -262,7 +262,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 #### Smart Home Integration Software
 
 * [control-freak](https://github.com/catx23/control-freak) - IDE for IoT & friends. Built in MQTT support.
-* [Domoticz](http://www.domoticz.com/) - Domoticz beta supports MQTT.
+* [Domoticz](https://www.domoticz.com/) - Domoticz beta supports MQTT.
 * [FHEM](http://fhem.de/fhem.html) has a [MQTT module](http://fhem.de/commandref.html#MQTT) since V5.6.
 * [Home Assistant](https://www.home-assistant.io/) has a MQTT component.
 * [Home.Pi](https://github.com/denschu/home.pi) is based on MQTT.
@@ -311,7 +311,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 #### Smart Metering
 
-* [bcontrol2mqtt](https://github.com/hobbyquaker/bcontrol2mqtt) - Publish measurements from [TQ Energy Manager](https://www.tq-group.com/produkte/produktdetail/prod/energy-manager/extb/Main/) to MQTT.
+* [bcontrol2mqtt](https://github.com/hobbyquaker/bcontrol2mqtt) - Publish measurements from TQ Energy Manager / [Busch-Jäger Energy Monitor](https://www.busch-jaeger.de/files/files_ONLINE/Brosch%c3%bcre_EnergyMonitor_druck.pdf) to MQTT.
 
 
 #### Messaging
@@ -350,7 +350,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 ### Visualization, Dashboards
 
-* [Crouton](http://crouton.mybluemix.net/crouton/gettingStarted) - A dashboard that taps into your IOT network, using only MQTT and JSON.
+* [Crouton](https://github.com/edfungus/Crouton) - A dashboard that taps into your IOT network, using only MQTT and JSON.
 * [d3-MQTT-Topic-Tree](https://github.com/hardillb/d3-MQTT-Topic-Tree) - A MQTT Topic Tree viewer using the d3 collapsible tree and MQTT over websockets.
 * [HelloIoT](https://github.com/adrianromero/helloiot) - HelloIoT is a MQTT client and dashboard application.
 * [HOMR-REACT](https://github.com/klauserber/homr-react) - A configurable MQTT Visualization.
