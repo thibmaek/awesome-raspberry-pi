@@ -67,7 +67,10 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [hrotti](https://github.com/alsm/hrotti) - A MQTT broker written in Go.
 * [Moquette](https://github.com/moquette-io/moquette) - Java MQTT lightweight broker.
 * [Mosca](http://www.mosca.io/) - Mosca is a node.js MQTT broker, which can be used Standalone or Embedded in another Node.js application.
-* [Mosquitto](http://mosquitto.org/) - "The" Open Source MQTT Broker.
+* [Mosquitto](http://mosquitto.org/) - *"*The"** Open Source MQTT Broker. 
+     * [Free test server](https://mqtt.eclipse.org/) hosted by the Eclipse Foundation.
+     * [Authorization Plugin in Go](https://github.com/iegomez/mosquitto-go-auth) supports many types of logins.
+     * [Let's Encrypt Mosquitto Docker Container](https://hub.docker.com/r/pythonlinks/letsencrypt-mosquitto) makes it easy to encrypt. 
 * [MyQttHub](https://myqtthub.com) - Cloud MQTT broker.
 * [Mystique](https://github.com/TheThingsIndustries/mystique) - An extendable MQTT broker written in Go, with HTTP capabilities for observability. Implements MQTT v3.1.1.
 * [RabbitMQ](https://www.rabbitmq.com/mqtt.html) - RabbitMQ offers a MQTT Adapter.
