@@ -13,5 +13,5 @@ before_script:
   - if [ "$TASK" = "awesome_bot" ]; then gem install awesome_bot; fi
   - if [ "$TASK" = "codespell" ]; then pip install --user git+https://github.com/codespell-project/codespell.git; fi
 script:
-  - if [ "$TASK" = "awesome_bot" ]; then awesome_bot README.md --allow-dupe --white-list creativecommons,awesome-mqtt.svg,wiki.videolan.org,homegear.eu; fi
+  - if [ "$TASK" = "awesome_bot" ]; then awesome_bot README.md --allow-dupe --white-list creativecommons,awesome-mqtt.svg,wiki.videolan.org,homegear.eu,cloud.emqx.io,www.busch-jaeger.de; fi
   - if [ "$TASK" = "codespell" ]; then codespell --check-filenames --check-hidden --quiet 2 --regex "[a-zA-Z0-9][\\-'a-zA-Z0-9]+[a-zA-Z0-9]" $(eval "find ./ -type f | xargs"); fi
