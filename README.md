@@ -175,7 +175,7 @@ Core analytics
 
 #### ESP8266 devices
 
-There are many inexpensive smart home Wi-Fi devices based on inexpensive ESP8266 chip _(see: [1](https://blakadder.github.io/templates/index.html), [2](https://github.com/xoseperez/espurna#supported-hardware), [3](https://www.letscontrolit.com/wiki/index.php?title=ESP_Hardware))_. Most of them can be reflashed with custom firmware.
+There are many inexpensive smart home Wi-Fi devices based on inexpensive ESP8266 chip _(see: [1](https://templates.blakadder.com/index.html), [2](https://github.com/xoseperez/espurna#supported-hardware), [3](https://www.letscontrolit.com/wiki/index.php?title=ESP_Hardware))_. Most of them can be reflashed with custom firmware.
 Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 * [ESPEasy](https://www.letscontrolit.com/wiki/index.php?title=ESPEasy) - Turns ESP into a multifunction sensor device for <abbr title="Home automation">HA</abbr> solutions with web-based configuration.
