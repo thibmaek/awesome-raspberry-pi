@@ -177,18 +177,23 @@ Core analytics
 
 * [arduinoTemps2mqtt](https://github.com/matbor/arduinoTemps2mqtt) - Arduino sketch, grab One-wire Temperature's and publish to a MQTT broker.
 * [Basecamp](https://github.com/ct-Open-Source/Basecamp) - An Arduino library to ease the use of the ESP32 in IoT projects. See [c't Magazin 2'2018 (German)](https://www.heise.de/select/ct/2018/2/1515452111258448).
-* [ESP8266MQTTMesh](https://github.com/PhracturedBlue/ESP8266MQTTMesh) - MQTT over mesh WiFi integrated library for ESP8266
-* [esp_mqtt](https://github.com/tuanpmt/esp_mqtt) - MQTT client library for ESP8266.
-* [mqtt-ir-transceiver](https://github.com/enc-X/mqtt-ir-transceiver) - ESP8266 based bidirectional gateway between MQTT and IR. Use with PlatformIO.
-* [mqtt-with-micropython](https://docs.pycom.io/chapter/tutorials/all/mqtt/) - Connect to MQTT with micropython and wipy/others (ESP32 inside)
 * [MySensors](https://www.mysensors.org/) - Arduino NRF24L01 based sensor network with support for an MQTT gateway
-* [nodemcu-gpiomqtt](https://github.com/hobbyquaker/nodemcu-gpiomqtt) - Lua script to connect ESP8266 GPIOs to MQTT.
 * [pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT.
 * [RFM69-MQTT-client](https://github.com/computourist/RFM69-MQTT-client) - Arduino RFM69 based sensors and MQTT gateway.
 * [rpi2mqtt](https://github.com/hobbyquaker/rpi2mqtt) - Connect a RaspberryPis GPIOs and 1-Wire Temperature Sensors to MQTT.
 * [xbee2mqtt](https://github.com/xoseperez/xbee2mqtt) - XBee to MQTT gateway.
 
 ##### ESP
+
+* [ESP32-BLE2MQTT](https://github.com/shmuelzon/esp32-ble2mqtt)
+* [ESP8266MQTTMesh](https://github.com/PhracturedBlue/ESP8266MQTTMesh) - MQTT over mesh WiFi integrated library for ESP8266
+* [esp_mqtt](https://github.com/tuanpmt/esp_mqtt) - MQTT client library for ESP8266.
+* [mqtt-ir-transceiver](https://github.com/enc-X/mqtt-ir-transceiver) - ESP8266 based bidirectional gateway between MQTT and IR. Use with PlatformIO.
+* [mqtt-with-micropython](https://docs.pycom.io/chapter/tutorials/all/mqtt/) - Connect to MQTT with micropython and wipy/others (ESP32 inside)
+* [nodemcu-gpiomqtt](https://github.com/hobbyquaker/nodemcu-gpiomqtt) - Lua script to connect ESP8266 GPIOs to MQTT.
+
+
+##### Firmwares for ESP based Devices 
 
 There are many inexpensive smart home Wi-Fi devices based on inexpensive ESP8266 chip _(see: [1](https://templates.blakadder.com/index.html), [2](https://github.com/xoseperez/espurna#supported-hardware), [3](https://www.letscontrolit.com/wiki/index.php?title=ESP_Hardware))_. Most of them can be reflashed with custom firmware.
 Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
