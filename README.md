@@ -11,6 +11,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 - [Community Resources](#community-resources)
 - [Broker](#broker)
 - [Cloud](#cloud)
+- [Platforms](#platforms)
 - [Tools](#tools)
 - [Clients](#clients)
 - [Scripting](#scripting)
