@@ -83,7 +83,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [SamplerBox](http://www.samplerbox.org/makeitsoftware) - Drop'n'play sampler: drop .WAV samples on the SD card, and play!
 - [SARPi](http://sarpi.fatdog.nl/index.php?p=sarpi) - Stands for the Slackware ARM on Raspberry Pi.
 - [Snappy Ubuntu Core](https://developer.ubuntu.com/core/get-started/raspberry-pi-2-3) - Official (minimal) Ubuntu distribution for IoT. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
-- [TrueOS](https://www.trueos.org/handbook/pico.html) - FreeBSD-based thin client solution. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
+- ~~[TrueOS](https://www.trueos.org/handbook/pico.html) - FreeBSD-based thin client solution. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)~~ **Discontinued**
 - [Ubuntu MATE](https://ubuntu-mate.org/raspberry-pi/) - Ubuntu distribution for the Raspberry Pi based on MATE desktop. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [Ubuntu Server](https://www.ubuntu.com/download/iot/raspberry-pi-2-3) - Ubuntu Server distribution for the Raspberry Pi. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png) ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [Volumio](https://volumio.org/) - Headless audiophile music player, designed to play music with the highest possible fidelity.
