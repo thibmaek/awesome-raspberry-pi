@@ -363,6 +363,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 * [mqttclpro](https://github.com/dc297/mqttclpro) - MQTT Client with tasker integration Android app.
 * [mqttDB](https://github.com/hobbyquaker/mqttDB) - A JSON store with MQTT interface.
 * [mqtt-camera-streamer](https://github.com/robmarkcole/mqtt-camera-streamer) - Stream images from a connected camera over MQTT & view using Streamlit
+* [mqtt-transformer](https://github.com/tg44/mqtt-transformer) - A simple service which consumes, transforms and periodically republish json messages on MQTT.
 * [node-mqtt-for-anki-overdrive](https://github.com/IBM-Cloud/node-mqtt-for-anki-overdrive) - Node.js Controller and MQTT API for Anki Overdrive.
 * [parrot-sample](https://github.com/IBM-Cloud/parrot-sample) - Sample code which uses MQTT to control a Parrot AR Drone.
 * [snowboy2mqtt](https://github.com/hobbyquaker/snowboy2mqtt) - Publish MQTT Messages on Snowboy Hotword Detection.
@@ -387,6 +388,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 * [MQTT-Hyperdash](https://github.com/kollokollo/MQTT-Hyperdash) - A universal independent MQTT Dashboard for linux/Raspberry Pi.
 * [MQTT.Cool Test Client](https://testclient-cloud.mqtt.cool) - A web interface for testing interaction between MQTT.Cool and any MQTT broker.
 * [mqtt-panel](https://github.com/fabaff/mqtt-panel) - A web interface for MQTT.
+* [mqtt-prometheus-message-exporter](https://github.com/tg44/mqtt-prometheus-message-exporter) - A small service which will convert mqtt messages to prometheus metrics.
 * [mqtt-svg-dash](https://github.com/jpmens/mqtt-svg-dash) - Subscribe to MQTT, extract JSON from a message and make lights blink on an SVG page.
 * [mqtt2highcharts](https://github.com/matbor/mqtt2highcharts) - Plotting live numbered data from a subscribed MQTT topic using Highcharts.
 * [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED.
