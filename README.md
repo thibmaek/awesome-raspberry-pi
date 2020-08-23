@@ -250,7 +250,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 * [graylog-plugin-mqtt](https://github.com/graylog-labs/graylog-plugin-mqtt) - MQTT Input Plugin for Graylog.
 * [influx4mqtt](https://github.com/hobbyquaker/influx4mqtt) - Subscribe to MQTT topics and insert into InfluxDB.
 * [mqtt2elasticsearch](https://github.com/hobbyquaker/mqtt2elasticsearch) - Send MQTT messages to Elasticsearch.
-* [mqtt2graphite](https://github.com/jpmens/mqtt2graphite) - Subscribe to MQTT topics and push to Graphite's Carbon server.
+* [mqtt2graphite](https://github.com/jpmens/mqtt2graphite) - Archived!  Instead use [mqttwarn](https://github.com/jpmens/mqttwarn) with [carbon](https://github.com/jpmens/mqttwarn/blob/master/HANDBOOK.md#carbon) plugin.
 * [mqttcollect](https://github.com/jpmens/mqttcollect) - A collectd "Exec" plugin for MQTT.
 * [mqtthandler](https://github.com/changyuheng/MQTTHandler) - A Python logging handler module for MQTT.
 * [mqtt2mongodb](https://github.com/David-Lor/MQTT2MongoDB) - Subscribe to MQTT topics and insert into MongoDB.
