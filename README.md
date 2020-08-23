@@ -65,6 +65,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [hbmqtt](https://github.com/beerfactory/hbmqtt) - Python MQTT broker using asyncio.
 * [HiveMQ](https://www.hivemq.com/) - Java MQTT Broker that supports MQTT 3.1, 3.1.1 and 5.0. Commercial and open source editions available.
 * [hrotti](https://github.com/alsm/hrotti) - A MQTT broker written in Go.
+* [KMQTT](https://github.com/davidepianca98/KMQTT) - Kotlin Multiplatform MQTT broker, both embeddable and standalone.
 * [Moquette](https://github.com/moquette-io/moquette) - Java MQTT lightweight broker.
 * [Mosca](http://www.mosca.io/) - Mosca is a node.js MQTT broker, which can be used Standalone or Embedded in another Node.js application.
 * [Mosquitto](http://mosquitto.org/) - *"*The"** Open Source MQTT Broker. 
