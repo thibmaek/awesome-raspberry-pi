@@ -155,6 +155,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Pi Image Capturer](https://github.com/rajeshkumarkhadka/Pi-Image-Capturer) - Captures images, integrated with the Google IOT Cloud Platform ecosystem.
 - [pi_payments](https://github.com/anshulahuja98/pi_payments) - Payment module based on RFID.
 - [Pi-hole](https://pi-hole.net/) - Black hole for internet ads.
+- [Pi-KVM](https://github.com/pikvm/pikvm) - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
 - [pi-timolo](https://github.com/pageauc/pi-timolo) - Remote Headless multi feature PiCamera Operation from Rclone Remote Storage Service and More.
 - [Pi4j Project](http://pi4j.com) - Java I/O library the Raspberry Pi.
 - [PiAware](https://uk.flightaware.com/adsb/piaware/install) - Live flight tracking using a Raspberry Pi.
