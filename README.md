@@ -94,6 +94,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 - [Alpha](https://github.com/farjump/raspberry-pi) - Remotely load, debug and test bare-metal programs using GDB with this system-level GDB server.
 - [ApplePi Bakery](http://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) - macOS application to easily install/backup/restore images onto an SD card.
+- [Atlas toolkit](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
 - [CusDeb](https://cusdeb.com/en/) - Web UI for creating custom images with specific packages installed.
 - [balenaEtcher](https://www.balena.io/etcher/) - SD card burner app that is simple for end users, extensible for developers, and works on any platform.
 - [Drago](https://seashell.github.io/drago) - Flexible configuration manager for Wireguard networks that is perfect for establishing secure overlays spanning multiple Raspberry Pis.
