@@ -220,7 +220,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 ### Books
 
-- [Getting Started with Java on the Raspberry Pi (published 2020)](https://webtechie.be/books/) - A lot of info and history about Java itself and how to install and use it on the Raspberry Pi with a lot of example projects.
+- [Getting Started with Java on the Raspberry Pi](https://leanpub.com/gettingstartedwithjavaontheraspberrypi/) - A lot of info and history about Java itself and how to install and use it on the Raspberry Pi with a lot of example projects.
 
 ### Tutorials
 
