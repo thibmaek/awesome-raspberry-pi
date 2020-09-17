@@ -222,6 +222,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 ### Books
 
+- [Control Your Home with Raspberry Pi](https://koen.vervloesem.eu/books/control-your-home-with-raspberry-pi/) - Teaches you how to turn a Raspberry Pi into a secure, modular, open source and self-hosted home automation gateway with Docker Compose, MQTT and TLS.
 - [Getting Started with Java on the Raspberry Pi](https://leanpub.com/gettingstartedwithjavaontheraspberrypi/) - A lot of info and history about Java itself and how to install and use it on the Raspberry Pi with a lot of example projects.
 
 ### Tutorials
