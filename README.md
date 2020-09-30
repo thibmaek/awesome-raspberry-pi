@@ -272,14 +272,14 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 ### Courses
 
-- [Getting Started with Your Raspberry Pi](https://www.futurelearn.com/courses/getting-started-with-your-raspberry-pi)
-- [Robotics With Raspberry Pi: Build and Program Your First Robot Buggy](https://www.futurelearn.com/courses/robotics-with-raspberry-pi)
-- [Teaching Physical Computing with Raspberry Pi and Python](https://www.futurelearn.com/courses/physical-computing-raspberry-pi-python)
-- [The Raspberry Pi Platform and Python Programming for the Raspberry Pi (University of California, Irvine)](https://www.coursera.org/learn/raspberry-pi-platform)
-- [Interfacing with the Raspberry Pi (University of California, Irvine)](https://www.coursera.org/learn/raspberry-pi-interface)
-- [Raspberry Pi Full Stack Raspbian](https://www.udemy.com/course/raspberry-pi-full-stack-raspbian/)
-- [Raspberry Pi for Beginners](https://bit.ly/RaspberryPiCourse)
-- [Build your own Vehical Tracking System from Scratch - Raspberry Pi](https://www.udemy.com/course/build-your-own-vehicle-tracking-system-from-scratch-raspberry-pi-w/)
+- [Build your own Vehical Tracking System from Scratch - Raspberry Pi](https://www.udemy.com/course/build-your-own-vehicle-tracking-system-from-scratch-raspberry-pi-w/) - Create your own Vehical Tracking System using Python
+- [Getting Started with Your Raspberry Pi](https://www.futurelearn.com/courses/getting-started-with-your-raspberry-pi) - Learn the basics of Raspberry Pi
+- [Interfacing with the Raspberry Pi (University of California, Irvine)](https://www.coursera.org/learn/raspberry-pi-interface) - Using networking with a Raspberry Pi
+- [Robotics With Raspberry Pi: Build and Program Your First Robot Buggy](https://www.futurelearn.com/courses/robotics-with-raspberry-pi) - Build your First Robot with Raspberry Pi
+- [Raspberry Pi Full Stack Raspbian](https://www.udemy.com/course/raspberry-pi-full-stack-raspbian/) - Become a Full Stack Raspbian
+- [Raspberry Pi for Beginners](https://bit.ly/RaspberryPiCourse) - Raspberry Pi Course for Complete Beginners
+- [Teaching Physical Computing with Raspberry Pi and Python](https://www.futurelearn.com/courses/physical-computing-raspberry-pi-python) - Learn Physical Computing with Raspberry Pi and Python
+- [The Raspberry Pi Platform and Python Programming for the Raspberry Pi (University of California, Irvine)](https://www.coursera.org/learn/raspberry-pi-platform) - Learn Python Programming With Raspberry Pi
 
 ### Contributing
 
