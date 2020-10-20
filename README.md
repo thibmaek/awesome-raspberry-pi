@@ -73,6 +73,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [PiDeck](http://pideck.com/) - Small form factor DVS system allowing you to control digital music files with timecode vinyl.
 - [PiNet](http://pinet.org.uk/) - System to manage Raspberry Pi classrooms.
 - [PirateBox](https://piratebox.cc/doku.php?id=raspberry_pi:diy) - Anonymous offline mobile file-sharing and communications system.
+- [RasComm RaspberryPi MorseCode Translator](https://github.com/Defcon27/RasComm-RaspberryPi-MorseCode-Translator) - RasComm is a communication device that translates plain text into Morse code (IMC) visually or audibly.
 - [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) - The official supported Raspberry Pi OS, based on Debian and available as a lite version.
 - [RasPlex](http://www.rasplex.com/) - Plex client for the Raspberry Pi.
 - [Recalbox](https://www.recalbox.com) - Drag & drop light-weight retro-gaming and media center on the Raspberry Pi.
@@ -83,7 +84,6 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [SamplerBox](http://www.samplerbox.org/makeitsoftware) - Drop'n'play sampler: drop .WAV samples on the SD card, and play!
 - [SARPi](http://sarpi.fatdog.nl/index.php?p=sarpi) - Stands for the Slackware ARM on Raspberry Pi.
 - [Snappy Ubuntu Core](https://developer.ubuntu.com/core/get-started/raspberry-pi-2-3) - Official (minimal) Ubuntu distribution for IoT. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
-- [TrueOS](https://www.trueos.org/handbook/pico.html) - FreeBSD-based thin client solution. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [Twister OS](https://twisteros.com/) - Skinned version of Raspberry Pi OS with preinstalled apps like box86 and Retropie to introduce noobs to Linux and Raspberry Pi. ![Supports Raspberry Pi 4+]
 - [Ubuntu MATE](https://ubuntu-mate.org/raspberry-pi/) - Ubuntu distribution for the Raspberry Pi based on MATE desktop. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [Ubuntu Server](https://www.ubuntu.com/download/iot/raspberry-pi-2-3) - Ubuntu Server distribution for the Raspberry Pi. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png) ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
@@ -248,6 +248,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Turn a Raspberry Pi into a Plex Media Server](https://www.codedonut.com/raspberry-pi/raspberry-pi-plex-media-server/) - Beginners guide to setting up a Plex media server to stream all of your media content.
 - [Turn the Raspberry Pi Zero into a mini dongle computer](https://n-o-d-e.net/pi_zero_dongle.html) - Setup a pi0 to be able to ssh & vnc over USB. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) - Tutorial on using a Raspberry Pi with multiple networks.
+- [Use a Raspberry Pi with Netflix](https://thepi.io/how-to-watch-netflix-on-the-raspberry-pi/) - Tutorial on watching Netflix on a Raspberry Pi.
 
 ### Swift programming
 
