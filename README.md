@@ -73,7 +73,8 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [PiDeck](http://pideck.com/) - Small form factor DVS system allowing you to control digital music files with timecode vinyl.
 - [PiNet](http://pinet.org.uk/) - System to manage Raspberry Pi classrooms.
 - [PirateBox](https://piratebox.cc/doku.php?id=raspberry_pi:diy) - Anonymous offline mobile file-sharing and communications system.
-- [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) - The official supported Raspberry Pi OS, based on Debian and available as a lite version.
+- [Raspberry Pi OS](https://www.raspberrypi.org/downloads/) - The official supported Raspberry Pi OS (previously called "Raspbian"), based on Debian and available as a lite version.
+- [Raspbian](http://www.raspbian.org/) - Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware.
 - [RasPlex](http://www.rasplex.com/) - Plex client for the Raspberry Pi.
 - [Recalbox](https://www.recalbox.com) - Drag & drop light-weight retro-gaming and media center on the Raspberry Pi.
 - [RetroPie](https://retropie.org.uk/) - Retro-gaming on the Raspberry Pi.
