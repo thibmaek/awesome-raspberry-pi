@@ -3,15 +3,16 @@ language: ruby
 matrix:
   fast_finish: true
   include:
-    - language: ruby
-      rvm: 2.2
-      before_script:
-        - pip install git+https://github.com/codespell-project/codespell.git
-      script:
-        - codespell --check-filenames --check-hidden --quiet 2 --regex "[a-zA-Z0-9][\\-'a-zA-Z0-9]+[a-zA-Z0-9]" $(eval "find ./ -type f | xargs")
     - language: python
       python: 3.5
       before_script:
         - pip install git+https://github.com/codespell-project/codespell.git
+      script:
+        - codespell --check-filenames --check-hidden --quiet 2 --regex "[a-zA-Z0-9][\\-'a-zA-Z0-9]+[a-zA-Z0-9]" $(eval "find ./ -type f | xargs")
+
+    - language: ruby
+      rvm: 2.2
+      before_script:
+        - gem install awesome_bot
       script:
         - awesome_bot README.md --allow-dupe --white-list creativecommons,awesome-mqtt.svg,wiki.videolan.org,homegear.eu,cloud.emqx.io,www.busch-jaeger.de
