@@ -1,7 +1,7 @@
 language: ruby
 
 before_install:
-  - sudo apt-get -y python3.5
+  - sudo apt-get -y install python3.5
 
 matrix:
   fast_finish: true
