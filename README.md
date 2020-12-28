@@ -268,7 +268,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 #### Smart Home Hardware Interfaces
 
 * [aqara-mqtt](https://github.com/monster1025/aqara-mqtt) - Aqara (Xiaomi) Gateway to MQTT bridge.
-* [aqara2mqtt](https://github.com/hobbyquaker/aqara2mqtt) - Attach [Aqara](http://www.aqara.com.cn) Smart Hubs to MQTT.
+* [aqara2mqtt](https://github.com/hobbyquaker/aqara2mqtt) - Attach [Aqara](http://www.aqara.com.cn/us/index.html) Smart Hubs to MQTT.
 * [can2mqtt] (https://github.com/c3re/can2mqtt) - CAN-Bus - MQTT Bridge (also works vice versa).
 * [cul2mqtt](https://github.com/hobbyquaker/cul2mqtt) - Interface between [Busware CUL](http://shop.busware.de/product_info.php/cPath/1/products_id/29) (868MHz RF-Devices like ELV FS20, HMS, EM, ...) and MQTT.
 * [domiqtt](https://github.com/etobi/domiqtt) - Connects to a Domiq Base (LCN) and translate from and to MQTT.
