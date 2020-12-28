@@ -15,4 +15,4 @@ matrix:
       before_script:
         - gem install awesome_bot
       script:
-        - awesome_bot README.md --allow-dupe --white-list creativecommons,awesome-mqtt.svg,wiki.videolan.org,homegear.eu,cloud.emqx.io,www.busch-jaeger.de
+        - awesome_bot README.md --allow-dupe --white-list creativecommons,awesome-mqtt.svg,wiki.videolan.org,homegear.eu,cloud.emqx.io,www.busch-jaeger.de,www.domoticz.com,teserakt.io
