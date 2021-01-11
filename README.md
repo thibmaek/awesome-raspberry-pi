@@ -70,6 +70,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [OpenELEC](http://openelec.tv/) - Open Embedded Linux Entertainment Center, a very lightweight Kodi build.
 - [OpenHABian](https://docs.openhab.org/installation/openhabian.html) - A preconfigured version of the OpenHAB home automation software. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [OpenMediaVault](https://www.openmediavault.org/) - OpenMediaVault is the next generation network attached storage (NAS) solution based on Debian Linux containing services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
+- [openSUSE](https://en.opensuse.org/HCL:Raspberry_Pi) - openSUSE is a major Linux distribution that has images based for its stable release Leap and rolling release Tumbleweed. Images can be found for many of the Pis, including the [Raspberry Pi 3](https://en.opensuse.org/HCL:Raspberry_Pi3) and [Raspberry Pi 4](https://en.opensuse.org/HCL:Raspberry_Pi4). 
 - [OpenWRT](https://wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi) - OpenWrt is described as a Linux distribution for embedded devices for network management.
 - [OSMC](https://osmc.tv/) - Open Source Media Centre, based on Kodi.
 - [PiDeck](http://pideck.com/) - Small form factor DVS system allowing you to control digital music files with timecode vinyl.
@@ -252,6 +253,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Turn the Raspberry Pi Zero into a mini dongle computer](https://n-o-d-e.net/pi_zero_dongle.html) - Setup a pi0 to be able to ssh & vnc over USB. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) - Tutorial on using a Raspberry Pi with multiple networks.
 - [Use a Raspberry Pi with Netflix](https://thepi.io/how-to-watch-netflix-on-the-raspberry-pi/) - Tutorial on watching Netflix on a Raspberry Pi.
+- [Using openSUSE's YaST on the Raspberry Pi](https://www.raspberry-pi-geek.com/Archive/2017/22/Using-openSUSE-s-YaST-on-the-Raspberry-Pi).
 
 ### Swift programming
 
@@ -272,6 +274,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Novaspirittech on YouTube](https://www.youtube.com/channel/UCrjKdwxaQMSV_NDywgKXVmw)
 - [Official Blog](https://www.raspberrypi.org/blog/)
 - [Official Forum](https://www.raspberrypi.org/forums/)
+- [openSUSE arm Mailing list](https://lists.opensuse.org/archives/list/arm@lists.opensuse.org/)
 - [Raspberry Pi Jam — Official conferences](https://www.raspberrypi.org/jam/)
 - [Reddit Projects](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS)
 - [Reddit](https://www.reddit.com/r/raspberry_pi)
