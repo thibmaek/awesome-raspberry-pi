@@ -228,6 +228,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 * [agi-mqtt](https://github.com/zeha/agi-mqtt) - Interface between Asterisk and MQTT.
 * [fritz2mqtt](https://github.com/akentner/fritz2mqtt) - Connect FRITZ!Box to MQTT.
 * [sip2mqtt](https://github.com/MartyTremblay/sip2mqtt) - A SIP monitoring script that publishes incoming calls with CallerID to MQTT.
+* [sms2mqtt](https://github.com/Domochip/sms2mqtt) - Docker Gateway to send/receive SMS through MQTT using an USB GSM dongle (gammu).
 
 
 #### Operating System
