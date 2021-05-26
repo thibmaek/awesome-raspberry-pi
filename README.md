@@ -93,7 +93,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Ubuntu MATE](https://ubuntu-mate.org/raspberry-pi/) - Ubuntu distribution for the Raspberry Pi based on MATE desktop. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [Ubuntu Server](https://www.ubuntu.com/download/iot/raspberry-pi-2-3) - Ubuntu Server distribution for the Raspberry Pi. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png) ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [Volumio](https://volumio.org/) - Headless audiophile music player, designed to play music with the highest possible fidelity.
-- [Windows 10 ARM](https://pi64.win/) - Run Windows 10 ARM64 on Raspberry Pi, which is community supported.
+- [Windows 10 ARM](https://worproject.ml/) - Community maintained Windows 10 on Raspberry Pi. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png) ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [Windows 10 IoT Core](https://docs.microsoft.com/nl-nl/windows/iot-core/downloads) - Windows 10 distribution for IoT. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 
 ## Tools
