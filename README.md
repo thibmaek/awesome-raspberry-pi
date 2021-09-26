@@ -240,6 +240,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Auto Mount USB](https://medium.com/@anshul.ahu/guide-to-setup-auto-mount-usb-on-raspberry-pi-4f343761627f) - Guide to setup Auto Mount USB on Raspberry Pi.
 - [Bridging Wifi to the Raspberry Pi over Ethernet](https://thibmaek.com/post/bridging-wifi-to-the-raspberry-pi-over-ethernet) - Set up tethered networking between macOS & Raspberry Pi.
 - [Build a $35 Time Capsule](https://raymii.org/s/articles/Build_a_35_dollar_Time_Capsule_-_Raspberry_Pi_Time_Machine.html) - Time Machine Backup Server.
+- [Build a SamplerBox musical instrument](http://chromakinetics.com/samplerbox) - Simple instructions to make a MIDI sampler.
 - [Controlling Spotify with Slack and a Raspberry Pi](https://thesocietea.org/2016/03/controlling-spotify-with-slack-and-a-raspberry-pi/) - Node.js project to control Spotify & Slack with libspotify.
 - [DC++ Hub](https://medium.com/@anshul.ahu/guide-to-setup-an-adc-dc-hub-on-raspberry-pi-4dbf86ca8547) - Guide to setup an ADC (DC++) Hub on Raspberry Pi.
 - [DIY Neural Network](http://hackaday.com/2017/06/14/diy-raspberry-neural-network-sees-all-recognizes-some/) - Uses image recognition and Google’s Inception to recognize specific objects.
