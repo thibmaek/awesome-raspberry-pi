@@ -14,5 +14,5 @@
   - [ ] mentions if there is only support some devices,
   - [ ] is not a duplicate,
   - [ ] has been in the correct alphabetical order for its section,
-  - [ ] is in the form of **Named Link - Description, seperated by commas.**
+  - [ ] is in the form of **Named Link - Description, separated by commas.**
   - [ ] ends with a dot.
