@@ -35,6 +35,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Raspberry Pi 4, Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) (June, 2019)
 - [Raspberry Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400/) (November, 2020)
 - [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) (January, 2021)
+- [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) (October, 2021)
 
 ## OS Images
 
