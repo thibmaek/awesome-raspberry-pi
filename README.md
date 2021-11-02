@@ -236,6 +236,16 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 ### Books
 
 - [Control Your Home with Raspberry Pi](https://koen.vervloesem.eu/books/control-your-home-with-raspberry-pi/) - Teaches you how to turn a Raspberry Pi into a secure, modular, open source and self-hosted home automation gateway with Docker Compose, MQTT and TLS.
+- [Essentials - AIY Voice Projects](https://magpi.raspberrypi.com/books/essentials-aiy-v1) - Using Google's AIY Project Kit, learn how to use artificial intelligence with your Raspberry Pi. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
+- [Essentials - Camera Module Guide](https://magpi.raspberrypi.com/books/essentials_camera_v1) - How to use your Raspberry Pi Foundation's Camera Module with your Raspberry Pi.
+- [Essentials - Code Music with Sonic Pi](https://magpi.raspberrypi.com/books/essentials-sonic-pi-v1) - Learn how to create music by coding with Sonic Pi on your Raspberry Pi.
+- [Essentials - Conquer the Command Line (Version 2)](https://magpi.raspberrypi.com/books/command-line-second-edition) - Learn how to command and conquer the command line on the Raspberry Pi using Raspbian, simplify complex tasks while you automate simple ones.
+- [Essentials - GPIO Zero Electronics](https://magpi.raspberrypi.com/books/essentials-gpio-zero-v1) - Create electronic creations using the GPIO pins and the GPIO Zero library on your Raspberry Pi.
+- [Essentials - Learn to Code with C](https://magpi.raspberrypi.com/books/essentials-c-v1) - Learn how to code using the language that built most of Linux and Raspbian, the C programming language, on your Raspberry Pi.
+- [Essentials - Learn to Code with Scratch](https://magpi.raspberrypi.com/books/essentials-scratch-v1) - Use the Scratch coding blocks language to learn the basics of programming on your Raspberry Pi.
+- [Essentials - Make Games with Python](https://magpi.raspberrypi.com/books/essentials-games-vol1) - Create your own entertainment with a Raspberry Pi by making games with Python, from simple text based games to full-fledged games with sound and animations.
+- [Essentials - Making with Minecraft](https://magpi.raspberrypi.com/books/essentials-minecraft-v1) - Learn how to interact with a special Raspberry Pi version of minecraft using APIs, the GPIO pins, your programs, and so much more.
+- [Essentials - Sense HAT Experiments](https://magpi.raspberrypi.com/books/essentials-sense-hat-v1) - A useful book of experiments to use with the Sense HAT and how use it to it's full potential.
 - [Getting Started with Java on the Raspberry Pi](https://leanpub.com/gettingstartedwithjavaontheraspberrypi/) - A lot of info and history about Java itself and how to install and use it on the Raspberry Pi with a lot of example projects.
 
 ### Tutorials
