@@ -247,6 +247,11 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Essentials - Making with Minecraft](https://magpi.raspberrypi.com/books/essentials-minecraft-v1) - Learn how to interact with a special Raspberry Pi version of minecraft using APIs, the GPIO pins, your programs, and so much more.
 - [Essentials - Sense HAT Experiments](https://magpi.raspberrypi.com/books/essentials-sense-hat-v1) - A useful book of experiments to use with the Sense HAT and how use it to it's full potential.
 - [Getting Started with Java on the Raspberry Pi](https://leanpub.com/gettingstartedwithjavaontheraspberrypi/) - A lot of info and history about Java itself and how to install and use it on the Raspberry Pi with a lot of example projects.
+- [Raspberry Pi Projects Book 1](https://magpi.raspberrypi.com/books/projects-1) - A collection of Raspberry Pi projects with project guides and reviews of Raspberry Pi products.
+- [Raspberry Pi Projects Book 2](https://magpi.raspberrypi.com/books/projects-2) - A second collection of Raspberry Pi projects with project guides and reviews of Raspberry Pi products.
+- [Raspberry Pi Projects Book 3](https://magpi.raspberrypi.com/books/projects-3) - A third collection of Raspberry Pi projects with project guides and reviews of Raspberry Pi products.
+- [Raspberry Pi Projects Book 4](https://magpi.raspberrypi.com/books/projects-4) - A fourth collection of Raspberry Pi projects with project guides and reviews of Raspberry Pi products.
+- [Raspberry Pi Projects Book 5](https://magpi.raspberrypi.com/books/projects-5) - A fifth collection of Raspberry Pi projects with project guides and reviews of Raspberry Pi products.
 
 ### Tutorials
 
