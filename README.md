@@ -236,7 +236,33 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 ### Books
 
 - [Control Your Home with Raspberry Pi](https://koen.vervloesem.eu/books/control-your-home-with-raspberry-pi/) - Teaches you how to turn a Raspberry Pi into a secure, modular, open source and self-hosted home automation gateway with Docker Compose, MQTT and TLS.
+- [Essentials - AIY Voice Projects](https://magpi.raspberrypi.com/books/essentials-aiy-v1) - Using Google's AIY Project Kit, learn how to use artificial intelligence with your Raspberry Pi. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
+- [Essentials - Camera Module Guide](https://magpi.raspberrypi.com/books/essentials_camera_v1) - How to use your Raspberry Pi Foundation's Camera Module with your Raspberry Pi.
+- [Essentials - Code Music with Sonic Pi](https://magpi.raspberrypi.com/books/essentials-sonic-pi-v1) - Learn how to create music by coding with Sonic Pi on your Raspberry Pi.
+- [Essentials - Conquer the Command Line (Version 2)](https://magpi.raspberrypi.com/books/command-line-second-edition) - Learn how to command and conquer the command line on the Raspberry Pi using Raspbian, simplify complex tasks while you automate simple ones.
+- [Essentials - GPIO Zero Electronics](https://magpi.raspberrypi.com/books/essentials-gpio-zero-v1) - Create electronic creations using the GPIO pins and the GPIO Zero library on your Raspberry Pi.
+- [Essentials - Learn to Code with C](https://magpi.raspberrypi.com/books/essentials-c-v1) - Learn how to code using the language that built most of Linux and Raspbian, the C programming language, on your Raspberry Pi.
+- [Essentials - Learn to Code with Scratch](https://magpi.raspberrypi.com/books/essentials-scratch-v1) - Use the Scratch coding blocks language to learn the basics of programming on your Raspberry Pi.
+- [Essentials - Make Games with Python](https://magpi.raspberrypi.com/books/essentials-games-vol1) - Create your own entertainment with a Raspberry Pi by making games with Python, from simple text based games to full-fledged games with sound and animations.
+- [Essentials - Making with Minecraft](https://magpi.raspberrypi.com/books/essentials-minecraft-v1) - Learn how to interact with a special Raspberry Pi version of minecraft using APIs, the GPIO pins, your programs, and so much more.
+- [Essentials - Sense HAT Experiments](https://magpi.raspberrypi.com/books/essentials-sense-hat-v1) - A useful book of experiments to use with the Sense HAT and how use it to it's full potential.
 - [Getting Started with Java on the Raspberry Pi](https://leanpub.com/gettingstartedwithjavaontheraspberrypi/) - A lot of info and history about Java itself and how to install and use it on the Raspberry Pi with a lot of example projects.
+- [Getting Started with Raspberry Pi](https://magpi.raspberrypi.com/books/get-started) - Learn how to get started with your **Raspberry Pi 3A+**. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
+- [Raspberry Pi Annual 2018](https://magpi.raspberrypi.com/books/annual-2018) - An educational book aimed to kids of all ages for an introduction to the Raspberry Pi.
+- [Raspberry Pi Beginner's Book 1](https://magpi.raspberrypi.com/books/beginners-1) - The official Raspberry Pi beginner book covering how to get started with your Raspberry Pi and starting to utilize different software and hardware projects.
+- [Raspberry Pi Beginner's Guide](https://magpi.raspberrypi.com/books/beginners-guide) - Learn how to get started with your **Raspberry Pi 3B+**. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
+- [Raspberry Pi Beginner's Guide v2](https://magpi.raspberrypi.com/books/beginners-guide-2nd-ed) - Learn how to get started with your **Raspberry Pi 4**.
+- [Raspberry Pi Beginner's Guide v3](https://magpi.raspberrypi.com/books/beginners-guide-3rd-ed) - Learn how to get started with your **Raspberry Pi 4**.
+- [Raspberry Pi Beginner's Guide v4](https://magpi.raspberrypi.com/books/beginners-guide-4th-ed) - Learn how to get started with your **Raspberry Pi 4 and Raspberry Pi 400**.
+- [Raspberry Pi Camera Guide](https://magpi.raspberrypi.com/books/camera-guide) - Learn how to use your High Quality Camera or Camera Module with your Raspberry Pi. 
+- [Raspberry Pi Projects Book 1](https://magpi.raspberrypi.com/books/projects-1) - A collection of Raspberry Pi projects with project guides and reviews of Raspberry Pi products.
+- [Raspberry Pi Projects Book 2](https://magpi.raspberrypi.com/books/projects-2) - A second collection of Raspberry Pi projects with project guides and reviews of Raspberry Pi products.
+- [Raspberry Pi Projects Book 3](https://magpi.raspberrypi.com/books/projects-3) - A third collection of Raspberry Pi projects with project guides and reviews of Raspberry Pi products.
+- [Raspberry Pi Projects Book 4](https://magpi.raspberrypi.com/books/projects-4) - A fourth collection of Raspberry Pi projects with project guides and reviews of Raspberry Pi products.
+- [Raspberry Pi Projects Book 5](https://magpi.raspberrypi.com/books/projects-5) - A fifth collection of Raspberry Pi projects with project guides and reviews of Raspberry Pi products.
+- [Retro Gaming with Raspberry Pi](https://magpi.raspberrypi.com/books/retro-gaming) - A guide on how to setup your Raspberry Pi to play classic games, and how to make your own games.
+- [The Official Raspberry Pi Handbook 2021](https://magpi.raspberrypi.com/books/handbook-2021) - A guide to help you get the most of your Raspberry Pi computer, essential information, project ideas, tutorials, and reviews.
+- [The Official Raspberry Pi Handbook 2022](https://magpi.raspberrypi.com/books/handbook-2022) - A guide to help you get the most of your Raspberry Pi computer, essential information, project ideas, tutorials, and reviews. **Updated for Raspberry Pi Pico.** 
 
 ### Tutorials
 
