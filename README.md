@@ -166,6 +166,7 @@ Core analytics
 * [mqtt](https://github.com/jeffallen/mqtt) - MQTT Clients, Servers and Load Testers in Go.
 * [mqttex](https://github.com/alfert/mqttex) - MQTT implementation in Elixir.
 * [MQTTKit](https://github.com/mobile-web-messaging/MQTTKit) - MQTT Objective-C client for iOS.
+* [mqtt_monitor](https://github.com/filipsPL/mqtt-monitor) - simple and lightweight console moniotor for mqtt topics, with eye-candies, in python 3.
 * [Paho](http://www.eclipse.org/paho/) - Open source client implementations (C/C++, Java, Python, Javascript, Go, C#).
 * [pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT.
 * [ruby-mqtt](https://github.com/njh/ruby-mqtt) - Pure Ruby gem that implements the MQTT protocol.
