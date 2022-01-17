@@ -1,0 +1,8 @@
+name: CI
+
+on: push
+
+jobs:
+  lint_md:
+    - uses: actions/checkout@main
+    - uses: gaurav-nelson/github-action-markdown-link-check@v1
