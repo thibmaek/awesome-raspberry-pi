@@ -9,4 +9,4 @@ jobs:
       - uses: actions/checkout@main
       - uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
-          file-path: './README.md, ./LICENSE'
+          file-path: './README.md'
