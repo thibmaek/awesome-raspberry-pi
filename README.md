@@ -40,7 +40,6 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 ## OS Images
 
 - [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi) - Security-oriented, lightweight Linux distribution based on musl libc and busybox.
-- [Android Things](https://developer.android.com/things/hardware/raspberrypi.html) - Build connected devices for a wide variety of consumer, retail, and industrial applications. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [Arch Linux ARM](https://archlinuxarm.org/) - Lightweight and flexible Linux distribution that tries to Keep It Simple.
 - [balenaOS](https://www.balena.io/os/) - open source OS to run Docker containers on embedded devices that's been designed for reliability and proven in production.
 - [BerryBoot](http://www.berryterminal.com/doku.php/berryboot) - Bootloader/universal OS installer, with support to VNC and HDMI-CEC.
@@ -58,7 +57,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Hass.io](https://home-assistant.io/hassio/installation/) - Home automation operating system/application for embedded device, also available standalone.
 - [HypriotOS](http://blog.hypriot.com/about/) - Minimal Debian-based operating system, optimized to run Docker.
 - [Kali Linux](https://www.offensive-security.com/kali-linux-arm-images/) - Penetration Testing & Ethical Hacking Linux distro for ARM devices.
-- [Kano OS](http://developers.kano.me/downloads/) - Open-source OS for exploration, creation, and play – free for Raspberry Pi and the new Pi 3.
+- [Kano OS](https://help.kano.me/hc/en-us/articles/360001063620-How-to-Install-Reinstall-Kano-OS-for-Raspberry-Pi) - Open-source OS for exploration, creation, and play – free for Raspberry Pi and the new Pi 3.
 - [Lakka](http://lakka.tv) - Retro-gaming on the Raspberry Pi built entirely on RetroArch.
 - [LibreELEC](https://libreelec.tv/) - Just enough OS for Kodi
 - [Manjaro](https://manjaro.org/download/) - Friendly, open-source Linux distribution for Raspberry Pi.
@@ -69,8 +68,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [NextCloudPi](https://ownyourbits.com/2017/02/13/nextcloud-ready-raspberry-pi-image/) - Nextcloud ready image based on Raspbian. Features Nextcloud 11 running on Raspbian 8, with PHP 7 and HTTP2 enabled Apache server.
 - [NOOBS](https://www.raspberrypi.org/downloads/noobs/) - New Out Of the Box Software, an easy OS installer for beginners.
 - [OctoPi](https://octopi.octoprint.org/) - Distribution for 3d printers.
-- [OpenELEC](http://openelec.tv/) - Open Embedded Linux Entertainment Center, a very lightweight Kodi build.
-- [OpenHABian](https://docs.openhab.org/installation/openhabian.html) - A preconfigured version of the OpenHAB home automation software. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
+- [OpenHABian](https://www.openhab.org/docs/installation/openhabian.html) - A preconfigured version of the OpenHAB home automation software. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [OpenMediaVault](https://www.openmediavault.org/) - OpenMediaVault is the next generation network attached storage (NAS) solution based on Debian Linux containing services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [openSUSE](https://en.opensuse.org/HCL:Raspberry_Pi) - openSUSE is a major Linux distribution that has images based for its stable release Leap and rolling release Tumbleweed. Images can be found for many of the Pis, including the [Raspberry Pi 3](https://en.opensuse.org/HCL:Raspberry_Pi3) and [Raspberry Pi 4](https://en.opensuse.org/HCL:Raspberry_Pi4). 
 - [OpenWRT](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi) - OpenWrt is described as a Linux distribution for embedded devices for network management.
@@ -146,7 +144,6 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Drumbooth controller with touch interface](https://github.com/FDelporte/DrumBoothController) - Project using Java, JavaFX, Pi4J and Arduino to control 8 relays and LED strips.
 - [FistBump BLE Edition](https://github.com/eliddell1/Project-Blue-Fist/blob/master/README.md) - WPA Hash Grabbing Bluetooth Peripheral / Android App.
 - [FruitNanny](https://ivadim.github.io/2017-08-21-fruitnanny/) - Baby monitor including custom case, server, and client source code. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
-- [Garage Door Opener](https://github.com/benjefferies/gogo-garage-opener) - Garage door opener using the [Garage Opener](https://play.google.com/store/apps/details?id=com.ionicframework.gogogarageopenerui416115&hl=en) app to control garage door.
 - [Gaussmeter](https://github.com/gaussmeter/gaussmeter) - Project utilizing a Raspberry Pi Zero W, WS2812B Leds and the Tesla API to collect and display a Tesla's status. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) - Display mimicking the Daily Prophet from Harry Potter using a 7" Raspberry Pi display.
 - [Haven](https://github.com/havenweb/haven) - Host a private blog on your Rasperry Pi intead of using Facebook.
@@ -270,7 +267,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 ### Tutorials
 
 - [Auto Mount USB](https://medium.com/@anshul.ahu/guide-to-setup-auto-mount-usb-on-raspberry-pi-4f343761627f) - Guide to setup Auto Mount USB on Raspberry Pi.
-- [Bridging Wifi to the Raspberry Pi over Ethernet](https://thibmaek.com/post/bridging-wifi-to-the-raspberry-pi-over-ethernet) - Set up tethered networking between macOS & Raspberry Pi.
+- [Bridging Wifi to the Raspberry Pi over Ethernet](https://thibmaek.com/posts/bridging-wifi-to-the-raspberry-pi-over-ethernet) - Set up tethered networking between macOS & Raspberry Pi.
 - [Build a $35 Time Capsule](https://raymii.org/s/articles/Build_a_35_dollar_Time_Capsule_-_Raspberry_Pi_Time_Machine.html) - Time Machine Backup Server.
 - [Controlling Spotify with Slack and a Raspberry Pi](https://thesocietea.org/2016/03/controlling-spotify-with-slack-and-a-raspberry-pi/) - Node.js project to control Spotify & Slack with libspotify.
 - [DC++ Hub](https://medium.com/@anshul.ahu/guide-to-setup-an-adc-dc-hub-on-raspberry-pi-4dbf86ca8547) - Guide to setup an ADC (DC++) Hub on Raspberry Pi.
@@ -281,9 +278,8 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Moonlight](https://github.com/irtimmer/moonlight-embedded) - Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi.
 - [Raspbereum](https://github.com/jim380/Raspbereum) - Run your own Ethereum node on a Raspberry Pi.
 - [Raspberry Pi Game Console](https://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192) - How to Build a Raspberry Pi Retro Game Console for $35.
-- [Raspberry Pi login with SSH keys](https://thibmaek.com/post/raspberry-pi-login-with-ssh-keys) - Password-less login for ssh sessions on the Raspberry Pi.
+- [Raspberry Pi login with SSH keys](https://thibmaek.com/posts/raspberry-pi-login-with-ssh-keys) - Password-less login for ssh sessions on the Raspberry Pi.
 - [Raspberry Pi Media Server Guides](http://www.htpcguides.com/category/raspberry-pi/) - Media Server and NAS tutorials from HTPC Guides.
-- [Raspberry Pi Zero: Programming over USB](http://blog.gbaman.info/?p=791) - Guide to boot and access a Raspberry Pi Zero over a USB cable without need of an ethernet/wifi connection, keyboard or screen. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [Turn a Raspberry Pi into a Plex Media Server](https://www.codedonut.com/raspberry-pi/raspberry-pi-plex-media-server/) - Beginners guide to setting up a Plex media server to stream all of your media content.
 - [Turn the Raspberry Pi Zero into a mini dongle computer](https://n-o-d-e.net/pi_zero_dongle.html) - Setup a pi0 to be able to ssh & vnc over USB. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) - Tutorial on using a Raspberry Pi with multiple networks.
@@ -309,7 +305,6 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Novaspirittech on YouTube](https://www.youtube.com/channel/UCrjKdwxaQMSV_NDywgKXVmw)
 - [Official Blog](https://www.raspberrypi.org/blog/)
 - [Official Forum](https://www.raspberrypi.org/forums/)
-- [openSUSE arm Mailing list](https://lists.opensuse.org/archives/list/arm@lists.opensuse.org/)
 - [Raspberry Pi Jam — Official conferences](https://www.raspberrypi.org/jam/)
 - [Reddit Projects](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS)
 - [Reddit](https://www.reddit.com/r/raspberry_pi)
