@@ -16,7 +16,18 @@ theme:
   icon: "https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png"
   language: "en"
   palette:
-    primary: "#e30b5d"
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
   feature:
     tabs: false
 extra_css:
