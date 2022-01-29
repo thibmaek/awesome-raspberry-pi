@@ -9,9 +9,6 @@ set -o pipefail # Return exit status of the last command in the pipe that failed
 # Switch to the root of the repository.
 cd "$(dirname "$(dirname "${BASH_SOURCE[0]}")")"
 
-# Install requirements
-pip install -r requirements.txt
-
 if [ ! -d docs ]; then
   mkdir docs
 fi
