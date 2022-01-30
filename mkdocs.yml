@@ -1,8 +1,8 @@
 site_name: "Awesome Raspberry Pi"
-site_url: "https://awesome-rpi.netlify.com"
+site_url: "https://rpi.thibmaek.com"
 site_description: "A curated list of awesome Raspberry Pi resources"
 site_author: "Thibault Maekelbergh"
-copyright: "Copyright 2016 - Thibault Maekelbergh. Creative Commons Attribution 4.0."
+copyright: "Copyright 2022 - Thibault Maekelbergh. Creative Commons Attribution 4.0."
 
 # Repository
 repo_name: "awesome-raspberry-pi"
