@@ -70,7 +70,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [OctoPi](https://octopi.octoprint.org/) - Distribution for 3d printers.
 - [OpenHABian](https://www.openhab.org/docs/installation/openhabian.html) - A preconfigured version of the OpenHAB home automation software. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [OpenMediaVault](https://www.openmediavault.org/) - OpenMediaVault is the next generation network attached storage (NAS) solution based on Debian Linux containing services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
-- [openSUSE](https://en.opensuse.org/HCL:Raspberry_Pi) - openSUSE is a major Linux distribution that has images based for its stable release Leap and rolling release Tumbleweed. Images can be found for many of the Pis, including the [Raspberry Pi 3](https://en.opensuse.org/HCL:Raspberry_Pi3) and [Raspberry Pi 4](https://en.opensuse.org/HCL:Raspberry_Pi4). 
+- [openSUSE](https://en.opensuse.org/HCL:Raspberry_Pi) - openSUSE is a major Linux distribution that has images based for its stable release Leap and rolling release Tumbleweed. Images can be found for many of the Pis, including the [Raspberry Pi 3](https://en.opensuse.org/HCL:Raspberry_Pi3) and [Raspberry Pi 4](https://en.opensuse.org/HCL:Raspberry_Pi4).
 - [OpenWRT](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi) - OpenWrt is described as a Linux distribution for embedded devices for network management.
 - [OSMC](https://osmc.tv/) - Open Source Media Centre, based on Kodi.
 - [PiDeck](http://pideck.com/) - Small form factor DVS system allowing you to control digital music files with timecode vinyl.
@@ -141,6 +141,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Ceil](https://github.com/helmuthva/ceil) - Auto-provisioned RPi cluster running K8S on bare-metal. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [Circle](https://github.com/rsta2/circle) - A C++ bare metal environment for Raspberry Pi.
 - [clockOS](https://github.com/iGerli/clockOS) - simple smart desktop clock using a Raspberry Pi display.
+- [CocktailMaker](https://github.com/alex9849/pi-cocktail-maker) - An advanced cocktail machine that can be controlled via browser and touchscreen.
 - [Coder for Raspberry Pi](http://googlecreativelab.github.io/coder/) - A open source project by Googlers to turn a Raspberry Pi into a simple, tiny, personal web server and web-based development environment.
 - [DIY USB Rubber Ducky](https://hackaday.io/project/17598-diy-usb-rubber-ducky) - Raspberry Pi Zero Rubber Ducky recognized as a USB HID by just about anything with a USB port, thus allowing you to run custom scripts as if it were a keyboard. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [docsis-cable-load-monitor](https://github.com/sp4rkie/docsis-cable-load-monitor) - Tool to monitor downstream load on DOCSIS cable networks.
@@ -258,7 +259,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Raspberry Pi Beginner's Guide v2](https://magpi.raspberrypi.com/books/beginners-guide-2nd-ed) - Learn how to get started with your **Raspberry Pi 4**.
 - [Raspberry Pi Beginner's Guide v3](https://magpi.raspberrypi.com/books/beginners-guide-3rd-ed) - Learn how to get started with your **Raspberry Pi 4**.
 - [Raspberry Pi Beginner's Guide v4](https://magpi.raspberrypi.com/books/beginners-guide-4th-ed) - Learn how to get started with your **Raspberry Pi 4 and Raspberry Pi 400**.
-- [Raspberry Pi Camera Guide](https://magpi.raspberrypi.com/books/camera-guide) - Learn how to use your High Quality Camera or Camera Module with your Raspberry Pi. 
+- [Raspberry Pi Camera Guide](https://magpi.raspberrypi.com/books/camera-guide) - Learn how to use your High Quality Camera or Camera Module with your Raspberry Pi.
 - [Raspberry Pi Projects Book 1](https://magpi.raspberrypi.com/books/projects-1) - A collection of Raspberry Pi projects with project guides and reviews of Raspberry Pi products.
 - [Raspberry Pi Projects Book 2](https://magpi.raspberrypi.com/books/projects-2) - A second collection of Raspberry Pi projects with project guides and reviews of Raspberry Pi products.
 - [Raspberry Pi Projects Book 3](https://magpi.raspberrypi.com/books/projects-3) - A third collection of Raspberry Pi projects with project guides and reviews of Raspberry Pi products.
@@ -266,7 +267,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Raspberry Pi Projects Book 5](https://magpi.raspberrypi.com/books/projects-5) - A fifth collection of Raspberry Pi projects with project guides and reviews of Raspberry Pi products.
 - [Retro Gaming with Raspberry Pi](https://magpi.raspberrypi.com/books/retro-gaming) - A guide on how to setup your Raspberry Pi to play classic games, and how to make your own games.
 - [The Official Raspberry Pi Handbook 2021](https://magpi.raspberrypi.com/books/handbook-2021) - A guide to help you get the most of your Raspberry Pi computer, essential information, project ideas, tutorials, and reviews.
-- [The Official Raspberry Pi Handbook 2022](https://magpi.raspberrypi.com/books/handbook-2022) - A guide to help you get the most of your Raspberry Pi computer, essential information, project ideas, tutorials, and reviews. **Updated for Raspberry Pi Pico.** 
+- [The Official Raspberry Pi Handbook 2022](https://magpi.raspberrypi.com/books/handbook-2022) - A guide to help you get the most of your Raspberry Pi computer, essential information, project ideas, tutorials, and reviews. **Updated for Raspberry Pi Pico.**
 
 ### Tutorials
 
