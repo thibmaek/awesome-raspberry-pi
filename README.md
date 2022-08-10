@@ -315,6 +315,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Reddit Projects](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS)
 - [Reddit](https://www.reddit.com/r/raspberry_pi)
 - [StackExchange](https://raspberrypi.stackexchange.com/)
+- [Explore Raspberry Pi Libraries](https://kandi.openweaver.com/search/libraries?q=Raspberry+Pi) - A search engine 🔎 tool to discover & find a curated list of popular & new Raspberry Pi libraries across all languages & topics, top authors, trending project kits, discussions, tutorials & learning resources.
 
 ### Contributing
 
