@@ -214,6 +214,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Whispering Mirror](http://whisperingwallproject.com/whisperingmirror/) - Interactive soundart installation using the Hifiberry DAC.
 - [Wordpress using Docker](https://github.com/rothgar/rpi-wordpress) - Run a Wordpress site in containers with dynamic DNS.
 - [Zelda Home Automation](https://www.raspberrypi.org/blog/zelda-home-automation/) - Home automation based on sound recognition from notes played on an ocarina.
+- [Raspberry Pi Project Collections](https://kandi.openweaver.com/collections/educational-service-providers/10-years-of-raspberry-pi) - kandi collections on 10 Years of Raspberry Pi, showcases the most popular libraries across hobbyist uses cases, home automation, IoT, OS and utilities for Raspberry Pi. 
 
 ## Resources
 
