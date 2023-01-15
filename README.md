@@ -317,6 +317,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 ## Community
 
 - [`@Raspberry_Pi` on Twitter](https://twitter.com/Raspberry_Pi)
+- [`@Raspberry_Pi@raspberrypi.social` on Mastodon](https://raspberrypi.social/@Raspberry_Pi)
 - [`#raspberrypi` on Freenode](https://webchat.freenode.net/?channels=%23raspberrypi)
 - [`Raspberry Pi` on YouTube](https://www.youtube.com/channel/UCFIjVWFZ__KhtTXHDJ7vgng)
 - [`raspberry-pi` on Spectrum](https://spectrum.chat/raspberry-pi)
