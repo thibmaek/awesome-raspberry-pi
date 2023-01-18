@@ -9,7 +9,7 @@
 
 This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 
-Contributions *very welcome* but first see [Contributing](#contributing)
+Contributions are *very welcome* but first see [Contributing](#contributing)
 
 ## Contents
 
