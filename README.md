@@ -177,6 +177,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Occu-Pi](https://github.com/bww/occu-pi) - Controller software for the Occu-pi, a totally awesome bathroom door sensor.
 - [P4wnP1](https://github.com/mame82/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [Pi Image Capturer](https://github.com/rajeshkumarkhadka/Pi-Image-Capturer) - Captures images, integrated with the Google IOT Cloud Platform ecosystem.
+- [Pi Zero Bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+. Including offline map and navigation. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [pi_payments](https://github.com/anshulahuja98/pi_payments) - Payment module based on RFID.
 - [Pi-hole](https://pi-hole.net/) - Black hole for internet ads.
 - [Pi-KVM](https://github.com/pikvm/pikvm) - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
