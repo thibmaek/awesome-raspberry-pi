@@ -221,6 +221,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Whispering Mirror](http://whisperingwallproject.com/whisperingmirror/) - Interactive soundart installation using the Hifiberry DAC.
 - [Wordpress using Docker](https://github.com/rothgar/rpi-wordpress) - Run a Wordpress site in containers with dynamic DNS.
 - [Zelda Home Automation](https://www.raspberrypi.org/blog/zelda-home-automation/) - Home automation based on sound recognition from notes played on an ocarina.
+- [Cloud Fetch](https://github.com/besoeasy/cloudfetch) - Cloud Download Manager, your go-to file downloader controlled via Telegram. It's like put.io, seedr, torrentdownload, and peerflix, but better and self-hosted. Get your files from the internet hassle-free.
 
 ## Resources
 
