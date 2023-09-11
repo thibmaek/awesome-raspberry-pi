@@ -61,7 +61,6 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Hass.io](https://home-assistant.io/hassio/installation/) - Home automation operating system/application for embedded device, also available standalone.
 - [HypriotOS](http://blog.hypriot.com/about/) - Minimal Debian-based operating system, optimized to run Docker.
 - [Kali Linux](https://www.offensive-security.com/kali-linux-arm-images/) - Penetration Testing & Ethical Hacking Linux distro for ARM devices.
-- [Kano OS](https://help.kano.me/hc/en-us/articles/360001063620-How-to-Install-Reinstall-Kano-OS-for-Raspberry-Pi) - Open-source OS for exploration, creation, and play – free for Raspberry Pi and the new Pi 3.
 - [KonstaKANG](https://konstakang.com/devices/rpi4/) - Unofficial LineageOS and AOSP builds for Raspberry Pi. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [Lakka](http://lakka.tv) - Retro-gaming on the Raspberry Pi built entirely on RetroArch.
 - [LibreELEC](https://libreelec.tv/) - Just enough OS for Kodi
@@ -92,14 +91,12 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Rocket Show](https://rocketshow.net) - Play synced backing tracks, videos and DMX light-sequences live on stage. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [RuneAudio](http://www.runeaudio.com/) - Free and open source OS that turns embedded hardware into Hi-Fi music players.
 - [SamplerBox](http://www.samplerbox.org/makeitsoftware) - Drop'n'play sampler: drop .WAV samples on the SD card, and play!
-- [SARPi](http://sarpi.fatdog.nl/index.php?p=sarpi) - Stands for the Slackware ARM on Raspberry Pi.
 - [Twister OS](https://twisteros.com/) - Skinned version of Raspberry Pi OS with preinstalled apps like box86 and Retropie to introduce noobs to Linux and Raspberry Pi. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [Ubuntu Core](https://ubuntu.com/download/raspberry-pi-core) - Official (minimal) Ubuntu distribution for IoT. Supports Raspberry Pi Zero 2 W. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [Ubuntu Desktop](https://ubuntu.com/raspberry-pi/desktop) - Ubuntu Desktop distribution for the Raspberry Pi. Supports Raspberry Pi 4.
 - [Ubuntu MATE](https://ubuntu-mate.org/raspberry-pi/) - Ubuntu distribution for the Raspberry Pi based on MATE desktop. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [Ubuntu Server](https://ubuntu.com/raspberry-pi/server) - Ubuntu Server distribution for the Raspberry Pi. Supports Raspberry Pi Zero 2 W. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [Volumio](https://volumio.org/) - Headless audiophile music player, designed to play music with the highest possible fidelity.
-- [Windows 10 ARM](https://worproject.ml/) - Community maintained Windows 10 on Raspberry Pi. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png) ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [Windows 10 IoT Core](https://docs.microsoft.com/nl-nl/windows/iot-core/downloads) - Windows 10 distribution for IoT. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 
 ## Tools
@@ -114,7 +111,6 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [HealthyPi](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [iotwifi](https://github.com/cjimti/iotwifi) - Wifi AP + Client management in 8MB [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/), with REST API for controlling wifi client and station modes simultaneously. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [ndm](https://github.com/gitbls/ndm) - Command line tool to easily manage DNS and DHCP servers.
-- [OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - Shell script to set up Raspberry Pi as an OpenVPN server.
 - [Orangetool](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
 - [Pi Temperature Exporter](https://github.com/s-nagaev/pi-temperature-exporter) - a CPU and GPU temperature exporter for Prometheus consumption.
 - [pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc.
@@ -163,7 +159,6 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Internet Chronometer](https://github.com/rothman857/chronometer) - Turn your Raspberry Pi in to an Internet Chronometer.
 - [Jasper](https://jasperproject.github.io/) - Flexible open source personal assistant.
 - [Kubernetes on ARM](https://github.com/luxas/kubernetes-on-arm) - Get your ARM device up and running Kubernetes in less than ten minutes.
-- [Lightberry](https://lightberry.eu) - Led lighting solution dedicated for raspberry pi and your TV.
 - [Lomorage](https://github.com/lomorage/homepage) - Private photo cloud host on Raspberry Pi, with Android/iOS/Web client.
 - [Looper/synth/drum thing](https://github.com/otem/Raspberry-Pi-Looper-synth-drum-thing) - Sequencer/Drumpad, like Native Instruments' Maschine for the Pi.
 - [Lumos](https://www.instructables.com/id/LUMOS-Smart-Lamp-for-Better-Health/) - Smart Lamp for Better Sleep. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
@@ -198,7 +193,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Raspberry PI Hadoop Cluster](http://www.widriksson.com/raspberry-pi-hadoop-cluster/) - Big Data cluster running on the Raspberry Pi.
 - [Raspberry Pi Setup](https://github.com/atao/raspberrypi-setup) - ⚡ Quickly setup my Raspberry Pi.
 - [RaspiBlitz](https://github.com/rootzoll/raspiblitz) - Fastest and cheapest way to get your own Lightning Node running.
-- [RaspiBolt](https://github.com/Stadicus/guides/tree/master/raspibolt) - Beginner’s Guide to ️⚡Lightning️⚡ on a Raspberry Pi.
+- [RaspiBolt](https://raspibolt.org/) - Beginner’s Guide to ️⚡Lightning️⚡ on a Raspberry Pi.
 - [Receiving GOES-16 Images on a Raspberry Pi](https://gist.github.com/lxe/c1756ca659c3b78414149a3ea723eae2#file-goes16-rtlsdr-md) - An advanced project to receive weather imagery from the GOES-16 satellite using software defined radio (SDR). 
 - [Relayboard Control](https://github.com/leinir/relayboard-control) - A Qt application to connect a Waveshare 8-channel relay board to an MQTT server.
 - [Rhasspy](https://rhasspy.readthedocs.io) - Open source, fully offline set of voice assistant services that works well with Home Assistant, Node-RED, MQTT and more.
@@ -231,9 +226,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 #### Android
 
 - **AndFTP** - Alternative FTP client app. [Android](https://play.google.com/store/apps/details?id=lysesoft.andftp)
-- **Home Remote Control** - Control mouse/keyboard, volume, manage download/upload files, custom commands, terminal, execute tasks in future, control media. [Android](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter)
 - **Kore Remote** - Official remote to control Kodi. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore)
-- **RasPi Check** - To check Pi stats - frequency, temperature, volts and more system information (free memory, runtime, disk status). You can also restart or halt your Raspberry Pi and send custom commands. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
 - **RaspController** - Manage your Raspberry Pi remotely, control the GPIO ports, send commands directly through the terminal, view images from a connected camera and obtain data from different sensors. [Android](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller)
 - **Raspicast** - Cast YouTube videos, media content from your android device, Play local media files, Play streams from playlists (m3u, pls) on your Raspberry Pi. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
 - **Screen Stream Mirroring** - To stream your phone screen directly to Pi. [Android](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial)
@@ -249,7 +242,6 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 ### Articles
 
-- [10 Ways To Power](https://raspberrypi.about.com/od/Power/tp/10-Ways-to-Power-your-Raspberry-Pi.htm) - Information about different & correct ways to power the pi.
 - [10 Years of Raspberry Pi](https://kandi.openweaver.com/collections/educational-service-providers/10-years-of-raspberry-pi) - collections on 10 Years of Raspberry Pi, showcasing the most popular libraries across hobbyist uses cases, home automation, IoT, OS and utilities.
 - [Raspberry Pi A to Z List](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
 - [Raspberry Pi and why do I need one?](https://www.liquidlight.co.uk/blog/article/raspberry-pi-what-is-it-and-why-do-i-need-one/) - Intro into the Raspberry Pi and what can be done with it.
@@ -261,7 +253,6 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 - [Control Your Home with Raspberry Pi](https://koen.vervloesem.eu/books/control-your-home-with-raspberry-pi/) - Teaches you how to turn a Raspberry Pi into a secure, modular, open source and self-hosted home automation gateway with Docker Compose, MQTT and TLS.
 - [Essentials - AIY Voice Projects](https://magpi.raspberrypi.com/books/essentials-aiy-v1) - Using Google's AIY Project Kit, learn how to use artificial intelligence with your Raspberry Pi. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
-- [Essentials - Camera Module Guide](https://magpi.raspberrypi.com/books/essentials_camera_v1) - How to use your Raspberry Pi Foundation's Camera Module with your Raspberry Pi.
 - [Essentials - Code Music with Sonic Pi](https://magpi.raspberrypi.com/books/essentials-sonic-pi-v1) - Learn how to create music by coding with Sonic Pi on your Raspberry Pi.
 - [Essentials - Conquer the Command Line (Version 2)](https://magpi.raspberrypi.com/books/command-line-second-edition) - Learn how to command and conquer the command line on the Raspberry Pi using Raspbian, simplify complex tasks while you automate simple ones.
 - [Essentials - GPIO Zero Electronics](https://magpi.raspberrypi.com/books/essentials-gpio-zero-v1) - Create electronic creations using the GPIO pins and the GPIO Zero library on your Raspberry Pi.
@@ -278,7 +269,6 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Raspberry Pi Beginner's Guide v2](https://magpi.raspberrypi.com/books/beginners-guide-2nd-ed) - Learn how to get started with your **Raspberry Pi 4**.
 - [Raspberry Pi Beginner's Guide v3](https://magpi.raspberrypi.com/books/beginners-guide-3rd-ed) - Learn how to get started with your **Raspberry Pi 4**.
 - [Raspberry Pi Beginner's Guide v4](https://magpi.raspberrypi.com/books/beginners-guide-4th-ed) - Learn how to get started with your **Raspberry Pi 4 and Raspberry Pi 400**.
-- [Raspberry Pi Camera Guide](https://magpi.raspberrypi.com/books/camera-guide) - Learn how to use your High Quality Camera or Camera Module with your Raspberry Pi.
 - [Raspberry Pi Projects Book 1](https://magpi.raspberrypi.com/books/projects-1) - A collection of Raspberry Pi projects with project guides and reviews of Raspberry Pi products.
 - [Raspberry Pi Projects Book 2](https://magpi.raspberrypi.com/books/projects-2) - A second collection of Raspberry Pi projects with project guides and reviews of Raspberry Pi products.
 - [Raspberry Pi Projects Book 3](https://magpi.raspberrypi.com/books/projects-3) - A third collection of Raspberry Pi projects with project guides and reviews of Raspberry Pi products.
@@ -298,7 +288,6 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [DIY Neural Network](http://hackaday.com/2017/06/14/diy-raspberry-neural-network-sees-all-recognizes-some/) - Uses image recognition and Google’s Inception to recognize specific objects.
 - [Docker Swarm with LetsEncrypt](https://aaron.haurwitz.com/#!/posts/raspberry-pi-docker-swarm-with-lets-encrypt) - Clear guidelines on how to set up a cluster with Docker, distributing services with Docker Compose and signing valid SSL certs with Letsencrypt.
 - [How To Make a Raspberry Pi Turn on a Lamp with iBeacon™ Technology](http://developer.radiusnetworks.com/2014/04/27/how-to-make-a-raspberry-pi-turn-on-a-lamp-with-an-ibeacon.html) - Good beginners-guide to working with Beacon technology.
-- [How to setup a secure VPN server on Raspberry Pi or DigitalOcean](http://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/) - Simple, secure and detailed guide to setup VPN on your Raspberry Pi.
 - [Moonlight](https://github.com/irtimmer/moonlight-embedded) - Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi.
 - [Raspbereum](https://github.com/jim380/Raspbereum) - Run your own Ethereum node on a Raspberry Pi.
 - [Raspberry Pi Game Console](https://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192) - How to Build a Raspberry Pi Retro Game Console for $35.
@@ -325,7 +314,6 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [`@Raspberry_Pi@raspberrypi.social` on Mastodon](https://raspberrypi.social/@Raspberry_Pi)
 - [`#raspberrypi` on Freenode](https://webchat.freenode.net/?channels=%23raspberrypi)
 - [`Raspberry Pi` on YouTube](https://www.youtube.com/channel/UCFIjVWFZ__KhtTXHDJ7vgng)
-- [`raspberry-pi` on Spectrum](https://spectrum.chat/raspberry-pi)
 - [eLinux Hub](http://elinux.org/RPi_Hub)
 - [MAKE on Youtube](https://www.youtube.com/channel/UChtY6O8Ahw2cz05PS2GhUbg)
 - [Novaspirittech on YouTube](https://www.youtube.com/channel/UCrjKdwxaQMSV_NDywgKXVmw)
