@@ -211,6 +211,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [speed-camera](https://github.com/pageauc/speed-camera) - Object Motion Tracking uses python, openCV, USB Cam or picamera module to record speed data.
 - [Stratux](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
 - [StreamPi](https://stream-pi.com/) - A robust alternative to the Elgato Stream Deck, that can launch apps, scripts, websites and control applications like OBS.
+- [TelePi](https://github.com/besoeasy/telepi) - Telepi allows you to monitor and control your Raspberry Pi via Telegram. offering features like file downloads from HTTP, FTP, and torrents, system health monitoring, IP address retrieval, and the added capability of opening tunnels.
 - [TeslaCam](https://github.com/LelandSindt/teslacam) - Project utilizing a Raspberry Pi Zero W for USB Mass storage emulation and a PiJuice to collect and archive TeslaCam video. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [USB Proxy](https://github.com/AristoChen/usb-proxy) - A USB man-in-the-middle project that allow users to monitor and modify USB packets flow between host and device.
 - [Vinyl Shelf Finder](https://valentingalea.github.io/vinyl-shelf-finder/) - Uses a tilt & pan laser to find a record in a record collection.
