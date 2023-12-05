@@ -71,7 +71,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [MoodleBox](https://moodlebox.net/) - The MoodleBox provides a Moodle learning management system on Raspberry Pi. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [motionEyeOS](https://github.com/ccrisan/motioneyeos/wiki) - Linux distribution that turns a single-board computer into a video surveillance system.
 - [NetBSD](https://wiki.netbsd.org/ports/evbarm/raspberry_pi/) - NetBSD is a free, fast, secure, and highly portable Unix-like Open Source operating system.
-- [NextCloudPi](https://ownyourbits.com/2017/02/13/nextcloud-ready-raspberry-pi-image/) - Nextcloud ready image based on Raspbian. Features Nextcloud 11 running on Raspbian 8, with PHP 7 and HTTP2 enabled Apache server.
+- [NextCloudPi](https://github.com/nextcloud/nextcloudpi) - Nextcloud ready image based on Raspbian. Features Nextcloud 11 running on Raspbian 8, with PHP 7 and HTTP2 enabled Apache server.
 - [NOOBS](https://www.raspberrypi.org/downloads/noobs/) - New Out Of the Box Software, an easy OS installer for beginners.
 - [OctoPi](https://octopi.octoprint.org/) - Distribution for 3d printers.
 - [OpenHABian](https://www.openhab.org/docs/installation/openhabian.html) - A preconfigured version of the OpenHAB home automation software. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
