@@ -6,7 +6,7 @@
   Thank you ✨
 -->
 
-- [ ] I have read and understood the [contribution guidelines](https://github.com/thibmaek/awesome-raspberrypi/blob/master/CONTRIBUTING.md).
+- [ ] I have read and understood the [contribution guidelines](https://github.com/thibmaek/awesome-raspberrypi/blob/main/CONTRIBUTING.md).
 - [ ] This pull request has a descriptive title. *(For example: `Add Raspbian`)*
 - The topic I added
   - [ ] includes a valid (https) link,

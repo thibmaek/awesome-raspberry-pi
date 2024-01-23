@@ -1,13 +1,13 @@
 # Awesome Raspberry Pi
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg)](https://github.com/thibmaek/awesome-raspberry-pi/blob/master/CONTRIBUTORS.md)
+[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg)](https://github.com/thibmaek/awesome-raspberry-pi/blob/main/CONTRIBUTORS.md)
 
 <a href="https://www.raspberrypi.org"><img src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png" alt="Raspberry Pi Logo" align="left" style="margin-right: 25px" height=150></a>
 
 > The Raspberry Pi is a series of credit card-sized single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and developing countries. Official Link: [Raspberry Pi Foundation Homepage](https://raspberrypi.org), [Raspberry Pi Computer Homepage](https://www.raspberrypi.com)
 
-This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
+This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
 
 Contributions *very welcome* but first see [Contributing](#contributing)
 
@@ -197,10 +197,10 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Raspberry Pi Setup](https://github.com/atao/raspberrypi-setup) - ⚡ Quickly setup my Raspberry Pi.
 - [RaspiBlitz](https://github.com/rootzoll/raspiblitz) - Fastest and cheapest way to get your own Lightning Node running.
 - [RaspiBolt](https://raspibolt.org/) - Beginner’s Guide to ️⚡Lightning️⚡ on a Raspberry Pi.
-- [Receiving GOES-16 Images on a Raspberry Pi](https://gist.github.com/lxe/c1756ca659c3b78414149a3ea723eae2#file-goes16-rtlsdr-md) - An advanced project to receive weather imagery from the GOES-16 satellite using software defined radio (SDR). 
+- [Receiving GOES-16 Images on a Raspberry Pi](https://gist.github.com/lxe/c1756ca659c3b78414149a3ea723eae2#file-goes16-rtlsdr-md) - An advanced project to receive weather imagery from the GOES-16 satellite using software defined radio (SDR).
 - [Relayboard Control](https://github.com/leinir/relayboard-control) - A Qt application to connect a Waveshare 8-channel relay board to an MQTT server.
 - [Rhasspy](https://rhasspy.readthedocs.io) - Open source, fully offline set of voice assistant services that works well with Home Assistant, Node-RED, MQTT and more.
-- [RPi-eth-display](https://pierre-couy.dev/tinkering/2023/03/turning-rpi-into-external-monitor-driver.html) - Open source DisplayLink alternative, ethernet to HDMI adapter. 
+- [RPi-eth-display](https://pierre-couy.dev/tinkering/2023/03/turning-rpi-into-external-monitor-driver.html) - Open source DisplayLink alternative, ethernet to HDMI adapter.
 - [RPi Motor Library](https://github.com/gavinlyonsrepo/RpiMotorLib) - Python 3 library to connect various motors & servos to the Pi.
 - [RPI tempmon](https://github.com/gavinlyonsrepo/raspberrypi_tempmon) - CPU GPU temperature monitor with various functions such as LED GPIO, Graph output, email, alarm limit, notifications and logging.
 - [SecPi](https://github.com/SecPi/SecPi) - Raspberry Pi based home alarm system.
@@ -330,7 +330,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 ### Contributing
 
-Contribution guidelines can be found [here](https://github.com/thibmaek/awesome-raspberry-pi/blob/master/CONTRIBUTING.md)
+Contribution guidelines can be found [here](https://github.com/thibmaek/awesome-raspberry-pi/blob/main/CONTRIBUTING.md)
 
 ### License
 

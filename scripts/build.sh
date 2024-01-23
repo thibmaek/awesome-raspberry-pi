@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Ref: https://github.com/frenck/awesome-home-assistant/blob/master/scripts/build.sh
+# Ref: https://github.com/frenck/awesome-home-assistant/blob/main/scripts/build.sh
 
 set -o errexit  # Exit script when a command exits with non-zero status
 set -o errtrace # Exit on error inside any functions or sub-shells
