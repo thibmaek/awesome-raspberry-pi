@@ -36,6 +36,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/) (October, 2023)
 - [Raspberry Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400/) (November, 2020)
 - [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/?variant=raspberry-pi-pico) (January, 2021)
+- [Raspberry Pi Pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) (August, 2024)
 - [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) (October, 2021)
 - [Raspberry Pi Pico W](https://www.raspberrypi.com/products/raspberry-pi-pico/?variant=raspberry-pi-pico-w) (June, 2022)
 
