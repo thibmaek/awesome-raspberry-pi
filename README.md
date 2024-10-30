@@ -81,6 +81,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [OpenWRT](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi) - OpenWrt is described as a Linux distribution for embedded devices for network management.
 - [OSMC](https://osmc.tv/) - Open Source Media Centre, based on Kodi.
 - [PiDeck](http://pideck.com/) - Small form factor DVS system allowing you to control digital music files with timecode vinyl.
+- [PiFi](https://pifi.org) - Turn Raspberry Pi into a High-Speed VPN Router in Seconds ⚡️ (Supports Raspberry Pi 4 and 5)
 - [PiNet](http://pinet.org.uk/) - System to manage Raspberry Pi classrooms.
 - [PirateBox](https://piratebox.cc/doku.php?id=raspberry_pi:diy) - Anonymous offline mobile file-sharing and communications system.
 - [RasComm RaspberryPi MorseCode Translator](https://github.com/Defcon27/RasComm-RaspberryPi-MorseCode-Translator) - RasComm is a communication device that translates plain text into Morse code (IMC) visually or audibly.
