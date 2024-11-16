@@ -351,7 +351,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 #### Smart Metering
 
 * [bcontrol2mqtt](https://github.com/hobbyquaker/bcontrol2mqtt) - Publish measurements from TQ Energy Manager / [Busch-Jäger Energy Monitor](https://www.busch-jaeger.de/files/files_ONLINE/Brosch%c3%bcre_EnergyMonitor_druck.pdf) to MQTT.
-
+* [rpi-mqtt-monitor](https://github.com/hjelev/rpi-mqtt-monitor) - The easiest way to track your Raspberry Pi or Ubuntu computer system health and performance in Home Assistant via MQTT.
 
 #### Messaging
 
