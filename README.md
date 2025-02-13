@@ -67,7 +67,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Mainsail OS](https://github.com/mainsail-crew/MainsailOS) - A distribution for 3D Printers that includes everything to get started with Klipper Firmware and Mainsail.
 - [Manjaro](https://manjaro.org/download/) - Friendly, open-source Linux distribution for Raspberry Pi.
 - [Minibian](https://minibianpi.wordpress.com/) - Minimal Raspbian (lighter than Jessie Lite).
-- [moOde](https://moodeaudio.org/) - The moOde audio player provides acts as a Audiophile streamer with DLNS, Spotify Connect and AirPlay support for old receivers. ![Supports Raspberry Pi 3](/media/badges/rpi-2+.png) ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
+- [moOde](https://moodeaudio.org/) - The moOde audio player acts as an Audiophile streamer with DLNS, Spotify Connect and AirPlay support for old receivers. ![Supports Raspberry Pi 3](/media/badges/rpi-2+.png) ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [MoodleBox](https://moodlebox.net/) - The MoodleBox provides a Moodle learning management system on Raspberry Pi. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [motionEyeOS](https://github.com/ccrisan/motioneyeos/wiki) - Linux distribution that turns a single-board computer into a video surveillance system.
 - [NetBSD](https://wiki.netbsd.org/ports/evbarm/raspberry_pi/) - NetBSD is a free, fast, secure, and highly portable Unix-like Open Source operating system.
@@ -95,7 +95,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [SamplerBox](http://www.samplerbox.org/makeitsoftware) - Drop'n'play sampler: drop .WAV samples on the SD card, and play!
 - [Twister OS](https://twisteros.com/) - Skinned version of Raspberry Pi OS with preinstalled apps like box86 and Retropie to introduce noobs to Linux and Raspberry Pi. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [Ubuntu Core](https://ubuntu.com/download/raspberry-pi-core) - Official (minimal) Ubuntu distribution for IoT. Supports Raspberry Pi Zero 2 W. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
-- [Ubuntu Desktop](https://ubuntu.com/raspberry-pi/desktop) - Ubuntu Desktop distribution for the Raspberry Pi. Supports Raspberry Pi 4.
+- [Ubuntu Desktop](https://ubuntu.com/raspberry-pi/desktop) - Ubuntu Desktop distribution for the Raspberry Pi. Supports Raspberry Pi 4 and 5.
 - [Ubuntu MATE](https://ubuntu-mate.org/raspberry-pi/) - Ubuntu distribution for the Raspberry Pi based on MATE desktop. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [Ubuntu Server](https://ubuntu.com/raspberry-pi/server) - Ubuntu Server distribution for the Raspberry Pi. Supports Raspberry Pi Zero 2 W. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [Volumio](https://volumio.org/) - Headless audiophile music player, designed to play music with the highest possible fidelity.
