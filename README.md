@@ -177,6 +177,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Magic Mirror](http://magicmirror.builders) - The original open source modular smart mirror platform. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
 - [Movel](https://github.com/stevelacy/movel) - Raspberry Pi car computer.
+- [NullKia](https://github.com/bad-antics/nullkia) - Open-source Kia/Hyundai infotainment replacement using Raspberry Pi. Features OBD-II diagnostics, Android Auto/CarPlay, custom dashboard widgets, and GPS navigation.
 - [Multi-Datacenter Cassandra on 32 Raspberry Pi’s](http://www.datastax.com/dev/blog/32-node-raspberry-pi-cassandra-cluster) - Showcase for the always on, fault tolerant nature of Cassandra using a Raspberry Pi cluster board.
 - [NALIVATOR-9000](https://github.com/fote/nalivator9000) - Robot bartender for making cocktails with Telegram-bot interface and speech synthesis on Golang.
 - [Nerves Project](https://github.com/nerves-project) - Craft and deploy bulletproof embedded software in Elixir.
