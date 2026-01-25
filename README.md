@@ -60,6 +60,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [FreedomBox](https://www.freedombox.org) - FreedomBox is a private home server for non-experts. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [Gentoo](https://wiki.gentoo.org/wiki/Raspberry_Pi) - Gentoo Stage 3 tarball for Raspberry Pi.
 - [Gladys Assistant](https://gladysassistant.com) - Gladys, a privacy-first, open-source home assistant. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
+- [GlowBarn OS](https://github.com/bad-antics/glowbarn-os) - Buildroot-based Linux distribution for paranormal research with EMF sensors, environmental monitoring, web dashboard and automated data logging. ![Supports Raspberry Pi 4+](/media/badges/rpi-4.png)
 - [Hass.io](https://home-assistant.io/hassio/installation/) - Home automation operating system/application for embedded device, also available standalone.
 - [HypriotOS](http://blog.hypriot.com/about/) - Minimal Debian-based operating system, optimized to run Docker.
 - [Kali Linux](https://www.offensive-security.com/kali-linux-arm-images/) - Penetration Testing & Ethical Hacking Linux distro for ARM devices.
