@@ -169,6 +169,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Haven](https://github.com/havenweb/haven) - Host a private blog on your Rasperry Pi instead of using Facebook.
 - [Hearing aid prototoype](https://github.com/m-r-s/hearingaid-prototype) - A Raspberry Pi powered prototype of a hearing aid. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [Internet Chronometer](https://github.com/rothman857/chronometer) - Turn your Raspberry Pi in to an Internet Chronometer.
+- [Gonzales](https://github.com/akustikrausch/gonzales) - Self-hosted internet speed monitor. 24/7 automated speed tests, real-time analytics dashboard, Home Assistant integration, ISP grading, outage detection. ![Supports Raspberry Pi 4](/media/badges/rpi-4.png)
 - [Jasper](https://jasperproject.github.io/) - Flexible open source personal assistant.
 - [Kubernetes on ARM](https://github.com/luxas/kubernetes-on-arm) - Get your ARM device up and running Kubernetes in less than ten minutes.
 - [Lomorage](https://github.com/lomorage/homepage) - Private photo cloud host on Raspberry Pi, with Android/iOS/Web client.
