@@ -105,6 +105,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 ## Tools
 
+- [ADRG](https://github.com/jaldertech/adrg) - Aldertech Dynamic Resource Governor. Monitors and dynamically enforces cgroups v2 limits for Docker containers based on system load and temperature.
 - [Alpha](https://github.com/farjump/raspberry-pi) - Remotely load, debug and test bare-metal programs using GDB with this system-level GDB server.
 - [ApplePi Baker](https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2/) - macOS application to easily install/backup/restore images onto an SD card.
 - [Atlas toolkit](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
