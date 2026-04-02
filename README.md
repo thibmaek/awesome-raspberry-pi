@@ -229,6 +229,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [StreamPi](https://stream-pi.com/) - A robust alternative to the Elgato Stream Deck, that can launch apps, scripts, websites and control applications like OBS.
 - [TelePi](https://github.com/besoeasy/telepi) - Telepi allows you to monitor and control your Raspberry Pi via Telegram featuring file downloads, system monitoring, network insights, speed tests, and the ability to open web tunnels.
 - [TeslaCam](https://github.com/LelandSindt/teslacam) - Project utilizing a Raspberry Pi Zero W for USB Mass storage emulation and a PiJuice to collect and archive TeslaCam video. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
+- [Ultimate DNS Shield](https://github.com/cherifon/Ultimate-DNS-Shield) - Self-hosted recursive DNS server using Pi-hole + Unbound + Docker on Raspberry Pi 4. Includes automation scripts and a full step-by-step guide.
 - [USB Proxy](https://github.com/AristoChen/usb-proxy) - A USB man-in-the-middle project that allow users to monitor and modify USB packets flow between host and device.
 - [Vinyl Shelf Finder](https://valentingalea.github.io/vinyl-shelf-finder/) - Uses a tilt & pan laser to find a record in a record collection.
 - [Voice Kit](https://aiyprojects.withgoogle.com/voice) - AIY Voice Kit from Google, to build a standalone voice recognition system using the Google Assistant, or add voice recognition and natural language processing to your Raspberry Pi-based projects.
