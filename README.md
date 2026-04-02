@@ -170,6 +170,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Gaussmeter](https://github.com/gaussmeter/gaussmeter) - Project utilizing a Raspberry Pi Zero W, WS2812B Leds and the Tesla API to collect and display a Tesla's status. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) - Display mimicking the Daily Prophet from Harry Potter using a 7" Raspberry Pi display.
 - [Haven](https://github.com/havenweb/haven) - Host a private blog on your Rasperry Pi instead of using Facebook.
+- [HookProbe](https://github.com/hookprobe/hookprobe) - AI-native intrusion detection system with eBPF/XDP packet filtering and ML threat classification. Processes 8.8M+ security events on a Pi 5.
 - [Hearing aid prototoype](https://github.com/m-r-s/hearingaid-prototype) - A Raspberry Pi powered prototype of a hearing aid. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [Internet Chronometer](https://github.com/rothman857/chronometer) - Turn your Raspberry Pi in to an Internet Chronometer.
 - [Jasper](https://jasperproject.github.io/) - Flexible open source personal assistant.
