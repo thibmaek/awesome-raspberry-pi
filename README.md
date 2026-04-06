@@ -11,6 +11,7 @@ This list is a collection of tools, projects, images and resources conforming to
 
 Contributions *very welcome* but first see [Contributing](#contributing)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Raspberry Pi-based multi-agent orchestration, IoT automation, and infrastructure monitoring. MIT licensed.
 ## Contents
 
 - [Models](#models)
