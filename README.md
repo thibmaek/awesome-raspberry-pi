@@ -175,6 +175,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Haven](https://github.com/havenweb/haven) - Host a private blog on your Rasperry Pi instead of using Facebook.
 - [HookProbe](https://github.com/hookprobe/hookprobe) - AI-native intrusion detection system with eBPF/XDP packet filtering and ML threat classification. Processes 8.8M+ security events on a Pi 5.
 - [Hearing aid prototoype](https://github.com/m-r-s/hearingaid-prototype) - A Raspberry Pi powered prototype of a hearing aid. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
+- [idle-less](https://github.com/tvup/idle-less) - Docker-based nginx reverse proxy that wakes sleeping servers via Wake-on-LAN, ideal for energy-saving Raspberry Pi homelabs.
 - [Internet Chronometer](https://github.com/rothman857/chronometer) - Turn your Raspberry Pi in to an Internet Chronometer.
 - [Jasper](https://jasperproject.github.io/) - Flexible open source personal assistant.
 - [LocalKin](https://localkin.dev) - 23MB single-binary AI Agent for Raspberry Pi and edge devices. Self-forging skills, Genesis Protocol for auto hardware discovery (GPIO, I2C, USB, Camera), offline-first with Ollama support.
