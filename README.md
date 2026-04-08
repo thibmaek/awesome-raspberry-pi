@@ -143,6 +143,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [WebStation SYSMON](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers  and headless Raspberry Pi setups.
 - [WiFi config generator](https://steveedson.co.uk/tools/wpa/) - Simple tool to generate wpa_supplicant.conf files with wifi settings
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=thibmaek_awesome-raspberry-pi) - Follow GitHub developers, see their activity feed, and discover trending repos in your stack.
 ## Projects
 
 - [40-node Raspberry Pi Cluster](http://hackaday.com/2014/02/17/40-node-raspi-cluster/) - Cluster aimed to be under the size of full tower desktop.
