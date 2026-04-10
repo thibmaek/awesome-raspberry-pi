@@ -348,6 +348,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Reddit Projects](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS)
 - [Reddit](https://www.reddit.com/r/raspberry_pi)
 - [StackExchange](https://raspberrypi.stackexchange.com/)
+- [ClawCare](https://www.clawcare.net) - AI health agent that monitors your family 24/7 on Raspberry Pi. Connects BLE/WiFi health devices, proactive health insights, automated doctor booking.
 
 ### Contributing
 
