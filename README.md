@@ -108,6 +108,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 - [Alpha](https://github.com/farjump/raspberry-pi) - Remotely load, debug and test bare-metal programs using GDB with this system-level GDB server.
 - [ApplePi Baker](https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2/) - macOS application to easily install/backup/restore images onto an SD card.
+- [Armbian Imager](https://imager.armbian.com) - An open-source imaging tool that makes installing Armbian OS effortless.
 - [Atlas toolkit](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
 - [balenaEtcher](https://www.balena.io/etcher/) - SD card burner app that is simple for end users, extensible for developers, and works on any platform.
 - [n01d-forge](https://github.com/bad-antics/n01d-forge) - Native Rust image burner with LUKS/VeraCrypt encryption support, perfect for creating secure bootable SD cards for Raspberry Pi.
@@ -118,6 +119,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [iotwifi](https://github.com/cjimti/iotwifi) - Wifi AP + Client management in 8MB [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/), with REST API for controlling wifi client and station modes simultaneously. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [ndm](https://github.com/gitbls/ndm) - Command line tool to easily manage DNS and DHCP servers.
 - [Orangetool](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
+- [OSMC Installer](https://osmc.tv/download/) - GUI based utility to download and install OSMC on to a variety of platforms.
 - [Pi Temperature Exporter](https://github.com/s-nagaev/pi-temperature-exporter) - a CPU and GPU temperature exporter for Prometheus consumption.
 - [pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc.
 - [Pieman](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
@@ -250,6 +252,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 #### Android
 
 - **AndFTP** - Alternative FTP client app. [Android](https://play.google.com/store/apps/details?id=lysesoft.andftp)
+- **EtchDroid** - Is an open-source application that writes disk images to USB drives. [Android](https://play.google.com/store/apps/details?id=eu.depau.etchdroid)
 - **Kore Remote** - Official remote to control Kodi. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore)
 - **PiGo** - Effortlessly explore and manage multiple Pi servers on the go. [Android](https://play.google.com/store/apps/details?id=com.tejasgajjar.pigo)
 - **RaspController** - Manage your Raspberry Pi remotely, control the GPIO ports, send commands directly through the terminal, view images from a connected camera and obtain data from different sensors. [Android](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller)
