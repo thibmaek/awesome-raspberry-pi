@@ -107,6 +107,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 ## Tools
 
 - [Alpha](https://github.com/farjump/raspberry-pi) - Remotely load, debug and test bare-metal programs using GDB with this system-level GDB server.
+- [amneziawg-installer](https://github.com/bivlked/amneziawg-installer) - One-command installer for AmneziaWG 2.0, a DPI-resistant WireGuard fork, with prebuilt kernel modules for Raspberry Pi 3/4/5.
 - [ApplePi Baker](https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2/) - macOS application to easily install/backup/restore images onto an SD card.
 - [Armbian Imager](https://imager.armbian.com) - An open-source imaging tool that makes installing Armbian OS effortless.
 - [Atlas toolkit](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
