@@ -60,6 +60,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [FreedomBox](https://www.freedombox.org) - FreedomBox is a private home server for non-experts. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [Gentoo](https://wiki.gentoo.org/wiki/Raspberry_Pi) - Gentoo Stage 3 tarball for Raspberry Pi.
 - [Gladys Assistant](https://gladysassistant.com) - Gladys, a privacy-first, open-source home assistant. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
+- [GlowBarn OS](https://github.com/bad-antics/glowbarn-os) - Buildroot-based Linux distribution for paranormal research with EMF sensors, environmental monitoring, web dashboard and automated data logging. ![Supports Raspberry Pi 4+](/media/badges/rpi-4.png)
 - [Hass.io](https://home-assistant.io/hassio/installation/) - Home automation operating system/application for embedded device, also available standalone.
 - [HypriotOS](http://blog.hypriot.com/about/) - Minimal Debian-based operating system, optimized to run Docker.
 - [Kali Linux](https://www.offensive-security.com/kali-linux-arm-images/) - Penetration Testing & Ethical Hacking Linux distro for ARM devices.
@@ -107,6 +108,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 - [Alpha](https://github.com/farjump/raspberry-pi) - Remotely load, debug and test bare-metal programs using GDB with this system-level GDB server.
 - [ApplePi Baker](https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2/) - macOS application to easily install/backup/restore images onto an SD card.
+- [Armbian Imager](https://imager.armbian.com) - An open-source imaging tool that makes installing Armbian OS effortless.
 - [Atlas toolkit](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
 - [balenaEtcher](https://www.balena.io/etcher/) - SD card burner app that is simple for end users, extensible for developers, and works on any platform.
 - [n01d-forge](https://github.com/bad-antics/n01d-forge) - Native Rust image burner with LUKS/VeraCrypt encryption support, perfect for creating secure bootable SD cards for Raspberry Pi.
@@ -117,8 +119,10 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [iotwifi](https://github.com/cjimti/iotwifi) - Wifi AP + Client management in 8MB [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/), with REST API for controlling wifi client and station modes simultaneously. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [ndm](https://github.com/gitbls/ndm) - Command line tool to easily manage DNS and DHCP servers.
 - [Orangetool](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
+- [OSMC Installer](https://osmc.tv/download/) - GUI based utility to download and install OSMC on to a variety of platforms.
 - [Pi Temperature Exporter](https://github.com/s-nagaev/pi-temperature-exporter) - a CPU and GPU temperature exporter for Prometheus consumption.
 - [pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc.
+- [Raspberry Pi SD Card Lifespan Calculator](https://raspberry.tips/sd-karten-lebensdauer-rechner-wie-lange-haelt-dein-speicher) - Interactive tool to estimate when your SD card will fail based on P/E cycles and Write Amplification Factor (WAF).
 - [Pieman](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
 - [PiKISS](https://github.com/jmcerrejon/PiKISS) - A bunch of scripts with menu to make your life easier.
 - [Pimod](https://github.com/Nature40/pimod) - Reconfigure Raspberry Pi images with an easy, Docker-like configuration file.
@@ -134,6 +138,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Raspbian QEMU with network](https://ownyourbits.com/2017/02/06/raspbian-on-qemu-with-network-access/) - Simple tool to launch QEMU on Raspbian with the required modifications on the system and kernel. Automatic network access. Handy to create images in your PC.
 - [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) - Simple application/repo to bridge a Raspberry Pi's wlan0 interface to devices plugged into it over ethernet (eth0).
 - [RPi Monitor Dashboard](https://github.com/nekromoff/rpi-monitor-dashboard) - Simple monitoring tool with a dashboard suitable for monitoring multiple RPi devices (CPU temperature, network, ping, browser, screenshot of X display etc.).
+- [Rpi MQTT Monitor](https://github.com/hjelev/rpi-mqtt-monitor) - The easiest way to track and control your Raspberry Pi or Ubuntu computer system health and performance in Home Assistant.
 - [rpi-cookstrap](https://github.com/heeplr/rpi-cookstrap) - A lightweight, plugin based bakery shell script framework to customize, bootstrap & provision raspberry pi OS disk images.
 - [sdm](https://github.com/gitbls/sdm) - Easily and fully customize RasPiOS images. Install apps, configure settings, etc then burn SSDs/SD cards for lots of different systems from a single image, and each one boots up fully configured and ready for work. Or play.
 - [stressberry](https://github.com/nschloe/stressberry) - Stress test your Raspberry Pi and plot temperatures.
@@ -147,10 +152,12 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - DNS relay station with ad/tracker/other blocking, IP address redirections, and DNS-over-HTTPS.
 - [BeeMonitor](https://beemonitor.org/setup/) - Honey beehive monitoring project.
 - [Bitcoin Tracker](https://github.com/jonathanrjpereira/Bitcoin-Bar) - A Physical Dashboard that displays Bitcoin stats in real time. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
+- [BlackRoad OS](https://blackroad.io) - Self-hosted edge AI operating system running 52 TOPS of inference on Raspberry Pi 5 clusters with Hailo-8 accelerators, WireGuard mesh networking, and self-healing automation.
 - [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) - Reads BLE smart scales (23 brands) via built-in Bluetooth, calculates body composition, and exports to Garmin Connect, MQTT/Home Assistant, InfluxDB, and more. [Website](https://blescalesync.dev).
 - [BotWave](https://github.com/dpipstudio/botwave/) - FM broadcasting system with server-client architecture for managing multiple Raspberry Pi transmitters remotely. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png) ![Supports Raspberry Pi 2](/media/badges/rpi-2.png) ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [Building a Ceph Cluster on Raspberry Pi](http://bryanapperson.com/blog/the-definitive-guide-ceph-cluster-on-raspberry-pi/) - Highly redundant and low power usage RADOS home storage solution.
 - [Building Timelapse with Resin](https://steveedson.co.uk/project-matilda/) - Remotely deploying timelapse camera using Docker, Resin, and 3G internet.
+- [Cama-Camel Pack](https://github.com/Barqawiz/iot_watering_system) - A home-based irrigation system for efficient plant care using IoT.
 - [Chromebook Charger Kiosk](https://www.reddit.com/r/raspberry_pi/comments/53nj1z/chromebook_charger_kiosk_last_minute_charge_for/) - Timed charging station for students using Chromebooks at school.
 - [Ceil](https://github.com/helmuthva/ceil) - Auto-provisioned RPi cluster running K8S on bare-metal. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [Circle](https://github.com/rsta2/circle) - A C++ bare metal environment for Raspberry Pi.
@@ -169,9 +176,12 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Gaussmeter](https://github.com/gaussmeter/gaussmeter) - Project utilizing a Raspberry Pi Zero W, WS2812B Leds and the Tesla API to collect and display a Tesla's status. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) - Display mimicking the Daily Prophet from Harry Potter using a 7" Raspberry Pi display.
 - [Haven](https://github.com/havenweb/haven) - Host a private blog on your Rasperry Pi instead of using Facebook.
+- [HookProbe](https://github.com/hookprobe/hookprobe) - AI-native intrusion detection system with eBPF/XDP packet filtering and ML threat classification. Processes 8.8M+ security events on a Pi 5.
 - [Hearing aid prototoype](https://github.com/m-r-s/hearingaid-prototype) - A Raspberry Pi powered prototype of a hearing aid. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
+- [idle-less](https://github.com/tvup/idle-less) - Docker-based nginx reverse proxy that wakes sleeping servers via Wake-on-LAN, ideal for energy-saving Raspberry Pi homelabs.
 - [Internet Chronometer](https://github.com/rothman857/chronometer) - Turn your Raspberry Pi in to an Internet Chronometer.
 - [Jasper](https://jasperproject.github.io/) - Flexible open source personal assistant.
+- [LocalKin](https://localkin.dev) - 23MB single-binary AI Agent for Raspberry Pi and edge devices. Self-forging skills, Genesis Protocol for auto hardware discovery (GPIO, I2C, USB, Camera), offline-first with Ollama support.
 - [Kubernetes on ARM](https://github.com/luxas/kubernetes-on-arm) - Get your ARM device up and running Kubernetes in less than ten minutes.
 - [Lomorage](https://github.com/lomorage/homepage) - Private photo cloud host on Raspberry Pi, with Android/iOS/Web client.
 - [Looper/synth/drum thing](https://github.com/otem/Raspberry-Pi-Looper-synth-drum-thing) - Sequencer/Drumpad, like Native Instruments' Maschine for the Pi.
@@ -199,6 +209,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [PiFmRds](https://github.com/ChristopheJacquet/PiFmRds) - FM-RDS transmitter using a Raspberry Pi.
 - [PiScan](http://denis.papathanasiou.org/posts/2015.05.30.post.html) - Makeshift Amazon Dash orders using a Raspberry PI + EAN scanner.
 - [PiSpot-Show](https://github.com/GeiserX/PiSpot-Show) - WiFi voucher display system with weather integration and PiJuice battery management. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
+- [PiSpot Watch](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand via button press. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [Planning lunch with a Slackbot on resin.io](https://resin.io/blog/planning-lunch-with-a-slackbot-on-resin-io/) - Node.js Slackbot (lunchbot), hosted on Resin.
 - [PoisonTap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [Power Sniffing Strip](https://hackaday.com/2012/10/04/malicious-raspberry-pi-power-strip-looks-a-bit-scary/) - Enclosure in a power strip, sniffing network data.
@@ -207,6 +218,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Raspberry Pi Erlang Cluster](https://medium.com/@pieterjan_m/erlang-pi2-arm-cluster-vs-xeon-vm-40871d35d356#.bpao66cm8) - Erlang cluster on a Raspberry Pi 2.
 - [Raspberry PI Hadoop Cluster](http://www.widriksson.com/raspberry-pi-hadoop-cluster/) - Big Data cluster running on the Raspberry Pi.
 - [Raspberry Pi Setup](https://github.com/atao/raspberrypi-setup) - ⚡ Quickly setup my Raspberry Pi.
+- [Raspberry Pi Telegram Bot](https://github.com/GraveEaterMadison/Raspberry_pi_telegram_bot) - Remotely control your Raspberry Pi using Telegram, with support for GPIO, system commands, custom modules, and real-time interaction.
 - [RaspiBlitz](https://github.com/rootzoll/raspiblitz) - Fastest and cheapest way to get your own Lightning Node running.
 - [RaspiBolt](https://raspibolt.org/) - Beginner’s Guide to ️⚡Lightning️⚡ on a Raspberry Pi.
 - [Receiving GOES-16 Images on a Raspberry Pi](https://gist.github.com/lxe/c1756ca659c3b78414149a3ea723eae2#file-goes16-rtlsdr-md) - An advanced project to receive weather imagery from the GOES-16 satellite using software defined radio (SDR).
@@ -243,6 +255,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 #### Android
 
 - **AndFTP** - Alternative FTP client app. [Android](https://play.google.com/store/apps/details?id=lysesoft.andftp)
+- **EtchDroid** - Is an open-source application that writes disk images to USB drives. [Android](https://play.google.com/store/apps/details?id=eu.depau.etchdroid)
 - **Kore Remote** - Official remote to control Kodi. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore)
 - **PiGo** - Effortlessly explore and manage multiple Pi servers on the go. [Android](https://play.google.com/store/apps/details?id=com.tejasgajjar.pigo)
 - **RaspController** - Manage your Raspberry Pi remotely, control the GPIO ports, send commands directly through the terminal, view images from a connected camera and obtain data from different sensors. [Android](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller)
@@ -307,6 +320,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Docker Swarm with LetsEncrypt](https://aaron.haurwitz.com/#!/posts/raspberry-pi-docker-swarm-with-lets-encrypt) - Clear guidelines on how to set up a cluster with Docker, distributing services with Docker Compose and signing valid SSL certs with Letsencrypt.
 - [How To Make a Raspberry Pi Turn on a Lamp with iBeacon™ Technology](http://developer.radiusnetworks.com/2014/04/27/how-to-make-a-raspberry-pi-turn-on-a-lamp-with-an-ibeacon.html) - Good beginners-guide to working with Beacon technology.
 - [Moonlight](https://github.com/irtimmer/moonlight-embedded) - Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi.
+- [Raspberry Pi 5 SSD Boot Guide](https://raspberry.tips/raspberry-pi-5-zubehoer-test) - Comprehensive guide on upgrading RPi 5 with NVMe SSDs, including benchmarks and hardware compatibility tests (2026 update).
 - [Raspbereum](https://github.com/jim380/Raspbereum) - Run your own Ethereum node on a Raspberry Pi.
 - [Raspberry Pi Game Console](https://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192) - How to Build a Raspberry Pi Retro Game Console for $35.
 - [Raspberry Pi login with SSH keys](https://thibmaek.com/posts/raspberry-pi-login-with-ssh-keys) - Password-less login for ssh sessions on the Raspberry Pi.
