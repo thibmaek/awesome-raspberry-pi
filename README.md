@@ -191,6 +191,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Movel](https://github.com/stevelacy/movel) - Raspberry Pi car computer.
 - [Multi-Datacenter Cassandra on 32 Raspberry Pi’s](http://www.datastax.com/dev/blog/32-node-raspberry-pi-cassandra-cluster) - Showcase for the always on, fault tolerant nature of Cassandra using a Raspberry Pi cluster board.
 - [NALIVATOR-9000](https://github.com/fote/nalivator9000) - Robot bartender for making cocktails with Telegram-bot interface and speech synthesis on Golang.
+- [NanoBot AI Chat Robot](https://github.com/samartzidis/NanoBot) - Raspberry Pi powered AI chat robot, ideal for education and teaching assistance.
 - [Nerves Project](https://github.com/nerves-project) - Craft and deploy bulletproof embedded software in Elixir.
 - [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
 - [NTP driven Nixie Clock](http://www.mjoldfield.com/atelier/2012/08/ntp-nixie.html) - Nixie Tube Clock powered by a Raspberry Pi.
