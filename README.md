@@ -1,5 +1,12 @@
 # Awesome Raspberry Pi
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![npm version](https://img.shields.io/npm/v/awesome-raspberry-pi?style=flat-square&logo=npm&color=blue) ![npm downloads](https://img.shields.io/npm/dw/awesome-raspberry-pi?style=flat-square&color=brightgreen) ![npm license](https://img.shields.io/npm/l/awesome-raspberry-pi?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-1.0.0-blue?style=flat-square)](https://www.npmjs.com/package/awesome-raspberry-pi)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg)](https://github.com/thibmaek/awesome-raspberry-pi/blob/main/CONTRIBUTORS.md)
 
@@ -10,6 +17,26 @@
 This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
 
 Contributions *very welcome* but first see [Contributing](#contributing)
+
+
+## Table of Contents
+
+- [Contents](#contents)
+- [Models](#models)
+- [OS Images](#os-images)
+- [Tools](#tools)
+- [Projects](#projects)
+- [Resources](#resources)
+  - [Useful Apps](#useful-apps)
+    - [Android](#android)
+    - [iOS](#ios)
+  - [Articles](#articles)
+  - [Books](#books)
+  - [Tutorials](#tutorials)
+  - [Swift programming](#swift-programming)
+- [Community](#community)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Contents
 
@@ -170,7 +197,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [CocktailTDI](https://github.com/SimonWaldherr/CocktailTDI) - Another cocktail machine (powered by Raspberry Pi 4, Golang, a pneumatic pump and valves).
 - [Coder for Raspberry Pi](http://googlecreativelab.github.io/coder/) - A open source project by Googlers to turn a Raspberry Pi into a simple, tiny, personal web server and web-based development environment.
 - [Display_Lib_RPI](https://github.com/gavinlyonsrepo/Display_Lib_RPI) - A shared installable C++ Library to connect various electronic displays to Raspberry Pi single board computers.
-- [DIY Arcade Machine](https://github.com/SimonWaldherr/DIY-Arcade-Machine) - A retro style arcade machine, based on a Raspberry Pi Pico, a Hub75 LED matrix and some other stuff (Wii Nunchucks, 3D printed parts, ...) 
+- [DIY Arcade Machine](https://github.com/SimonWaldherr/DIY-Arcade-Machine) - A retro style arcade machine, based on a Raspberry Pi Pico, a Hub75 LED matrix and some other stuff (Wii Nunchucks, 3D printed parts, ...)
 - [DIY USB Rubber Ducky](https://hackaday.io/project/17598-diy-usb-rubber-ducky) - Raspberry Pi Zero Rubber Ducky recognized as a USB HID by just about anything with a USB port, thus allowing you to run custom scripts as if it were a keyboard. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [docsis-cable-load-monitor](https://github.com/sp4rkie/docsis-cable-load-monitor) - Tool to monitor downstream load on DOCSIS cable networks.
 - [Drumbooth controller with touch interface](https://github.com/FDelporte/DrumBoothController) - Project using Java, JavaFX, Pi4J and Arduino to control 8 relays and LED strips.
