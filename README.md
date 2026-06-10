@@ -1,5 +1,12 @@
 # Awesome Raspberry Pi
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![npm version](https://img.shields.io/npm/v/awesome-raspberry-pi?style=flat-square&logo=npm&color=blue) ![npm downloads](https://img.shields.io/npm/dw/awesome-raspberry-pi?style=flat-square&color=brightgreen) ![npm license](https://img.shields.io/npm/l/awesome-raspberry-pi?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-1.0.0-blue?style=flat-square)](https://www.npmjs.com/package/awesome-raspberry-pi)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg)](https://github.com/thibmaek/awesome-raspberry-pi/blob/main/CONTRIBUTORS.md)
 
