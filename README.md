@@ -18,6 +18,26 @@ This list is a collection of tools, projects, images and resources conforming to
 
 Contributions *very welcome* but first see [Contributing](#contributing)
 
+
+## Table of Contents
+
+- [Contents](#contents)
+- [Models](#models)
+- [OS Images](#os-images)
+- [Tools](#tools)
+- [Projects](#projects)
+- [Resources](#resources)
+  - [Useful Apps](#useful-apps)
+    - [Android](#android)
+    - [iOS](#ios)
+  - [Articles](#articles)
+  - [Books](#books)
+  - [Tutorials](#tutorials)
+  - [Swift programming](#swift-programming)
+- [Community](#community)
+  - [Contributing](#contributing)
+  - [License](#license)
+
 ## Contents
 
 - [Models](#models)
