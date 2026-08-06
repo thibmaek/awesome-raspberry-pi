@@ -141,6 +141,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [RaspAP-webgui](https://github.com/billz/raspap-webgui) - A simple, responsive web interface to control wifi, hostapd and related services on the Raspberry Pi.
 - [Raspberry Pi Imager](https://www.raspberrypi.org/blog/raspberry-pi-imager-imaging-utility/) - An easy way to install Raspberry Pi OS and other operating systems to an SD card ready to use with your Raspberry Pi
 - [Raspbian QEMU with network](https://ownyourbits.com/2017/02/06/raspbian-on-qemu-with-network-access/) - Simple tool to launch QEMU on Raspbian with the required modifications on the system and kernel. Automatic network access. Handy to create images in your PC.
+- [Rasptele](https://github.com/maddhruv/rasptele) - Monitor Raspberry Pi health, manage Docker containers, and control Pi-hole through Telegram without exposing inbound ports.
 - [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) - Simple application/repo to bridge a Raspberry Pi's wlan0 interface to devices plugged into it over ethernet (eth0).
 - [RPi Monitor Dashboard](https://github.com/nekromoff/rpi-monitor-dashboard) - Simple monitoring tool with a dashboard suitable for monitoring multiple RPi devices (CPU temperature, network, ping, browser, screenshot of X display etc.).
 - [Rpi MQTT Monitor](https://github.com/hjelev/rpi-mqtt-monitor) - The easiest way to track and control your Raspberry Pi or Ubuntu computer system health and performance in Home Assistant.
