@@ -66,6 +66,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Hass.io](https://home-assistant.io/hassio/installation/) - Home automation operating system/application for embedded device, also available standalone.
 - [HypriotOS](http://blog.hypriot.com/about/) - Minimal Debian-based operating system, optimized to run Docker.
 - [Kali Linux](https://www.offensive-security.com/kali-linux-arm-images/) - Penetration Testing & Ethical Hacking Linux distro for ARM devices.
+- [KODE OS](https://kodenas.dev/os) - Beginner-friendly home server distribution based on CasaOS, with a first-boot wizard, family-member profiles, and an OLED display daemon (Pi 4 and Pi 5).
 - [KonstaKANG](https://konstakang.com/devices/rpi4/) - Unofficial LineageOS and AOSP builds for Raspberry Pi. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [Lakka](http://lakka.tv) - Retro-gaming on the Raspberry Pi built entirely on RetroArch.
 - [LibreELEC](https://libreelec.tv/) - Just enough OS for Kodi
