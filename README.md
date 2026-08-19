@@ -121,6 +121,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [HealthyPi](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [iotwifi](https://github.com/cjimti/iotwifi) - Wifi AP + Client management in 8MB [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/), with REST API for controlling wifi client and station modes simultaneously. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [ndm](https://github.com/gitbls/ndm) - Command line tool to easily manage DNS and DHCP servers.
+- [nook](https://github.com/achevalier-dev/nook) - Turns a Pi into a shared folder and a network drive on your tailnet, both driven from another machine over SSH, with the disk offered over iSCSI or NBD.
 - [Orangetool](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
 - [OSMC Installer](https://osmc.tv/download/) - GUI based utility to download and install OSMC on to a variety of platforms.
 - [Pi Temperature Exporter](https://github.com/s-nagaev/pi-temperature-exporter) - a CPU and GPU temperature exporter for Prometheus consumption.
