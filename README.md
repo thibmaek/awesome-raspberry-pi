@@ -114,6 +114,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Armbian Imager](https://imager.armbian.com) - An open-source imaging tool that makes installing Armbian OS effortless.
 - [Atlas toolkit](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
 - [balenaEtcher](https://www.balena.io/etcher/) - SD card burner app that is simple for end users, extensible for developers, and works on any platform.
+- [Caspian-BYOC](https://github.com/Iman/caspian) - Turn the Pi into a WiFi hotspot that tunnels every joined device through an Xray proxy from a pasted share link. Persian and English web panel.
 - [n01d-forge](https://github.com/bad-antics/n01d-forge) - Native Rust image burner with LUKS/VeraCrypt encryption support, perfect for creating secure bootable SD cards for Raspberry Pi.
 - [Drago](https://seashell.github.io/drago) - Flexible configuration manager for Wireguard networks that is perfect for establishing secure overlays spanning multiple Raspberry Pis.
 - [Embedible](https://embedible.io/) - AI that transforms your electronics ideas into working Raspberry Pi Pico projects.
