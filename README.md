@@ -155,6 +155,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 - [40-node Raspberry Pi Cluster](http://hackaday.com/2014/02/17/40-node-raspi-cluster/) - Cluster aimed to be under the size of full tower desktop.
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - DNS relay station with ad/tracker/other blocking, IP address redirections, and DNS-over-HTTPS.
+- [Bad Thing of the Edge](https://github.com/Pakequis/Bad-Thing-of-the-Edge-keyboard) - Mechanical gaming keyboard for the left hand, built around a Raspberry Pi Pico.
 - [BeeMonitor](https://beemonitor.org/setup/) - Honey beehive monitoring project.
 - [Bitcoin Tracker](https://github.com/jonathanrjpereira/Bitcoin-Bar) - A Physical Dashboard that displays Bitcoin stats in real time. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [BlackRoad OS](https://blackroad.io) - Self-hosted edge AI operating system running 52 TOPS of inference on Raspberry Pi 5 clusters with Hailo-8 accelerators, WireGuard mesh networking, and self-healing automation.
@@ -167,6 +168,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Ceil](https://github.com/helmuthva/ceil) - Auto-provisioned RPi cluster running K8S on bare-metal. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [Circle](https://github.com/rsta2/circle) - A C++ bare metal environment for Raspberry Pi.
 - [clockOS](https://github.com/iGerli/clockOS) - simple smart desktop clock using a Raspberry Pi display.
+- [Clock/Calendar Retrofit](https://github.com/Pakequis/Clock_PiW) - Retrofits a broken electronic clock/calendar with a Raspberry Pi Pico W, synced over Wi-Fi via NTP.
 - [CookCLI](https://github.com/cooklang/CookCLI) - Turn your Raspberry Pi into a self-hosted recipe server. Manage recipes in plain-text Cooklang format with web UI, shopping lists, and meal planning.
 - [CocktailMaker](https://github.com/alex9849/pi-cocktail-maker) - An advanced cocktail making machine that can be controlled via browser and touchscreen.
 - [CocktailTDI](https://github.com/SimonWaldherr/CocktailTDI) - Another cocktail machine (powered by Raspberry Pi 4, Golang, a pneumatic pump and valves).
@@ -227,6 +229,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Raspberry Pi Setup](https://github.com/atao/raspberrypi-setup) - ⚡ Quickly setup my Raspberry Pi.
 - [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain that rewards vintage and edge hardware including Raspberry Pi for mining. DePIN infrastructure for IoT devices.
 - [Raspberry Pi Telegram Bot](https://github.com/GraveEaterMadison/Raspberry_pi_telegram_bot) - Remotely control your Raspberry Pi using Telegram, with support for GPIO, system commands, custom modules, and real-time interaction.
+- [Raspberry Pi TV Simulator](https://github.com/Pakequis/Raspberry-pi-TV-sim) - Simulates a channel change with random video playback on an old tube TV, switching between static noise and composite video.
 - [RaspiBlitz](https://github.com/rootzoll/raspiblitz) - Fastest and cheapest way to get your own Lightning Node running.
 - [RaspiBolt](https://raspibolt.org/) - Beginner’s Guide to ️⚡Lightning️⚡ on a Raspberry Pi.
 - [Receiving GOES-16 Images on a Raspberry Pi](https://gist.github.com/lxe/c1756ca659c3b78414149a3ea723eae2#file-goes16-rtlsdr-md) - An advanced project to receive weather imagery from the GOES-16 satellite using software defined radio (SDR).
