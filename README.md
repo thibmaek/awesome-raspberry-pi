@@ -136,6 +136,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [PiVPN](https://pivpn.io) - Create a full-featured OpenVPN/WireGuard VPN Server with a single bash command.
 - [PiGro](https://github.com/actionschnitzel/PiGro-Aid-) - PiGro does many commands that have to be entered via the terminal with one or two clicks of a button.
 - [Pi-Apps](https://github.com/Botspot/pi-apps) - The most popular app store for Raspberry Pi computers, 100% open-source bash scripts.
+- [plexus-python](https://github.com/plexus-oss/plexus-python) - Apache-2.0 Python SDK for streaming sensor readings from a Raspberry Pi to Plexus, a hosted time-series store with live dashboards.
 - [Processing](https://pi.processing.org/get-started/) - Processing Development Environment running on Raspberry Pi.
 - [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi is an AI based Wi-Fi cracking tool that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
 - [RaspAP-webgui](https://github.com/billz/raspap-webgui) - A simple, responsive web interface to control wifi, hostapd and related services on the Raspberry Pi.
