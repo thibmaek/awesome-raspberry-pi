@@ -167,6 +167,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Chromebook Charger Kiosk](https://www.reddit.com/r/raspberry_pi/comments/53nj1z/chromebook_charger_kiosk_last_minute_charge_for/) - Timed charging station for students using Chromebooks at school.
 - [Ceil](https://github.com/helmuthva/ceil) - Auto-provisioned RPi cluster running K8S on bare-metal. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [Circle](https://github.com/rsta2/circle) - A C++ bare metal environment for Raspberry Pi.
+- [clawtouch-hid](https://github.com/tinqiao-oss/clawtouch-hid) - CircuitPython firmware that turns a Pico 2 into a USB keyboard and mouse driven by a program on another computer over a serial channel, with a frozen wire protocol and a host-side Python module.
 - [clockOS](https://github.com/iGerli/clockOS) - simple smart desktop clock using a Raspberry Pi display.
 - [CookCLI](https://github.com/cooklang/CookCLI) - Turn your Raspberry Pi into a self-hosted recipe server. Manage recipes in plain-text Cooklang format with web UI, shopping lists, and meal planning.
 - [CocktailMaker](https://github.com/alex9849/pi-cocktail-maker) - An advanced cocktail making machine that can be controlled via browser and touchscreen.
