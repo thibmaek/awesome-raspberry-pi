@@ -237,6 +237,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Rhasspy](https://rhasspy.readthedocs.io) - Open source, fully offline set of voice assistant services that works well with Home Assistant, Node-RED, MQTT and more.
 - [RPi-eth-display](https://pierre-couy.dev/tinkering/2023/03/turning-rpi-into-external-monitor-driver.html) - Open source DisplayLink alternative, ethernet to HDMI adapter.
 - [RPi Motor Library](https://github.com/gavinlyonsrepo/RpiMotorLib) - Python 3 library to connect various motors & servos to the Pi.
+- [RPi System Info](https://github.com/Nkeramov/rpi_system_info) - A Flask‑based web interface for Raspberry Pi health monitoring. Displays detailes about the board and information for the CPU, RAM, Ethernet, Wi-Fi, Bluetooth, Disks (usage and inodes), SD card, running processes.
 - [RPI tempmon](https://github.com/gavinlyonsrepo/raspberrypi_tempmon) - CPU GPU temperature monitor with various functions such as LED GPIO, Graph output, email, alarm limit, notifications and logging.
 - [Secluso](https://github.com/secluso/core) - A private-by-default Raspberry Pi home security camera that uses end-to-end encryption. Supports Raspberry Pi Zero 2 W. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [SecPi](https://github.com/SecPi/SecPi) - Raspberry Pi based home alarm system.
