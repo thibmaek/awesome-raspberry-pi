@@ -204,6 +204,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
 - [NTP driven Nixie Clock](http://www.mjoldfield.com/atelier/2012/08/ntp-nixie.html) - Nixie Tube Clock powered by a Raspberry Pi.
 - [Occu-Pi](https://github.com/bww/occu-pi) - Controller software for the Occu-pi, a totally awesome bathroom door sensor.
+- [Orbit OS](https://www.orbit-os.org/) - Android-like platform installed on top of Raspberry Pi OS: signed apps from an app store, atomic OTA updates, and Go, Python and Java SDKs to control GPIO, I²C, UART and the camera, with a VS Code extension (Orbit Studio) to run code live on the Pi and deploy in one click. Supports Raspberry Pi 3, 4, 5 and Zero 2 W.
 - [P4wnP1](https://github.com/mame82/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [Pi Image Capturer](https://github.com/rajeshkumarkhadka/Pi-Image-Capturer) - Captures images, integrated with the Google IOT Cloud Platform ecosystem.
 - [pi_payments](https://github.com/anshulahuja98/pi_payments) - Payment module based on RFID.
