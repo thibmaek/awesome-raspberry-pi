@@ -191,6 +191,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Jasper](https://jasperproject.github.io/) - Flexible open source personal assistant.
 - [LocalKin](https://localkin.dev) - 23MB single-binary AI Agent for Raspberry Pi and edge devices. Self-forging skills, Genesis Protocol for auto hardware discovery (GPIO, I2C, USB, Camera), offline-first with Ollama support.
 - [Kubernetes on ARM](https://github.com/luxas/kubernetes-on-arm) - Get your ARM device up and running Kubernetes in less than ten minutes.
+- [led-ticker](https://github.com/JamesAwesome/led-ticker) - Raspberry Pi toolkit for driving large RGB LED matrix signs via a TOML config, with scrolling news, weather, crypto, sports and calendar feeds, animated transitions, and a plugin system.
 - [Lomorage](https://github.com/lomorage/homepage) - Private photo cloud host on Raspberry Pi, with Android/iOS/Web client.
 - [Looper/synth/drum thing](https://github.com/otem/Raspberry-Pi-Looper-synth-drum-thing) - Sequencer/Drumpad, like Native Instruments' Maschine for the Pi.
 - [Lumos](https://www.instructables.com/id/LUMOS-Smart-Lamp-for-Better-Health/) - Smart Lamp for Better Sleep. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
