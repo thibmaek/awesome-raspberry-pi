@@ -120,6 +120,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Hardened Kernel Builder for RPi](https://github.com/tschaffter/raspberry-pi-kernel-hardened) - Cross-compile the Linux kernel for Raspberry Pi with enhanced security using a single command.
 - [HealthyPi](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [iotwifi](https://github.com/cjimti/iotwifi) - Wifi AP + Client management in 8MB [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/), with REST API for controlling wifi client and station modes simultaneously. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
+- [llama-roofline](https://github.com/manunicholasjacob/llama-roofline) - Command-line tool that measures the memory read bandwidth of the board, benchmarks llama.cpp across thread counts and reports in plain words whether local LLM token generation is limited by memory bandwidth, tested on the Raspberry Pi 5.
 - [ndm](https://github.com/gitbls/ndm) - Command line tool to easily manage DNS and DHCP servers.
 - [Orangetool](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
 - [OSMC Installer](https://osmc.tv/download/) - GUI based utility to download and install OSMC on to a variety of platforms.
