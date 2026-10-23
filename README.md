@@ -250,6 +250,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Sonic Pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone.
 - [Sonus](https://github.com/evancohen/sonus) - Node.js voice control for your Pi (and everything else) with customizable offline hotword detection.
 - [speed-camera](https://github.com/pageauc/speed-camera) - Object Motion Tracking uses python, openCV, USB Cam or picamera module to record speed data.
+- [StickTime Pi](https://github.com/juricabi/sticktime-pi) - Raspberry Pi 4 FPV drone simulator for analog goggles, composite out into a 5.8 GHz video transmitter, flown with a real RC radio over WiFi, USB or Bluetooth.
 - [Stratux](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
 - [StreamPi](https://stream-pi.com/) - A robust alternative to the Elgato Stream Deck, that can launch apps, scripts, websites and control applications like OBS.
 - [TelePi](https://github.com/besoeasy/telepi) - Telepi allows you to monitor and control your Raspberry Pi via Telegram featuring file downloads, system monitoring, network insights, speed tests, and the ability to open web tunnels.
