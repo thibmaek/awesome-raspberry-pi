@@ -132,6 +132,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [PiKISS](https://github.com/jmcerrejon/PiKISS) - A bunch of scripts with menu to make your life easier.
 - [Pimod](https://github.com/Nature40/pimod) - Reconfigure Raspberry Pi images with an easy, Docker-like configuration file.
 - [PiPulse](https://github.com/techtiki21/PiPulse) - Monitor Raspberry Pi at all times without SSH.
+- [piscout](https://github.com/MilkteaTW1/piscout) - Windows desktop app that scans the LAN for Raspberry Pis, opens an SSH terminal and remote desktop, shows temperature and load of several Pis, uploads files by drag and drop, and flashes SD cards.
 - [PiShrink](https://github.com/Drewsif/PiShrink/) - Bash script that automatically shrinks a pi image that will then resize to the max size of the SD card on boot.
 - [pistrong](https://github.com/gitbls/pistrong) - Manage certificate-secured strongSwan VPNs. Installer and command-line tool for client-server, site-to-site, and host-to-host VPNs.
 - [PiVPN](https://pivpn.io) - Create a full-featured OpenVPN/WireGuard VPN Server with a single bash command.
