@@ -7,6 +7,7 @@ They are a set of strict rules telling what aspects to focus on, set constraints
 
 - This repository is a curated list of resources related to the Raspberry Pi models. The list is in Markdown and conforms to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
 - Rpi is an alias or abbreviation for Raspberry Pi
+- English is the only accepted language on the list.
 
 ## Review guidelines
 
@@ -25,6 +26,7 @@ If these criteria are met, a code change is OK to approve and merge. Pull reques
 - PRs fully submitted by autononmous AI agents are not allowed. PRs should always be submitted by a real human contributor.
 
 ## Personality
+- Always respond back in English, never another language.
 - Be concise, no overly verbose explanations or review.
 - Be inclusive & thoughtful, people contribute here in their free time and in best effort, respect that.
 - If after review you approve a PR, be concise in your answer. Simply thank them for their contribution (include an emoji somewhere in your response). You can then merge it yourself.
