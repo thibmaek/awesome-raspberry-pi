@@ -125,6 +125,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [nook](https://github.com/achevalier-dev/nook) - Turns a Pi into a shared folder and a network drive on your tailnet, both driven from another machine over SSH, with the disk offered over iSCSI or NBD.
 - [Orangetool](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
 - [OSMC Installer](https://osmc.tv/download/) - GUI based utility to download and install OSMC on to a variety of platforms.
+- [php-wifi](https://github.com/sanchescom/php-wifi) - PHP library and CLI to scan, join and host Wi-Fi networks, with a watchdog that keeps a headless Pi online or raises a setup hotspot.
 - [Pi Temperature Exporter](https://github.com/s-nagaev/pi-temperature-exporter) - a CPU and GPU temperature exporter for Prometheus consumption.
 - [pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc.
 - [Raspberry Pi GPIO Pinout](https://raspberry.tips/en/raspberry-pi-gpio-pinout) - Interactive pinout reference for all 40 GPIO pins with BCM numbers, functions, voltage specs, and HAT overlays. Updated for Pi 5 (RP1 controller).
