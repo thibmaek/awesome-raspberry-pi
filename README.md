@@ -1,7 +1,7 @@
 # Awesome Raspberry Pi
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg)](https://github.com/thibmaek/awesome-raspberry-pi/blob/main/CONTRIBUTORS.md)
+[![All Contributors](https://img.shields.io/badge/all_contributors-74-orange.svg)](https://github.com/thibmaek/awesome-raspberry-pi/blob/main/CONTRIBUTORS.md)
 
 <a href="https://www.raspberrypi.org"><img src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png" alt="Raspberry Pi Logo" align="left" style="margin-right: 25px" height=150></a>
 
@@ -88,6 +88,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [PiFi](https://pifi.org) - Turn Raspberry Pi into a High-Speed VPN Router in Seconds ⚡️ (Supports Raspberry Pi 4 and 5).
 - [PiNet](http://pinet.org.uk/) - System to manage Raspberry Pi classrooms.
 - [PirateBox](https://piratebox.cc/doku.php?id=raspberry_pi:diy) - Anonymous offline mobile file-sharing and communications system.
+- [PIrateRF](https://github.com/psyb0t/piraterf) - Turns a Raspberry Pi Zero W into a portable, browser-controlled RF transmitter with its own WiFi hotspot, supporting a dozen modes including FM broadcast, FT8, RTTY, POCSAG, and Morse. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [RasComm RaspberryPi MorseCode Translator](https://github.com/Defcon27/RasComm-RaspberryPi-MorseCode-Translator) - RasComm is a communication device that translates plain text into Morse code (IMC) visually or audibly.
 - [Raspberry Pi OS](https://www.raspberrypi.org/downloads/) - The official supported Raspberry Pi OS (previously called "Raspbian"), based on Debian and available as a lite version.
 - [Raspbian](http://www.raspbian.org/) - Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware.
@@ -115,11 +116,13 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [balenaEtcher](https://www.balena.io/etcher/) - SD card burner app that is simple for end users, extensible for developers, and works on any platform.
 - [n01d-forge](https://github.com/bad-antics/n01d-forge) - Native Rust image burner with LUKS/VeraCrypt encryption support, perfect for creating secure bootable SD cards for Raspberry Pi.
 - [Drago](https://seashell.github.io/drago) - Flexible configuration manager for Wireguard networks that is perfect for establishing secure overlays spanning multiple Raspberry Pis.
+- [EdgeLLM Bench](https://edgellm-bench.vercel.app) - Leaderboard of local LLM speeds (tokens/sec) on Raspberry Pi 5, 4 and CM4 compared with Jetson and RK3588 boards, each result linked to its source.
 - [Embedible](https://embedible.io/) - AI that transforms your electronics ideas into working Raspberry Pi Pico projects.
 - [Hardened Kernel Builder for RPi](https://github.com/tschaffter/raspberry-pi-kernel-hardened) - Cross-compile the Linux kernel for Raspberry Pi with enhanced security using a single command.
 - [HealthyPi](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [iotwifi](https://github.com/cjimti/iotwifi) - Wifi AP + Client management in 8MB [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/), with REST API for controlling wifi client and station modes simultaneously. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [ndm](https://github.com/gitbls/ndm) - Command line tool to easily manage DNS and DHCP servers.
+- [nook](https://github.com/achevalier-dev/nook) - Turns a Pi into a shared folder and a network drive on your tailnet, both driven from another machine over SSH, with the disk offered over iSCSI or NBD.
 - [Orangetool](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
 - [OSMC Installer](https://osmc.tv/download/) - GUI based utility to download and install OSMC on to a variety of platforms.
 - [Pi Temperature Exporter](https://github.com/s-nagaev/pi-temperature-exporter) - a CPU and GPU temperature exporter for Prometheus consumption.
@@ -129,6 +132,8 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Pieman](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
 - [PiKISS](https://github.com/jmcerrejon/PiKISS) - A bunch of scripts with menu to make your life easier.
 - [Pimod](https://github.com/Nature40/pimod) - Reconfigure Raspberry Pi images with an easy, Docker-like configuration file.
+- [PiPulse](https://github.com/techtiki21/PiPulse) - Monitor Raspberry Pi at all times without SSH.
+- [piscout](https://github.com/MilkteaTW1/piscout) - Windows desktop app that scans the LAN for Raspberry Pis, opens an SSH terminal and remote desktop, shows temperature and load of several Pis, uploads files by drag and drop, and flashes SD cards.
 - [PiShrink](https://github.com/Drewsif/PiShrink/) - Bash script that automatically shrinks a pi image that will then resize to the max size of the SD card on boot.
 - [pistrong](https://github.com/gitbls/pistrong) - Manage certificate-secured strongSwan VPNs. Installer and command-line tool for client-server, site-to-site, and host-to-host VPNs.
 - [PiVPN](https://pivpn.io) - Create a full-featured OpenVPN/WireGuard VPN Server with a single bash command.
@@ -139,10 +144,13 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [RaspAP-webgui](https://github.com/billz/raspap-webgui) - A simple, responsive web interface to control wifi, hostapd and related services on the Raspberry Pi.
 - [Raspberry Pi Imager](https://www.raspberrypi.org/blog/raspberry-pi-imager-imaging-utility/) - An easy way to install Raspberry Pi OS and other operating systems to an SD card ready to use with your Raspberry Pi
 - [Raspbian QEMU with network](https://ownyourbits.com/2017/02/06/raspbian-on-qemu-with-network-access/) - Simple tool to launch QEMU on Raspbian with the required modifications on the system and kernel. Automatic network access. Handy to create images in your PC.
+- [Rasptele](https://github.com/maddhruv/rasptele) - Monitor Raspberry Pi health, manage Docker containers, and control Pi-hole through Telegram without exposing inbound ports.
+- [RelaySSH](https://relayssh.com) - Hosted reverse SSH relay for Pis behind CGNAT or LTE, connect with plain ssh, no port forwarding or client software.
 - [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) - Simple application/repo to bridge a Raspberry Pi's wlan0 interface to devices plugged into it over ethernet (eth0).
 - [RPi Monitor Dashboard](https://github.com/nekromoff/rpi-monitor-dashboard) - Simple monitoring tool with a dashboard suitable for monitoring multiple RPi devices (CPU temperature, network, ping, browser, screenshot of X display etc.).
 - [Rpi MQTT Monitor](https://github.com/hjelev/rpi-mqtt-monitor) - The easiest way to track and control your Raspberry Pi or Ubuntu computer system health and performance in Home Assistant.
 - [rpi-cookstrap](https://github.com/heeplr/rpi-cookstrap) - A lightweight, plugin based bakery shell script framework to customize, bootstrap & provision raspberry pi OS disk images.
+- [sbc.compare](https://sbc.compare/raspberry-pi) - Benchmarks, specs and prices for 20+ Raspberry Pi models, from the Zero to the Pi 5 in every RAM size, all tested in-house with the same methodology, with side-by-side comparisons.
 - [sdm](https://github.com/gitbls/sdm) - Easily and fully customize RasPiOS images. Install apps, configure settings, etc then burn SSDs/SD cards for lots of different systems from a single image, and each one boots up fully configured and ready for work. Or play.
 - [stressberry](https://github.com/nschloe/stressberry) - Stress test your Raspberry Pi and plot temperatures.
 - [TorTiPi](https://github.com/r0hi7/tortipi) - Shell script to automate the task of converting Raspberry Pi into a tor based wifi hotspot.
@@ -153,6 +161,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 - [40-node Raspberry Pi Cluster](http://hackaday.com/2014/02/17/40-node-raspi-cluster/) - Cluster aimed to be under the size of full tower desktop.
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - DNS relay station with ad/tracker/other blocking, IP address redirections, and DNS-over-HTTPS.
+- [Bad Thing of the Edge](https://github.com/Pakequis/Bad-Thing-of-the-Edge-keyboard) - Mechanical gaming keyboard for the left hand, built around a Raspberry Pi Pico.
 - [BeeMonitor](https://beemonitor.org/setup/) - Honey beehive monitoring project.
 - [Bitcoin Tracker](https://github.com/jonathanrjpereira/Bitcoin-Bar) - A Physical Dashboard that displays Bitcoin stats in real time. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [BlackRoad OS](https://blackroad.io) - Self-hosted edge AI operating system running 52 TOPS of inference on Raspberry Pi 5 clusters with Hailo-8 accelerators, WireGuard mesh networking, and self-healing automation.
@@ -161,14 +170,19 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Building a Ceph Cluster on Raspberry Pi](http://bryanapperson.com/blog/the-definitive-guide-ceph-cluster-on-raspberry-pi/) - Highly redundant and low power usage RADOS home storage solution.
 - [Building Timelapse with Resin](https://steveedson.co.uk/project-matilda/) - Remotely deploying timelapse camera using Docker, Resin, and 3G internet.
 - [Cama-Camel Pack](https://github.com/Barqawiz/iot_watering_system) - A home-based irrigation system for efficient plant care using IoT.
+- [Cannvas](https://github.com/mikecann/cannvas) - Family touchscreen dashboard for a portrait TV with an infrared touch frame, with whiteboards, chores, calendar and Home Assistant controls, running on a Raspberry Pi 4 Model B.
 - [Chromebook Charger Kiosk](https://www.reddit.com/r/raspberry_pi/comments/53nj1z/chromebook_charger_kiosk_last_minute_charge_for/) - Timed charging station for students using Chromebooks at school.
 - [Ceil](https://github.com/helmuthva/ceil) - Auto-provisioned RPi cluster running K8S on bare-metal. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
+- [CharlieBoard](https://github.com/tomunderwood99/CharlieBoard) - Open-source transit display using WS2812B LEDs with real-time vehicle tracking, geographically accurate PCB map, and a web control interface. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [Circle](https://github.com/rsta2/circle) - A C++ bare metal environment for Raspberry Pi.
+- [Clock/Calendar Retrofit](https://github.com/Pakequis/Clock_PiW) - Retrofits a broken electronic clock/calendar with a Raspberry Pi Pico W, synced over Wi-Fi via NTP.
 - [clockOS](https://github.com/iGerli/clockOS) - simple smart desktop clock using a Raspberry Pi display.
 - [CookCLI](https://github.com/cooklang/CookCLI) - Turn your Raspberry Pi into a self-hosted recipe server. Manage recipes in plain-text Cooklang format with web UI, shopping lists, and meal planning.
 - [CocktailMaker](https://github.com/alex9849/pi-cocktail-maker) - An advanced cocktail making machine that can be controlled via browser and touchscreen.
 - [CocktailTDI](https://github.com/SimonWaldherr/CocktailTDI) - Another cocktail machine (powered by Raspberry Pi 4, Golang, a pneumatic pump and valves).
 - [Coder for Raspberry Pi](http://googlecreativelab.github.io/coder/) - A open source project by Googlers to turn a Raspberry Pi into a simple, tiny, personal web server and web-based development environment.
+- [Coffee Edition](https://github.com/ierolsen/coffee-edition-kit) - A two-page newspaper printed every morning by a Raspberry Pi Pico W or Pico 2 W, written overnight by a Claude Code routine, checked by GitHub Actions and streamed to a network printer over IPP.
+- [DCS-BIOS](https://github.com/DCS-Skunkworks/dcs-bios) - Exports DCS World cockpit data (switches, lights, displays) over serial/UDP to Arduino, ESP32, or Raspberry Pi for physical panel builds.
 - [Display_Lib_RPI](https://github.com/gavinlyonsrepo/Display_Lib_RPI) - A shared installable C++ Library to connect various electronic displays to Raspberry Pi single board computers.
 - [DIY Arcade Machine](https://github.com/SimonWaldherr/DIY-Arcade-Machine) - A retro style arcade machine, based on a Raspberry Pi Pico, a Hub75 LED matrix and some other stuff (Wii Nunchucks, 3D printed parts, ...) 
 - [DIY USB Rubber Ducky](https://hackaday.io/project/17598-diy-usb-rubber-ducky) - Raspberry Pi Zero Rubber Ducky recognized as a USB HID by just about anything with a USB port, thus allowing you to run custom scripts as if it were a keyboard. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
@@ -190,15 +204,19 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Looper/synth/drum thing](https://github.com/otem/Raspberry-Pi-Looper-synth-drum-thing) - Sequencer/Drumpad, like Native Instruments' Maschine for the Pi.
 - [Lumos](https://www.instructables.com/id/LUMOS-Smart-Lamp-for-Better-Health/) - Smart Lamp for Better Sleep. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [Magic Mirror](http://magicmirror.builders) - The original open source modular smart mirror platform. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
+- [MeshSat](https://github.com/meshsat/meshsat) - Off-grid messaging gateway that bridges Meshtastic LoRa, Iridium satellite, cellular SMS, APRS, ZigBee and BLE over a Reticulum routing layer, running as a Docker container on a Raspberry Pi.
 - [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
 - [Movel](https://github.com/stevelacy/movel) - Raspberry Pi car computer.
 - [Multi-Datacenter Cassandra on 32 Raspberry Pi’s](http://www.datastax.com/dev/blog/32-node-raspberry-pi-cassandra-cluster) - Showcase for the always on, fault tolerant nature of Cassandra using a Raspberry Pi cluster board.
 - [NALIVATOR-9000](https://github.com/fote/nalivator9000) - Robot bartender for making cocktails with Telegram-bot interface and speech synthesis on Golang.
+- [NanoBot AI Chat Robot](https://github.com/samartzidis/NanoBot) - Raspberry Pi powered AI chat robot, ideal for education and teaching assistance.
 - [Nerves Project](https://github.com/nerves-project) - Craft and deploy bulletproof embedded software in Elixir.
 - [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
 - [NTP driven Nixie Clock](http://www.mjoldfield.com/atelier/2012/08/ntp-nixie.html) - Nixie Tube Clock powered by a Raspberry Pi.
 - [Occu-Pi](https://github.com/bww/occu-pi) - Controller software for the Occu-pi, a totally awesome bathroom door sensor.
+- [Orbit OS](https://www.orbit-os.org/) - Android-like platform installed on top of Raspberry Pi OS: signed apps from an app store, atomic OTA updates, and Go, Python and Java SDKs to control GPIO, I²C, UART and the camera, with a VS Code extension (Orbit Studio) to run code live on the Pi and deploy in one click. Supports Raspberry Pi 3, 4, 5 and Zero 2 W.
 - [P4wnP1](https://github.com/mame82/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
+- [Philosopher](https://github.com/msalsas/philosopher) - A conversational-AI plush toy (Raspberry Pi + local LLM) that recognizes faces, reads emotions, remembers people, and talks with configurable personalities (100% local). ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [Pi Image Capturer](https://github.com/rajeshkumarkhadka/Pi-Image-Capturer) - Captures images, integrated with the Google IOT Cloud Platform ecosystem.
 - [pi_payments](https://github.com/anshulahuja98/pi_payments) - Payment module based on RFID.
 - [Pi-hole](https://pi-hole.net/) - Black hole for internet ads.
@@ -221,7 +239,9 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Raspberry Pi Erlang Cluster](https://medium.com/@pieterjan_m/erlang-pi2-arm-cluster-vs-xeon-vm-40871d35d356#.bpao66cm8) - Erlang cluster on a Raspberry Pi 2.
 - [Raspberry PI Hadoop Cluster](http://www.widriksson.com/raspberry-pi-hadoop-cluster/) - Big Data cluster running on the Raspberry Pi.
 - [Raspberry Pi Setup](https://github.com/atao/raspberrypi-setup) - ⚡ Quickly setup my Raspberry Pi.
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain that rewards vintage and edge hardware including Raspberry Pi for mining. DePIN infrastructure for IoT devices.
 - [Raspberry Pi Telegram Bot](https://github.com/GraveEaterMadison/Raspberry_pi_telegram_bot) - Remotely control your Raspberry Pi using Telegram, with support for GPIO, system commands, custom modules, and real-time interaction.
+- [Raspberry Pi TV Simulator](https://github.com/Pakequis/Raspberry-pi-TV-sim) - Simulates a channel change with random video playback on an old tube TV, switching between static noise and composite video.
 - [RaspiBlitz](https://github.com/rootzoll/raspiblitz) - Fastest and cheapest way to get your own Lightning Node running.
 - [RaspiBolt](https://raspibolt.org/) - Beginner’s Guide to ️⚡Lightning️⚡ on a Raspberry Pi.
 - [Receiving GOES-16 Images on a Raspberry Pi](https://gist.github.com/lxe/c1756ca659c3b78414149a3ea723eae2#file-goes16-rtlsdr-md) - An advanced project to receive weather imagery from the GOES-16 satellite using software defined radio (SDR).
@@ -231,6 +251,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [RPi-eth-display](https://pierre-couy.dev/tinkering/2023/03/turning-rpi-into-external-monitor-driver.html) - Open source DisplayLink alternative, ethernet to HDMI adapter.
 - [RPi Motor Library](https://github.com/gavinlyonsrepo/RpiMotorLib) - Python 3 library to connect various motors & servos to the Pi.
 - [RPI tempmon](https://github.com/gavinlyonsrepo/raspberrypi_tempmon) - CPU GPU temperature monitor with various functions such as LED GPIO, Graph output, email, alarm limit, notifications and logging.
+- [Secluso](https://github.com/secluso/core) - A private-by-default Raspberry Pi home security camera that uses end-to-end encryption. Supports Raspberry Pi Zero 2 W. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [SecPi](https://github.com/SecPi/SecPi) - Raspberry Pi based home alarm system.
 - [Skate-o-Meter](http://www.instructables.com/id/Skate-o-Meter/) - Skateboard odometer and speedometer with RFID user system.
 - [SkyJack](https://samy.pl/skyjack/) - Take over and allow full control over any Parrot AR Drone within wireless distance.
@@ -239,15 +260,17 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Sonic Pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone.
 - [Sonus](https://github.com/evancohen/sonus) - Node.js voice control for your Pi (and everything else) with customizable offline hotword detection.
 - [speed-camera](https://github.com/pageauc/speed-camera) - Object Motion Tracking uses python, openCV, USB Cam or picamera module to record speed data.
+- [StickTime Pi](https://github.com/juricabi/sticktime-pi) - Raspberry Pi 4 FPV drone simulator for analog goggles, composite out into a 5.8 GHz video transmitter, flown with a real RC radio over WiFi, USB or Bluetooth.
 - [Stratux](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
 - [StreamPi](https://stream-pi.com/) - A robust alternative to the Elgato Stream Deck, that can launch apps, scripts, websites and control applications like OBS.
 - [TelePi](https://github.com/besoeasy/telepi) - Telepi allows you to monitor and control your Raspberry Pi via Telegram featuring file downloads, system monitoring, network insights, speed tests, and the ability to open web tunnels.
 - [TeslaCam](https://github.com/LelandSindt/teslacam) - Project utilizing a Raspberry Pi Zero W for USB Mass storage emulation and a PiJuice to collect and archive TeslaCam video. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
-- [Tesserae](https://github.com/dmellok/tesserae) - Self-hosted e-ink dashboard server that composes tile layouts in the browser and pushes rendered frames to Pi, ESP32, jailbroken Kindle, and TRMNL e-ink panels; the server needs a Pi 4 or newer.
+- [Tiny Film Camera](https://github.com/SuveenE/tiny-film-camera) - Open-source digital camera with physical controls, film-inspired looks, a 3D-printed enclosure, and a phone-friendly gallery. Supports Raspberry Pi Zero 2 W.
 - [Ultimate DNS Shield](https://github.com/cherifon/Ultimate-DNS-Shield) - Self-hosted recursive DNS server using Pi-hole, Unbound and Docker on Raspberry Pi 4.
 - [USB Proxy](https://github.com/AristoChen/usb-proxy) - A USB man-in-the-middle project that allow users to monitor and modify USB packets flow between host and device.
 - [Vinyl Shelf Finder](https://valentingalea.github.io/vinyl-shelf-finder/) - Uses a tilt & pan laser to find a record in a record collection.
 - [Voice Kit](https://aiyprojects.withgoogle.com/voice) - AIY Voice Kit from Google, to build a standalone voice recognition system using the Google Assistant, or add voice recognition and natural language processing to your Raspberry Pi-based projects.
+- [VoxRT](https://github.com/VoxRT) - On-device voice AI SDKs for Raspberry Pi, offering wake-word detection, VAD, keyword spotting, and streaming ASR, with a 100 KB wake-word model that runs at 5.3% CPU sustained on a Pi Zero 2 W.
 - [Waves](https://github.com/euniceylee/waves) - Transforming the transience of the spoken word into something concrete and physical through a microphone, waveform and thermal printer.
 - [Whispering Mirror](http://whisperingwallproject.com/whisperingmirror/) - Interactive soundart installation using the Hifiberry DAC.
 - [Wordpress using Docker](https://github.com/rothgar/rpi-wordpress) - Run a Wordpress site in containers with dynamic DNS.
@@ -262,6 +285,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - **AndFTP** - Alternative FTP client app. [Android](https://play.google.com/store/apps/details?id=lysesoft.andftp)
 - **EtchDroid** - Is an open-source application that writes disk images to USB drives. [Android](https://play.google.com/store/apps/details?id=eu.depau.etchdroid)
 - **Kore Remote** - Official remote to control Kodi. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore)
+- **Mobile SSH** - SSH, SFTP, port-forwarding and multi-session terminal client for managing Raspberry Pis. [Android](https://play.google.com/store/apps/details?id=io.github.mobile_ssh), [iOS beta](https://testflight.apple.com/join/Ku4JtTEg).
 - **PiGo** - Effortlessly explore and manage multiple Pi servers on the go. [Android](https://play.google.com/store/apps/details?id=com.tejasgajjar.pigo)
 - **RaspController** - Manage your Raspberry Pi remotely, control the GPIO ports, send commands directly through the terminal, view images from a connected camera and obtain data from different sensors. [Android](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller)
 - **Raspicast** - Cast YouTube videos, media content from your android device, Play local media files, Play streams from playlists (m3u, pls) on your Raspberry Pi. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
@@ -330,8 +354,10 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Raspberry Pi Game Console](https://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192) - How to Build a Raspberry Pi Retro Game Console for $35.
 - [Raspberry Pi login with SSH keys](https://thibmaek.com/posts/raspberry-pi-login-with-ssh-keys) - Password-less login for ssh sessions on the Raspberry Pi.
 - [Raspberry Pi Media Server Guides](http://www.htpcguides.com/category/raspberry-pi/) - Media Server and NAS tutorials from HTPC Guides.
+- [RasRobot 4WD TB6612FNG checklist](https://github.com/willoc2023/rasrobot-tb6612fng-4wd) - Practical Raspberry Pi motor-driver checklist for debugging a 4WD robot with TB6612FNG drivers, common ground, standby pin and step-by-step motor tests.
 - [Turn a Raspberry Pi into a Plex Media Server](https://www.codedonut.com/raspberry-pi/raspberry-pi-plex-media-server/) - Beginners guide to setting up a Plex media server to stream all of your media content.
 - [Turn the Raspberry Pi Zero into a mini dongle computer](https://n-o-d-e.net/pi_zero_dongle.html) - Setup a pi0 to be able to ssh & vnc over USB. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
+- [TutorialSearch](https://tutorialsearch.io/browse/programming-languages/raspberry-pi) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) - Tutorial on using a Raspberry Pi with multiple networks.
 - [Use a Raspberry Pi with Netflix](https://thepi.io/how-to-watch-netflix-on-the-raspberry-pi/) - Tutorial on watching Netflix on a Raspberry Pi.
 - [Using openSUSE's YaST on the Raspberry Pi](https://www.raspberry-pi-geek.com/Archive/2017/22/Using-openSUSE-s-YaST-on-the-Raspberry-Pi).
