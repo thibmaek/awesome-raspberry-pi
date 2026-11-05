@@ -246,6 +246,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [RaspiBolt](https://raspibolt.org/) - Beginner’s Guide to ️⚡Lightning️⚡ on a Raspberry Pi.
 - [Receiving GOES-16 Images on a Raspberry Pi](https://gist.github.com/lxe/c1756ca659c3b78414149a3ea723eae2#file-goes16-rtlsdr-md) - An advanced project to receive weather imagery from the GOES-16 satellite using software defined radio (SDR).
 - [Relayboard Control](https://github.com/leinir/relayboard-control) - A Qt application to connect a Waveshare 8-channel relay board to an MQTT server.
+- [RelayTV](https://github.com/mcgeezy/relaytv) - Turns a Raspberry Pi connected to a TV over HDMI into a local media endpoint with V4L2/HEVC hardware decoding, HDMI-CEC control, a mobile remote for Plex, Jellyfin, Emby and IPTV, and Home Assistant integration. Supports Raspberry Pi 4 and 5.
 - [RGB-LED-Matrix](https://github.com/SimonWaldherr/RGB-LED-Matrix) - A 128x128 Pixel RGB LED Matrix to display images, animations, conways game of life and other stuff.
 - [Rhasspy](https://rhasspy.readthedocs.io) - Open source, fully offline set of voice assistant services that works well with Home Assistant, Node-RED, MQTT and more.
 - [RPi-eth-display](https://pierre-couy.dev/tinkering/2023/03/turning-rpi-into-external-monitor-driver.html) - Open source DisplayLink alternative, ethernet to HDMI adapter.
