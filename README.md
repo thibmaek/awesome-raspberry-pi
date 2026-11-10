@@ -251,6 +251,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [RPi-eth-display](https://pierre-couy.dev/tinkering/2023/03/turning-rpi-into-external-monitor-driver.html) - Open source DisplayLink alternative, ethernet to HDMI adapter.
 - [RPi Motor Library](https://github.com/gavinlyonsrepo/RpiMotorLib) - Python 3 library to connect various motors & servos to the Pi.
 - [RPI tempmon](https://github.com/gavinlyonsrepo/raspberrypi_tempmon) - CPU GPU temperature monitor with various functions such as LED GPIO, Graph output, email, alarm limit, notifications and logging.
+- [RV565](https://github.com/elixpo/rv565) - Video format and player for SPI displays: 24 FPS on a 320x240 ST7789 from a Raspberry Pi Pico 2, with the second core decoding.
 - [Secluso](https://github.com/secluso/core) - A private-by-default Raspberry Pi home security camera that uses end-to-end encryption. Supports Raspberry Pi Zero 2 W. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [SecPi](https://github.com/SecPi/SecPi) - Raspberry Pi based home alarm system.
 - [Skate-o-Meter](http://www.instructables.com/id/Skate-o-Meter/) - Skateboard odometer and speedometer with RFID user system.
