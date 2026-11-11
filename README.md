@@ -311,6 +311,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Raspberry Pi A to Z List](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
 - [Raspberry Pi and why do I need one?](https://www.liquidlight.co.uk/blog/article/raspberry-pi-what-is-it-and-why-do-i-need-one/) - Intro into the Raspberry Pi and what can be done with it.
 - [Raspberry Pi Beginners](https://medium.com/@anshul.ahu/how-to-setup-raspberry-pi-for-beginners-aeedc2cb994a) - Guide to setup the Raspberry Pi for beginners.
+- [TinkerNews Raspberry Pi projects](https://www.tinkernews.com/topics/raspberry-pi) - A curated archive of 100+ Raspberry Pi builds, each summarized and linked to its original source; updated weekly.
 - [The Ultimate Raspberry Pi Security Guide](http://www.nhatqbui.com/assets/TheUltimateRaspberryPiSecurityGuide.pdf) - Extensive guide on security best practices for the Pi ie. exposed to the internet.
 
 
