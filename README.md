@@ -176,6 +176,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Ceil](https://github.com/helmuthva/ceil) - Auto-provisioned RPi cluster running K8S on bare-metal. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [CharlieBoard](https://github.com/tomunderwood99/CharlieBoard) - Open-source transit display using WS2812B LEDs with real-time vehicle tracking, geographically accurate PCB map, and a web control interface. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [Circle](https://github.com/rsta2/circle) - A C++ bare metal environment for Raspberry Pi.
+- [clawtouch-hid](https://github.com/tinqiao-oss/clawtouch-hid) - CircuitPython firmware that turns a Pico 2 into a USB keyboard and mouse driven by a program on another computer over a serial channel, with a frozen wire protocol and a host-side Python module.
 - [Clock/Calendar Retrofit](https://github.com/Pakequis/Clock_PiW) - Retrofits a broken electronic clock/calendar with a Raspberry Pi Pico W, synced over Wi-Fi via NTP.
 - [clockOS](https://github.com/iGerli/clockOS) - simple smart desktop clock using a Raspberry Pi display.
 - [CookCLI](https://github.com/cooklang/CookCLI) - Turn your Raspberry Pi into a self-hosted recipe server. Manage recipes in plain-text Cooklang format with web UI, shopping lists, and meal planning.
