@@ -300,6 +300,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - **Tubio** - Cast web videos directly to Pi. [Android](https://play.google.com/store/apps/details?id=com.aesoftware.tubio)
 - **Turbo FTP** - A good FTP client app for accessing files on raspberry. [Android](https://play.google.com/store/apps/details?id=turbo.client)
 - **VNC Viewer** - To remotely control Raspberry Pi desktop. [Android](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android&hl=en)
+- **Wardterm** - SSH, Mosh and SFTP client with live CPU, memory and disk stats beside the terminal for keeping an eye on your Pis. [Android](https://play.google.com/store/apps/details?id=com.wardterm.android), [iOS](https://apps.apple.com/app/id6831190110)
 
 #### iOS
 
