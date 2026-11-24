@@ -15,7 +15,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 
 - [Models](#models)
 - [OS Images](#os-images)
-- [Tools](#tools)
+- [Tools](#tools)is 
 - [Projects](#projects)
 - [Resources](#resources)
 
@@ -99,6 +99,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Rocket Show](https://rocketshow.net) - Play synced backing tracks, videos and DMX light-sequences live on stage. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [RuneAudio](http://www.runeaudio.com/) - Free and open source OS that turns embedded hardware into Hi-Fi music players.
 - [SamplerBox](http://www.samplerbox.org/makeitsoftware) - Drop'n'play sampler: drop .WAV samples on the SD card, and play!
+- [screenRIG Player](https://screenrig.ai/downloads/raspberry-pi?utm_source=github&utm_medium=community&utm_campaign=am-pi-image) - Free digital signage image for the Pi 4 and 5 that boots straight into a Player your AI agent runs.
 - [Twister OS](https://twisteros.com/) - Skinned version of Raspberry Pi OS with preinstalled apps like box86 and Retropie to introduce noobs to Linux and Raspberry Pi. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [Ubuntu Core](https://ubuntu.com/download/raspberry-pi-core) - Official (minimal) Ubuntu distribution for IoT. Supports Raspberry Pi Zero 2 W. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [Ubuntu Desktop](https://ubuntu.com/raspberry-pi/desktop) - Ubuntu Desktop distribution for the Raspberry Pi. Supports Raspberry Pi 4 and 5.
