@@ -15,7 +15,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 
 - [Models](#models)
 - [OS Images](#os-images)
-- [Tools](#tools)is 
+- [Tools](#tools)
 - [Projects](#projects)
 - [Resources](#resources)
 
